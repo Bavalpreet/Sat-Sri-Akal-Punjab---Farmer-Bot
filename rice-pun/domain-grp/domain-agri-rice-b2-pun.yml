@@ -1,0 +1,48 @@
+version: "3.0"
+
+intents:
+  - faq-agri-rice-b2-pun
+
+responses:
+  utter_faq-agri-rice-b2-pun/information-regarding-sowing-time-of--basmati?:
+  - text: ਬਾਸਮਤੀ ਚੌਲਾਂ ਦੀ ਬਿਜਾਈ ਦਾ ਸਮਾਂ 15-30 ਜੂਨ।
+  utter_faq-agri-rice-b2-pun/sowing-time-of-direct-seedling-of-basmati?:
+  - text: ਝੋਨੇ ਦੀ ਸਿੱਧੀ ਬਿਜਾਈ ਲਈ 1-15 ਜੂਨ ਬਿਜਾਈ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਹੈ।
+  utter_faq-agri-rice-b2-pun/sowing-season-of-paddy?:
+  - text: ਬਾਸਮਤੀ ਦੀ ਬਿਜਾਈ ਦਾ ਸੀਜ਼ਨ ਪਹਿਲੀ ਜੁਲਾਈ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ।
+  utter_faq-agri-rice-b2-pun/information-regarding-time-of-nursery-sowing?:
+  - text: ਬਾਸਮਤੀ ਦੀ ਨਰਸਰੀ ਦੀ ਬਿਜਾਈ 1 ਜੂਨ ਤੋਂ ਸ਼ੁਰੂ ਹੋ ਰਹੀ ਹੈ।
+  utter_faq-agri-rice-b2-pun/information-regarding-for-the-suitable-sowing-time-of-paddy(jhona)-?:
+  - text: ਝੋਨੇ (ਝੋਨਾ) ਦੀ ਬਿਜਾਈ ਦਾ ਢੁਕਵਾਂ ਸਮਾਂ ਹੈ-ਆਮ ਅਤੇ ਹਾਈਬ੍ਰਿਡ ਕਿਸਮਾਂ-15 ਤੋਂ 25 ਮਈ ਅਤੇ ਬਾਸਮਤੀ ਦੀਆਂ ਕਿਸਮਾਂ-ਜੂਨ ਦਾ ਪਹਿਲਾ ਹਫ਼ਤਾ।
+  utter_faq-agri-rice-b2-pun/informtion-regarding-application-of-padan-in-paddy-nursery-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਪਦਾਨ/ਰੀਜੈਂਟ/ਫੇਰਟੇਰਾ ਜਾਂ ਕਿਸੇ ਵੀ ਦਾਣੇਦਾਰ ਕੀਟਨਾਸ਼ਕ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ। ਪਰ ਬਾਸਮਤੀ ਵਿੱਚ ਇਹ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਜੇਕਰ ਤਣੇ ਦੇ ਬੋਰ ਅਤੇ ਪੱਤਾ ਫੋਲਡਰ ਦਾ ਹਮਲਾ ਵਧਣ ਲਈ ਨਾ ਹੋਵੇ।
+  utter_faq-agri-rice-b2-pun/information-regarding-the-detail-of-hybrid-paddy-cultivation-?:
+  - text: ਪੰਜਾਬ ਵਿੱਚ ਹਾਈਬ੍ਰਿਡ ਝੋਨੇ ਦੀ ਕਾਸ਼ਤ 'ਤੇ ਪੰਜਾਬ ਸਰਕਾਰ ਵੱਲੋਂ ਮਨਾਹੀ ਹੈ ਕਿਉਂਕਿ ਇਸ ਵਿੱਚ ਟੁੱਟੇ ਹੋਏ ਦਾਣਿਆਂ ਦੀ ਬਹੁਤ ਜ਼ਿਆਦਾ ਪ੍ਰਤੀਸ਼ਤਤਾ ਹੁੰਦੀ ਹੈ ਜੋ ਗੁਣਵੱਤਾ ਦੇ ਮਾਪ ਕਾਰਨ ਮੰਡੀਕਰਨ ਵਿੱਚ ਸਮੱਸਿਆ ਪੈਦਾ ਕਰਦੀ ਹੈ।
+  utter_faq-agri-rice-b2-pun/information-regarding-seed-treatment-of-basmati-seedlings?:
+  - text: ਬੀਜ ਨੂੰ 10 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 1 ਗ੍ਰਾਮ ਸਟੈਪਟੋਸਾਈਕਲੀਨ ਨਾਲ 20 ਗ੍ਰਾਮ ਬਾਵੇਸਟੀਨ ਮਿਲਾ ਕੇ ਸੋਧਿਆ ਜਾਂਦਾ ਹੈ।
+  utter_faq-agri-rice-b2-pun/information-regarding-for-the-seed-treatment-of-paddy(jhona)?:
+  - text: ਚੁਣੇ ਹੋਏ ਬੀਜ ਨੂੰ 10 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 20 ਗ੍ਰਾਮ ਬਾਵਿਸਟਿਨ ਅਤੇ 1 ਗ੍ਰਾਮ ਸਟ੍ਰੈਪਟੋਸਾਈਕਲੀਨ ਵਿੱਚ ਭਿਓ ਦਿਓ।
+  utter_faq-agri-rice-b2-pun/information-regarding-planting-time-of-basmati-crop?:
+  - text: ਬਾਸਮਤੀ ਦੀ ਬਿਜਾਈ ਦਾ ਸਮਾਂ:-10 ਜੁਲਾਈ।
+  utter_faq-agri-rice-b2-pun/information-regarding-plantation-of-basmati-rice?:
+  - text: ਜੂਨ ਦੇ ਅੱਧ
+  utter_faq-agri-rice-b2-pun/information-regarding-the-sowing-time-of-basmati-rice-in-punjab.?:
+  - text: ਪੰਜਾਬ ਵਿੱਚ ਝੋਨੇ ਦੀ ਬਿਜਾਈ ਦਾ ਸਮਾਂ 1 ਜੂਨ ਤੋਂ ਸ਼ੁਰੂ ਹੋ ਰਿਹਾ ਹੈ।
+  utter_faq-agri-rice-b2-pun/number-of-basmati-rice-plant-require-in-one-one-square-meter?:
+  - text: ਇੱਕ ਵਰਗ ਮੀਟਰ ਲਈ 66 ਪੌਦੇ ਚਾਹੀਦੇ ਹਨ।
+  utter_faq-agri-rice-b2-pun/information-regarding-moisture-content-of-paddy:
+  - text: ਮੰਡੀ ਵਿੱਚ ਵੇਚਣ ਲਈ ਝੋਨੇ ਵਿੱਚ ਨਮੀ ਦੀ ਮਾਤਰਾ 14% ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ
+  utter_faq-agri-rice-b2-pun/information-regarding-for-the-control-of-weeds-in-basmati-rice(jhona)-crop?:
+  - text: ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਵਿੱਚ ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਬਿਜਾਈ ਤੋਂ 15-25 ਦਿਨਾਂ ਬਾਅਦ 120 ਮਿਲੀਲਿਟਰ ਨੋਮੀਨੀਨ ਗੋਲਡ ਪ੍ਰਤੀ ਏਕੜ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b2-pun/information-regarding-when-to-use-weedcide-just-after-transplantation-?:
+  - text: ਟਰਾਂਸਪਲਾਂਟ ਕਰਨ ਦੇ 3 ਦਿਨਾਂ ਬਾਅਦ ਖੜ੍ਹੇ ਪਾਣੀ ਵਿੱਚ 60 ਕਿਲੋਗ੍ਰਾਮ ਰੇਤ ਦੇ ਨਾਲ 600 ਮਿਲੀਲਿਟਰ ਰਿਫਿਟ ਦਾ ਪ੍ਰਸਾਰਣ ਕਰੋ।
+  utter_faq-agri-rice-b2-pun/information-regarding-control-of-weeds-in-rice-?:
+  - text: ਪੈਡੀ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ ਗੋਲਡ/ਮਾਚੋ (ਬਿਸਪਾਈਰੀਬੈਕ-ਸੋਡੀਅਮ 10% ਐਸ.ਸੀ.) 100 ਮਿ.ਲੀ. ਨੂੰ 150 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ (0.66 ਮਿਲੀਲੀਟਰ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ) ਦੀ ਸਪਰੇਅ ਕਰੋ ਅਤੇ ਸਪਰੇਅ ਤੋਂ ਇੱਕ ਦਿਨ ਬਾਅਦ ਸਿੰਚਾਈ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।
+  utter_faq-agri-rice-b2-pun/tell-me-how-to-control-weed-in-blank-field:
+  - text: ਗਲਾਈਫੋਸੇਟ 4 LTR/HEC ਦਾ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-agri-rice-b2-pun/information-regarding-spacing-in-direct-seeded-basmati-rice?:
+  - text: ਸਿੱਧੇ ਬੀਜ ਵਾਲੇ ਚੌਲਾਂ ਦੀ ਕਤਾਰ ਤੋਂ ਕਤਾਰ ਵਿੱਚ ਵਿੱਥ 20 ਸੈਂਟੀਮੀਟਰ ਅਤੇ ਡੂੰਘਾਈ 2-3 ਸੈਂਟੀਮੀਟਰ ਹੈ।
+  utter_faq-agri-rice-b2-pun/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-basmati-rice-?:
+  - text: ਵਾਟਰ ਸਪ੍ਰੇਅਰ ਟੈਂਕ ਨਾਲ ਬੂਟਿਆਂ ਨੂੰ ਡੁਬੋ ਦਿਓ
+  utter_faq-agri-rice-b2-pun/information-regarding-application-of--pre-emergence-weedicide?:
+  - text: ਬਿਮਾਰੀ ਜਾਂ ਪੌਸ਼ਟਿਕ ਤੱਤਾਂ ਦੀ ਘਾਟ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਸਹੀ ਸਰਵੇਖਣ ਕਰੋ ਜਾਂ ਨੇੜੇ ਦੇ ਖੇਤੀਬਾੜੀ ਦਫ਼ਤਰ ਵਿੱਚ ਜਾਓ।

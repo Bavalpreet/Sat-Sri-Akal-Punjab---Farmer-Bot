@@ -1,0 +1,46 @@
+version: "3.0"
+
+intents:
+  - faq-agri-rice-b1-pun
+
+responses:
+  utter_faq-agri-rice-b1-pun/information-regarding-the-role-of-regent-in-paddy?:
+  - text: ਇਹ ਇੱਕ ਕੀਟਨਾਸ਼ਕ ਹੈ ਜੋ ਪੌਦਿਆਂ ਦੇ ਵਿਕਾਸ ਨੂੰ ਉਤਸ਼ਾਹਿਤ ਨਹੀਂ ਕਰਦਾ ਹੈ
+  utter_faq-agri-rice-b1-pun/information-regarding-dose-of-fertilizers-in-rice-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਖਾਦ ਦੀ ਕੁੱਲ ਖੁਰਾਕ:- 90 ਕਿਲੋਗ੍ਰਾਮ। ਯੂਰੀਆ, 27 ਕਿਲੋ. ਡੀਏਪੀ ਜਾਂ 75 ਕਿਲੋ ਸੁਪਰਫਾਸਫੇਟ ਜਾਂ ਅਤੇ 20 ਕਿਲੋਗ੍ਰਾਮ। ਪੋਟਾਸ਼ ਪ੍ਰਤੀ ਏਕੜ। ਜੇਕਰ ਫਾਸਫੋਰਸ ਦੀ ਸਿਫਾਰਿਸ਼ ਕੀਤੀ ਖੁਰਾਕ ਕਣਕ ਦੀ ਪਿਛਲੀ ਫਸਲ 'ਤੇ ਦਿੱਤੀ ਗਈ ਸੀ ਤਾਂ ਫਾਸਫੋਰਸ ਦੀ ਵਰਤੋਂ ਛੱਡ ਦਿਓ ਅਤੇ ਮਿੱਟੀ ਪਰਖ ਦੇ ਆਧਾਰ 'ਤੇ ਮਿਊਰੇਟ ਆਫ ਪੋਟਾਸ਼ ਪਾਓ। ਛੱਪੜ ਦੇ ਸਮੇਂ ਡੀਏਪੀ ਜਾਂ ਸੁਪਰ ਅਤੇ ਪੋਟਾਸ਼ ਪਾਓ, ਟਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਬਾਅਦ ਪਹਿਲੇ, ਤੀਜੇ ਅਤੇ ਛੇਵੇਂ ਹਫ਼ਤੇ ਯੂਰੀਆ ਪਾਓ।
+  utter_faq-agri-rice-b1-pun/information-regarding-time-or-date-of-transplanting-of-rice?:
+  - text: ਚੌਲਾਂ ਦੀ ਬਿਜਾਈ ਦਾ ਸਮਾਂ 15 ਜੂਨ ਤੋਂ ਬਾਅਦ।
+  utter_faq-agri-rice-b1-pun/fertilizer-dose-in-rice-after-sowing?:
+  - text: 26 ਕਿਲੋ ਯੂਰੀਆ 15 ਦਿਨਾਂ ਬਾਅਦ ਅਤੇ ਫਿਰ ਚਾਰ ਹਫ਼ਤੇ ਬਾਅਦ ਪਾਓ
+  utter_faq-agri-rice-b1-pun/information-regarding-mycorrhiza-apply-in-paddy-field?:
+  - text: ਇੱਕ ਏਕੜ ਵਿੱਚ ਮਾਈਕੋਰੀਹਜ਼ਾ 3 ਕਿਲੋ ਪ੍ਰਸਾਰਿਤ ਕਰੋ
+  utter_faq-agri-rice-b1-pun/information-regarding-control-of-termite-in-basmati-rice-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਦੀਮਕ ਦੀ ਰੋਕਥਾਮ ਲਈ ਕਲੋਰਪਾਈਰੀਫਾਸ 20 ਈਸੀ @ 1 ਲੀਟਰ ਨੂੰ 25 ਤੋਂ 30 ਕਿਲੋ ਰੇਤ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ ਮਿਲਾ ਕੇ ਪਾਓ।
+  utter_faq-agri-rice-b1-pun/information-regarding-plant-growth-regulator-in-basmati-rice-?:
+  - text: ਪਨੀਰੀ ਦੇ ਪੜਾਅ 'ਤੇ ਝੋਨੇ ਵਿੱਚ ਵਰਤੇ ਗਏ ਵਾਧੇ ਰੈਗੂਲੇਟਰ ਦੀ ਵਰਤੋਂ NPK 13:0:45 1kg 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਕਰੋ।
+  utter_faq-agri-rice-b1-pun/information-regarding-dose-of-poultary-yard-manure-in-basmati-rice--?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਪੋਲਟਰੀ ਯਾਰਡ ਖਾਦ ਦੀ ਖੁਰਾਕ 2.5 ਟਨ ਪ੍ਰਤੀ ਏਕੜ ਹੈ।ਇਸ ਨਾਲ 55 ਕਿਲੋ ਯੂਰੀਆ ਪ੍ਰਤੀ ਏਕੜ ਬਚਦਾ ਹੈ।
+  utter_faq-agri-rice-b1-pun/information-regarding-problem-of-water-stagnating-in-basmati-rice-crop-?:
+  - text: ਕਿਸੇ ਉਪਾਅ ਦੀ ਕੋਈ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ। ਖੇਤ ਵਿੱਚੋਂ ਪਾਣੀ ਕੱਢ ਦਿਓ
+  utter_faq-agri-rice-b1-pun/information-regarding-control-of-pest-in--paddy-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਕੀੜਿਆਂ ਦੀ ਰੋਕਥਾਮ ਲਈ 1 ਲੀਟਰ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 ਈਸੀ ਨੂੰ 15-20 ਕਿਲੋ ਰੇਤ ਵਿੱਚ ਮਿਲਾ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b1-pun/information-regarding-control-of-hispa-in-basmati-rice-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਹਿਸਪਾ ਦੀ ਰੋਕਥਾਮ ਲਈ 1 ਲਿਟਰ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 ਈਸੀ ਜਾਂ 800 ਮਿਲੀਲਿਟਰ ਏਕਲੌਕਸ ਨੂੰ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b1-pun/information-regarding-drainage-problem-in-paddy-feild?:
+  - text: ਪ੍ਰਸਾਰਿਤ ਗੰਧਕ 80% 4 ਕਿਲੋ ਪ੍ਰਤੀ ਏਕੜ ਰੇਤ ਦੇ ਨਾਲ ਮਿਕਸ ਕਰੋ
+  utter_faq-agri-rice-b1-pun/information-regading-control-of-rats-in-paddy-feild-?:
+  - text: 1 ਕਿਲੋ ਕਣਕ ਜਾਂ ਬਾਜਰਾ , 20 ਗ੍ਰਾਮ ਬਾਸਮਤੀ ਦਾ ਤੇਲ , 20 ਗ੍ਰਾਮ ਪਾਊਡਰ ਚੀਨੀ , 25 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਫਾਸਫਾਈਡ ਲੈ ਕੇ ਇਨ੍ਹਾਂ ਸਾਰਿਆਂ ਨੂੰ ਮਿਲਾ ਕੇ 10 ਗ੍ਰਾਮ ਦੀਆਂ 100 ਗੇਂਦਾਂ ਬਣਾ ਲਓ .ਪ੍ਰਸਾਰਿਤ 40 ਗੇਂਦਾਂ ਪ੍ਰਤੀ ਏਕੜ ਕਰੋ .
+  utter_faq-agri-rice-b1-pun/information-regarding-blue-green-algae-in-paddy?:
+  - text: ਨੀਲੀ-ਹਰਾ ਐਲਗੀ ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਲਈ ਵਧੀਆ ਹੈ, ਇਹ ਖੇਤ ਵਿੱਚ ਨਾਈਟ੍ਰੋਜਨ ਨੂੰ ਠੀਕ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ।
+  utter_faq-agri-rice-b1-pun/information-regarding-dificency-of-npk-in-paddy?:
+  - text: NPK 19:19:19 @ 1 ਕਿਲੋ 100 ਲੀਟਰ/ਏਕੜ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-rice-b1-pun/information-regarding--application-of-water-after-broadcasting-urea-in-field-?:
+  - text: ਖੇਤ ਵਿੱਚੋਂ ਪਾਣੀ ਕੱਢੋ ਅਤੇ ਯੂਰੀਆ ਪਾਓ ਫਿਰ ਅਗਲੇ ਦਿਨ ਸਿੰਚਾਈ ਦਿੱਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ।
+  utter_faq-agri-rice-b1-pun/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result?:
+  - text: ਵਧੀਆ ਨਤੀਜੇ ਲਈ ਯੂਰੀਆ ਦੀ ਸਪਰੇਅ ਅਤੇ ਬਾਰਿਸ਼ ਵਿਚਕਾਰ 12 ਘੰਟੇ ਦਾ ਅੰਤਰ ਹੈ।
+  utter_faq-agri-rice-b1-pun/information-regarding-urea-dose-in-paddy-seedlings?:
+  - text: 1 ਕਿਲੋ ਯੂਰੀਆ ਮਿਕਸ ਰੇਤ/ਏਕੜ ਪ੍ਰਸਾਰਿਤ ਕਰੋ
+  utter_faq-agri-rice-b1-pun/rice-leaves-turn-into-the-white-colour?:
+  - text: ਇੱਕ ਏਕੜ ਵਿੱਚ 1 ਕਿਲੋ ਫੈਰਸ ਸਲਫੇਟ ਪਾਓ।
+  utter_faq-agri-rice-b1-pun/information-regarding-broadcast-dap-in-paddy-?:
+  - text: ਫਾਸਫੋਰਸ ਦੀ ਘਾਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਵਿੱਚ 1.5 ਕਿਲੋ ਡੀਏਪੀ ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।

@@ -1,0 +1,163 @@
+version: "3.0"
+
+intents:
+  - faq-agri-wheat-b0
+
+responses:
+  utter_faq-agri-wheat-b0/control-of-weeds-in-wheat:
+  - text: For control of weeds in wheat is by spraying 16 gram total(Sulfosulfuron + Metsulfuron Methyl) or 160 gram (Mesosulfuron + Iodosulfuron) in 100 to 200 litre water per acre.
+  utter_faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop:
+  - text: For control of root weevil in wheat is by adding 1 litre of Thiodan 35 EC @ in 2 litre of water and mix 20 kilogram of soil and Broadcast in per acre.
+  utter_faq-agri-wheat-b0/control-of-manganese-defy-in-wheat:
+  - text: For control of manganese deficiency in wheat is by spraying of manganese 1 kilogram per acre mix in 100 litre water.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat:
+  - text: For control of Aphid in wheat is by spraying 20 gram Actara 25WG(thiamethoxam) in 80-100 litre of water per acre. #2019
+  utter_faq-agri-wheat-b0/control-of-yellow-rust-in-wheat:
+  - text: For control of Yellow Rust in wheat is by spraying Tilt 25EC(propiconazole) 200 mililitre or Nativo 75WG (trifloxystrobin + tebuconazole) 120 gram in 200 litre per acre.  #2019
+# updated response on 21 Feb
+  utter_faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop:
+  - text: To control wheat stem borer in wheat is by broadacasting the Fipronil 0.3% GR @ 8 kilogram/acre at every 20 days interval after germination.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-termite:
+  - text: For control of termite in wheat is by broadcasting 1 litre Chloropyriphos 20 EC mix with sand.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-army-worm-in-wheat-crop:
+  - text: For control of army worm in wheat is by spraying Ekalux 25 EC(quinalphos) @ 400 mililitre in 100 litre of water per acre. #2019
+#  Answer Updated on 21Feb
+  utter_faq-agri-wheat-b0/information-regarding-brown-leaf-in-wheat-crop:
+  - text: For control of kernel smut in wheat is by spraying the crop with nativo 75 WG (trifloxystrobin + tebuconazole) @ 120 gram or Tilt 25 EC/ shine 25EC/ Bumper 25EC/ Stilt 25 EC/ Compass 25EC/ Markzole 25 EC(propiconazole) @ 200 mililitre in 200 litre of water/acre as soon as the disease is noticed.
+  utter_faq-agri-wheat-b0/control-of-kernel-smut-in-wheat-crop:
+  - text: For control of kernel smut in wheat is by spraying Tilt @ 200 mililitre in 100 litre of water per acre.  #2011
+  utter_faq-agri-wheat-b0/control-of-black-hopper-in-crop:
+  - text: For control of black hopper in wheat by spraying Monocil @ 10 gram in 100 litre of water per acre.
+# Answer Updated on 21 Feb
+  utter_faq-agri-wheat-b0/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat:
+  - text: For control of flag smut or leaf smut in wheat is by treating 40 kilogram seed with 13 mililitre Raxil easy/ orius 6 FS by dissolving in 400 mililitre water or 120 gram vitavax power 75 WS or 80 kilogram vitavax 75 WP or 40 gram seedex 2 DS/Exzole 2 DS per 40 kilogram seed.
+  utter_faq-agri-wheat-b0/how-to-control-of-powdery-mildew-in-wheat-crop:
+  - text: For control of Powdery Mildew in wheat is by spraying Tilt 25EC(propiconazole) 200 mililitre or Nativo 75WG (trifloxystrobin + tebuconazole) 120 gram or Karathane 40EC (dinocap) in 200 litre per acre. #2019
+  utter_faq-agri-wheat-b0/information-regarding-control-of-tella-in-wheat:
+  - text: For control of tella in wheat is by spraying Monocrotophas @ 200 mililitre in 100 litre water/acre. #2011
+  utter_faq-agri-wheat-b0/nformation-regarding-control-of-karnal-bunt-in-wheat:
+  - text: For control of Karnal bunt in wheat is by spraying 200 mililitre Tilt/Bumper (Propiconazole 25 EC) or 200 mililitre Folicur/Orius 25 EC (Tebuconazole) in 200 litre of water per acre at ear emergence stage of crop. #2019
+# Answer updated on 21 Feb
+  utter_faq-agri-wheat-b0/control-of-cutworm-in-wheat:
+  - text: For control of cutworm in wheat is by treating soil with chlorpyrifos e.g. Dursban 10% G @ 20 kilogram/hectare before planting.
+  utter_faq-agri-wheat-b0/control-of-green-hopper-in-wheat-crop:
+  - text: For control of green hopper in wheat is by spraying rogor @ 200 mililitre in 100 litre of water per acre. # 2011
+  utter_faq-agri-wheat-b0/control-of-rats-in-wheat-field:
+  - text: For control of rats in wheat is by applying to zinc phosphate @ 25 gram in 1 kilogram wheat of aata + 100 gram mustard oil. #2015
+  utter_faq-agri-wheat-b0/control-of-leaf-folder-in-wheat-crop:
+  - text: For control of leaf folder in wheat is by spraying confidor 100 mililitre in 100 litre of water/acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-control-of-leaf-curl-in-wheat:
+  - text: For control of leaf curl in wheat is by spraying actara 70 gram in 100 litre of water/acre #2014
+# Answer Updated 21 Feb
+  utter_faq-agri-wheat-b0/information-regarding-root-rot-of-wheat:
+  - text: For control of root rot in wheat is by spraying Maxim 4 FS at 0.08 to 0.16 fl oz/100 lb seed plus a dye will help with seedling blight.
+# Answer Updated 21 Feb
+  utter_faq-agri-wheat-b0/information-regarding-control-of-black-rust-in-wheat:
+  - text: For control of black rust in wheat is by spraying Zineb or Mencozeb 75 WP. 
+  utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-heavy-irrigation:
+  - text: For control of yellowing of leaves due to heavy irrigation is by spraying Urea 3 kilogram in 100 litre water per acre. #2019
+  utter_faq-agri-wheat-b0/information-regarding-for-the-yellowing-of-new-leaves:
+  - text: For control of yellowing of new leaves in wheat is by applying 50 to 100 kilogram zypsum/acre. #2015
+  utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-in-urea-deficiency:
+  - text: For control of yellowing of leaves due to urea deficiency in wheat is by applying Urea 2 kilogram in 100 litre water spray on evening time #2019
+  utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-rainfall:
+  - text: For control of yellowing of leaves due to rainfall in wheat is by spraying 3 kilogram Urea in 100 litre water per acre. #2019
+#--------------------- Jan 10 2022--------------------------
+  utter_faq-agri-wheat-b0/information-regarding-control-of-rodent-in-wheat:
+  - text: For control of rodents in wheat is by making mixture of 1 kilogram wheat flour , 20 mililitre vegetable oil , 20 gram sugar and 25 gram zinc phosphide then place near holes in fields. #2019
+# Answer Updated on 21 Feb
+  utter_faq-agri-wheat-b0/information-regarding-the-control-of-pink-stem-borer-in-wheat:
+  - text: For control of pink stem borer in wheat is by spraying Foliar spray of coragen 18.5 SC (chloran traniliprole) @ 50 mililitre in 80-100 litre of water per acre may be applied.
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-top-borer:
+  - text: For control of top borer in wheat is by applying akalux 2 mililitre per litre water.
+# Answer updated on 21 Feb
+  utter_faq-agri-wheat-b0/information-regarding-control-of-loose-smut-in-wheat-crop:
+  - text: For control of loose smut in wheat is by treating 40 kilogram seed with 13 mililitre Raxil Easy/Orius 6 FS by dissolving in 400 mililitre water or 120 gram vitavax powder 75 WS or 80 gram vitavax 75 WP or 40 gram seedex @ DS/ Exzole 2 DS or 80 mililitre of Neonix 20 FS per40 kilogram seed.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-caterpillar-in-wheat-crop:
+  - text: For control of caterpiller in wheat is by spraying Ekalux 25EC(quinalphos) @ 400 mililitre in 100 litre of water per acre. #2019
+  utter_faq-agri-wheat-b0/how-to-control-pink-caterpillar-in-wheat-crop:
+  - text: For control of pink caterpillar in wheat is by spraying quinolophos 25ec @ 800 mililitre in 100 litre per acre. #2012
+  utter_faq-agri-wheat-b0/information-regarding-control-of-gram-caterpillar-in-wheat-crop:
+  - text: For control of gram caterpillar in wheat is by spraying 800 mililitre Ekalux 25EC in 100 litre of water per acre. #2015
+  utter_faq-agri-wheat-b0/information-regarding-control-of-leaf-cutting-caterpillar-in-wheat-crop:
+  - text: For control of leaf cutting caterpillar in wheat is by spraying 300 mililitre Chlorpyriphos 20EC in 100 litre water/acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-control-of-root-caterpillar-in-wheat-crop:
+  - text: For control of root caterpillar in wheat is by broadcasting of chloropyriphos @ 1.5 litre in 15 kilogram dry sand/acre. #2015
+  utter_faq-agri-wheat-b0/information-regarding-control-of-american-caterpillar-in-wheat-crop:
+  - text: No-Answer for control of american caterpillar in wheat.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-hairy-caterpillar-in-wheat-crop:
+  - text: For control of hairy caterpillar in wheat is by sprayinng 800 mililitre Ekalux per acre. #2015
+  utter_faq-agri-wheat-b0/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop:
+  - text: For control of gram pod borer in wheat crop is by spraying 800 mililitre Ekalux in 100 litre of water per acre. #2018
+  utter_faq-agri-wheat-b0/information-regarding-dose-of-npk:
+  - text: Dose for npk 19:19 :19 in wheat is 1 kilogram in 100 litre water. #2019
+  utter_faq-agri-wheat-b0/information-regarding-control-of-fungus-in-wheat:
+  - text: For control of fungus in wheat is by applying 500 gram saafilizer with 15 kilogram urea can be broadcasted. #2019
+# Answer Updated on 21 Feb
+  utter_faq-agri-wheat-b0/information-regarding-the-control-of-jassid-in-wheat:
+  - text: For control of jassid in wheat is by spraying of Carbaryl (Sevin 50 w.p.) @ 2.5 kilogram/hectare dissolved in 600-800 litre of water. 
+  utter_faq-agri-wheat-b0/information-regarding-spray-for-plant-hopper:
+  - text: For control of plant hopper in wheat is by spraying Ekalux 0.5 litre in 150 litre of water per acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-pest-control-in-wheat-crop:
+  - text: For control of pest in wheat crop is by spraying of chloropyriphos @ 400 mililitre in 100 litre of water/acre . #2016
+  utter_faq-agri-wheat-b0/information-regarding-control-of-thirips-in-wheat-crop:
+  - text: For control of thrips in wheat is by spraying Confidor @ 80 to 100 mililitre or Ektara @ 80 to 100 gram in 150 litre of water/acre. #2015
+  utter_faq-agri-wheat-b0/information-regarding-the-control-of-head-blight-in-wheat-crop:
+  - text: For control of head blight in wheat is by spraying Blitox @ 500 gram mix in 200 litres of water / acre. #2016
+  utter_faq-agri-wheat-b0/information-regarding-control-of-telachepa-in-wheat-crop:
+  - text: For control of telachepa in wheat is by spraying rogor @ 250 gram in 100 litre of water per acre. #2011
+  utter_faq-agri-wheat-b0/information-regarding-red-beetle-in-wheat-crop:
+  - text: For control of red beetle in wheat is by spraying 75 to 150 gram of Sevin/Hexavin 50 WP (carbaryl) in 50-100 litre of water for growth. Spray npk 13:00:45 1 kilogram /acre #2019
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-shoot-borer-in-wheat-crop:
+  - text: For control of shoot borer in wheat is by appring 5 kilogram Regent or Padan mix with sandy soil or Urea/acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-white-grub-in-wheat-crop:
+  - text: For control of white grub in wheat is by drenching of Chloropyriphos 40 mililitre per 15 litre of water. #2019
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-molya-disease-in-wheat-crop:
+  - text: For control of molya disease in wheat is by spraying furadan 3 gram @ 13 kilogram/acre. #2015
+  utter_faq-agri-wheat-b0/information-regarding-nematode-in-wheat-crop:
+  - text: For control of nematode in wheat is by applying furadan 3 gram 13 kilogram/acre and apply in soil sowing time chlorpyrifos 1.25 litre directly apply in soil. #2019
+  utter_faq-agri-wheat-b0/information-regarding-about-ballworm-in-wheat-crop:
+  - text: For control of bollworm in wheat is by spraying ekalux 400 gram with 200 litre water/acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-sundi-in-wheat-crop:
+  - text: For control of sundi in wheat is by applying Ekalux 25EC 800 mililitre 100 litre of water per acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-amrican-sundi-in-wheat-crop:
+  - text: For control of amrican sundi in wheat is by spraying monocil @ 400 mililiter in 100 litre of water/acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-gob-wali-sundi-in-wheat-crop:
+  - text: For control of gobh wali sundi in wheat is by spraying monocrotophos 560 mililitre per acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-green-sundi-in-wheat: 
+  - text: For control of green sundi in wheat is by spraying quinalphorse 400 mililitre in 200 litre water per acre.
+  utter_faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop:
+  - text: For deficiency of potash in wheat is by spraying NPK 19:19:19 1 kilogram in 100 litre water per acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-black-mosquito-in-wheat-crop:
+  - text: For control of black mosquito in wheat is by spraying 150 mililitre Rogor or Metasystox in 80-100 litre of water per acre. #2015
+  utter_faq-agri-wheat-b0/information-regarding-ddvp-remedy-spray-in-wheat-crop:
+  - text: No recommendation from PAU for ddvp spray in wheat. #2019
+  utter_faq-agri-wheat-b0/information-regarding-for-the-white-leaves-in-wheat-crop:
+  - text: For control of white leaves in wheat is by spraying 1 kilogram ferrous sulphate in 100 litre of water/acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-the-control-of-hill-bunt-in-wheat-crop:
+  - text: For control of hill bunt in wheat is by spraying Tilt @ 200 mililitre mix with 200 litre of water per acre. #2016
+  utter_faq-agri-wheat-b0/information-regarding-the-overdose-of-fertilizer-spray:
+  - text: For overdose of fertilizer spray please apply light irrigation to improve the condition of crop from negative effects of fertilizer(DAP) spray. #2019
+  utter_faq-agri-wheat-b0/information-regarding-use-of-confidor-in-wheat-crop:
+  - text: For control of Aphid in wheat is by spraying 20 gram Actara 25WG(thiamethoxam) in 80-100 litre of water per acre. #2019
+  utter_faq-agri-wheat-b0/information-regarding-control-of-shootfly-in-wheat-crop:
+  - text: For control of shootfly in wheat is by spraying Eklalakh @ 800 mililitre in 120 litre of water per acre. #2017
+  utter_aq-agri-wheat-b0/information-regarding-food-gemination-in-wheat-crop:
+  - text: For food germinationn pin wheat is by broadcasting 15 kilogram/acre seed of PBW 550 after treating with Raxil. #2014
+  utter_faq-agri-wheat-b0/information-regarding-trichoderma-in-wheat-crop:
+  - text: For control of trichoderma in wheat is by spraying 2 gram in 1 litre water and it should be maintain in the field for 6 months in the cooler region. #2018
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-hardiness-of-soil:
+  - text: For control of hardiness of soil is by applying sulphur @ 3 kilogram/acre. #2014
+  utter_faq-agri-wheat-b0/information-regarding-control-of-grasshopper-in-wheat-crop:
+  - text: No-Answer for control of grasshopper in wheat.
+  utter_faq-agri-wheat-b0/information-regarding-atlantis-spray-in-wheat-crop:
+  - text: Dose of atlantis is 160 gram in 100 litre of water/acre. #2013
+  utter_faq-agri-wheat-b0/protection-against-larvae-in-wheat:
+  - text: For protection against larvae we can apply ekalux 800 mililitre in 100 litre of water per acre. #2014
+
+forms: {}
+e2e_actions: []
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

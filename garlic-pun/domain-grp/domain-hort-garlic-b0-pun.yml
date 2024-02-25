@@ -1,0 +1,70 @@
+version: "3.0"
+
+intents:
+  - faq-hort-garlic-b0-pun
+
+responses:
+  utter_faq-hort-garlic-b0-pun/information-regarding-sowing-time-of-garlic?:
+  - text: ਲਸਣ ਦੀ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਸਤੰਬਰ ਦੇ ਆਖਰੀ ਹਫ਼ਤੇ ਤੋਂ ਅਕਤੂਬਰ ਦੇ ਪਹਿਲੇ ਹਫ਼ਤੇ ਤੱਕ ਹੁੰਦਾ ਹੈ।
+  utter_faq-hort-garlic-b0-pun/regarding-weed-control-in-garlic:
+  - text: ਹੱਥਾਂ ਦੀ ਕੁੰਡੀ ਲਸਣ ਵਿੱਚ ਨਦੀਨਾਂ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ। ਲਸਣ ਦੇ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਬਿਜਾਈ ਤੋਂ ਬਾਅਦ 25 ਕੁਇੰਟਲ ਪ੍ਰਤੀ ਏਕੜ ਝੋਨੇ ਦੀ ਪਰਾਲੀ ਨੂੰ ਪਾ ਕੇ ਵੀ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।
+  utter_faq-hort-garlic-b0-pun/dose-of-urea-in-garlic:
+  - text: ਲਸਣ ਵਿੱਚ ਯੂਰੀਆ ਦੀ ਕੁੱਲ ਖੁਰਾਕ 110 ਕਿਲੋ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਪਹਿਲਾਂ ਇੱਕ ਮਹੀਨੇ ਬਾਅਦ, ਫਿਰ 45 ਦਿਨਾਂ ਬਾਅਦ ਅਤੇ 60 ਦਿਨਾਂ ਬਾਅਦ ਤੀਜੀ ਖੁਰਾਕ ਵਿੱਚ ਦਿਓ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-how-to-control-fungal-disease-in-garlic?:
+  - text: ਲਸਣ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਉੱਲੀ ਰੋਗ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, 150 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 500 ਗ੍ਰਾਮ ਐਮ-45 ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-storage-of-garlic?:
+  - text: ਪੁੱਟਣ ਤੋਂ ਬਾਅਦ ਲਸਣ ਨੂੰ ਸਿੱਧੀ ਧੁੱਪ ਵਿੱਚ ਨਾ ਰੱਖੋ।
+  utter_faq-hort-garlic-b0-pun/pre-emergence-weedicide-in-garlic?:
+  - text: ਸਪਰੇਅ ਗੋਲ (ਆਕਸੀਫਲੂਓਰਫੇਨ) 425 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ
+  utter_faq-hort-garlic-b0-pun/regarding-maggots-in-garlic:
+  - text: ਥੀਮੈਟ 4 ਕਿਲੋਗ੍ਰਾਮ/ਏਕੜ ਮਿਕਸ ਮਿੱਟੀ ਵਿੱਚ ਪਾਓ
+  utter_faq-hort-garlic-b0-pun/regarding-yellowing-of-leaves-of-garlic:
+  - text: ਯੂਰੀਆ ਦੀ ਪੂਰੀ ਖੁਰਾਕ ਅਤੇ ਐਮ 45 600 ਗ੍ਰਾਮ ਨੂੰ 220 ਟ੍ਰਾਈਟੋਨ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-burning-of-tips-in-garlic?:
+  - text: 500 ਗ੍ਰਾਮ ਬਲੂ ਕਾਪਰ +1 ਟਿੱਕਾ ਸਟ੍ਰੈਪਟੋਸਾਈਕਲੀਨ ਨੂੰ 150 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-how-to-control-jassids-in-garlic?:
+  - text: ਸਪਰੇਅ 100 ਮਿ.ਲੀ. Confidor 17.8% ਵਿੱਚ 120 lt. ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-how-to-improve-growth-in-garlic?:
+  - text: ਸਪਰੇਅ 1 ਕਿਲੋਗ੍ਰਾਮ। NPK 00:52:34 IN 100 LT. ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-total-fertilizer-dose-in-garlic:
+  - text: ਲਸਣ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਕੁੱਲ ਖਾਦਾਂ ਦੀ ਖੁਰਾਕ:- 110 ਕਿਲੋ ਯੂਰੀਆ + 155 ਕਿਲੋ ਐਸਐਸਪੀ/ਏਕੜ।
+  utter_faq-hort-garlic-b0-pun/row-spacing-in-garlic?:
+  - text: ਲਸਣ ਵਿੱਚ ਕਤਾਰਾਂ ਦੀ ਦੂਰੀ 15 ਸੈਂਟੀਮੀਟਰ ਹੈ
+  utter_faq-hort-garlic-b0-pun/maturity-time-of-garlic?:
+  - text: ਚਿੱਟਾ ਅਤੇ 25-30 ਪ੍ਰਤੀ ਬੱਲਬ ਤੋਂ ਵੱਖ ਹੁੰਦਾ ਹੈ। ਪਰਿਪੱਕਤਾ ਲਈ 165-170 ਦਿਨ ਲੱਗਦੇ ਹਨ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-seed-treatment-of-garlic?:
+  - text: ਥੀਰਮ @ 2 ਗ੍ਰਾਮ / ਕਿਲੋ ਬੀਜ + ਬੇਨੋਮਾਈਲ 50 ਡਬਲਯੂਪੀ @ 1 ਗ੍ਰਾਮ / ਲੀਟਰ ਪਾਣੀ ਨਾਲ ਬੀਜ ਦਾ ਇਲਾਜ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਢੰਗ ਨਾਲ ਗਿੱਲੇ ਹੋਣ ਅਤੇ ਝੁਲਸਣ ਵਾਲੀਆਂ ਬਿਮਾਰੀਆਂ ਨੂੰ ਕੰਟਰੋਲ ਕਰਦਾ ਹੈ। ਰਸਾਇਣਕ ਇਲਾਜ ਤੋਂ ਬਾਅਦ, ਬਾਇਓ ਏਜੰਟ ਟ੍ਰਾਈਕੋਡਰਮਾ ਵਿਰਾਈਡ @ 2 ਗ੍ਰਾਮ/ਕਿਲੋ ਬੀਜ ਨਾਲ ਬੀਜ ਦੇ ਇਲਾਜ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ, ਇਹ ਬੀਜਾਂ ਦੀਆਂ ਸ਼ੁਰੂਆਤੀ ਬਿਮਾਰੀਆਂ ਅਤੇ ਮਿੱਟੀ ਤੋਂ ਪੈਦਾ ਹੋਣ ਵਾਲੇ ਇਨੋਕੁਲਮ ਨੂੰ ਘਟਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-last-irrigation-in-garlic?:
+  - text: ਵਾਢੀ ਤੋਂ 15 ਦਿਨ ਪਹਿਲਾਂ ਸਿੰਚਾਈ ਬੰਦ ਕਰ ਦਿਓ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-the-application-of-urea-in-garlic?:
+  - text: 34 ਕਿਲੋ ਯੂਰੀਆ ਬਿਜਾਈ ਤੋਂ ਇੱਕ ਮਹੀਨੇ ਬਾਅਦ 33 ਕਿਲੋ ਯੂਰੀਆ 15 ਦਿਨ ਬਾਅਦ ਅਤੇ 33 ਕਿਲੋ ਯੂਰੀਆ ਉਸ ਤੋਂ 15 ਦਿਨਾਂ ਬਾਅਦ ਪਾਓ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-the-harvesting-of-garlic-?:
+  - text: ਜਦੋਂ ਫਸਲ ਦੇ ਪੱਤੇ ਪੀਲੇ ਹੋ ਜਾਣ ਤਾਂ ਲਸਣ ਦੀ ਫਸਲ ਕੱਟੋ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-method-of-sowing-of-garlic-?:
+  - text: ਦਿਖਾਉਣ ਦੀ ਵਿਧੀ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਨਹੀਂ
+  utter_faq-hort-garlic-b0-pun/information-regarding-manures-and-fertilizer-application-in-garlic-crop?:
+  - text: 20 ਟਨ ਖੇਤ ਖਾਦ, 110 ਕਿਲੋ ਯੂਰੀਆ ਅਤੇ 155 ਕਿਲੋ ਸੁਪਰਫਾਸਫੇਟ ਪਾਓ। ਬਿਜਾਈ ਸਮੇਂ ਪੂਰੀ ਖਾਦ ਅਤੇ ਸੁਪਰਫਾਸਫੇਟ ਪਾਓ ਅਤੇ ਬਿਜਾਈ ਤੋਂ 30 ਦਿਨ, 45 ਦਿਨ ਅਤੇ 60 ਦਿਨਾਂ ਬਾਅਦ ਯੂਰੀਆ ਨੂੰ 3 ਵੰਡੀਆਂ ਖੁਰਾਕਾਂ ਵਿੱਚ ਪਾਓ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-application-of-biozyme-in-garlic?:
+  - text: ਲਸਣ @ 200 ਮਿ.ਲੀ./ਏਕੜ 'ਤੇ ਬਾਇਓਜ਼ਾਈਮ ਤਰਲ ਫਾਰਮੂਲੇਸ਼ਨ ਦਾ ਛਿੜਕਾਅ ਝਾੜ ਵਧਾਉਂਦਾ ਹੈ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-dose-of-ssp-in-garlic-acre?:
+  - text: 155KG/ACRE
+  utter_faq-hort-garlic-b0-pun/information-regarding-about-depth-of-garlic-in-soil:
+  - text: ਮਿੱਟੀ ਵਿੱਚ ਲਸਣ ਦੀ ਡੂੰਘਾਈ 3-5 ਸੈ.ਮੀ
+  utter_faq-hort-garlic-b0-pun/information-regarding-zinc-sulphate-dose-in-garlic?:
+  - text: ਜ਼ਿੰਕ ਦੀ ਕਮੀ ਨੂੰ ਦੂਰ ਕਰਨ ਲਈ ਲਸਣ ਵਿੱਚ 5 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਸਲਫੇਟ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-how-to-control-purple-blotch-in-garlic?:
+  - text: 120 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਇੰਡੋਫਿਲ ਐਮ-45 @ 400 ਗ੍ਰਾਮ ਦੀ ਸਪਰੇਅ
+  utter_faq-hort-garlic-b0-pun/information-regarding-control-of-thrips-in-garlic?:
+  - text: ਲਸਣ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਥ੍ਰਿਪਸ ਅਤੇ ਹੋਰ ਚੂਸਣ ਵਾਲੇ ਕੀੜਿਆਂ ਦੀ ਰੋਕਥਾਮ ਲਈ 250 ਮਿਲੀਲੀਟਰ ਮੈਲਾਥੀਆਨ ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-for-deficiency-of-nitrogen-in-garlic?:
+  - text: ਇੱਕ ਏਕੜ ਵਿੱਚ ਯੂਰੀਆ 20 ਕਿਲੋ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-control-of-stem-boror-in-garlic?:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫੋਸ 20 ਈਸੀ @ 1 ਲੀਟਰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-garlic-b0-pun/information-regarding-control-of-caterpillar-in-garlic-?:
+  - text: ਲਸਣ ਦੀ ਫ਼ਸਲ ਲਈ ਕੈਟਰਪਿਲਰ ਕੰਟਰੋਲ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ
+  utter_faq-hort-garlic-b0-pun/tell-me-about-insect-control-in-garlic-?:
+  - text: ਮੈਲਾਥੀਓਨ 50 ਈ ਸੀ @ 250 ਮਿਲੀਲੀਟਰ 80 ਲੀਟਰ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-hort-garlic-b0-pun/information-regarding-for-control-of-root-rot-in-garlic?:
+  - text: ਲਸਣ ਵਿੱਚ ਜੜ੍ਹ ਸੜਨ ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ
+  utter_faq-hort-garlic-b0-pun/how-to-pest-control-in-garlic-crop-?:
+  - text: 15-20 ਕਿਲੋ ਸੁੱਕੀ ਰੇਤ/ਏਕੜ ਵਿੱਚ ਕਲੋਰਪਾਈਰੀਫੋਸ @ 1 ਲਿਟਰ ਦਾ ਪ੍ਰਸਾਰਣ ਕਰੋ।

@@ -1,0 +1,82 @@
+version: "3.0" 
+nlu: 
+# asking for sowing time of wheat
+- intent: faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat
+  examples: |
+    - information regarding sowing time of wheat?
+    - How do I determine the sowing time for wheat?
+    - How can I know the sowing time of wheat?
+    - What is the sowing time for wheat?
+    - What is the correct number of days to sow wheat?
+    - How can I figure out sowing time for wheat?
+    - How do I find sowing time of wheat?
+    - What information are available regarding sowing time of wheat?
+    - Is there any info related sowing time of wheat?
+    - What should be the sowing period for wheat?
+    - How long is the sowing time for wheat?
+    - give details about sowing time of wheat
+    - tell me the date/time related to sowing of wheat
+    - what is the exact time and date regarding sowing of wheat 
+    - can you please tell me the correct time of sowing of wheat
+    - show the information about the sowing timing of wheat?
+    - How can I predict the sowing time of wheat?
+    - show the best and most accurate hours to make sowing of wheat?
+    - What is the best way to know the time of sowing wheat?
+    - Tell me the exact time and date for the sowing of wheat?
+    - Can you tell me the correct time for sowing the wheat?
+
+# asking for sowing time of early wheat varieties
+- intent: faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties
+  examples: |
+    - information regarding sowing time for early sowing varieties of wheat
+    - sowing time for early sowing varieties of wheat?
+    - What is the best time of sowing for wheat early varieties?
+    - What is the correct sowing time for early sowing wheat varieties?
+    - tell me some of the best sowing times for early sowing wheat varieties?
+    - On what days should we do sowing for early sowing varieties of wheat?
+    - What should be seed time for early sowing varieties wheat crop?
+    - How can we determine the sowing time of early sowing varieties of wheat?
+    - How would you predict sowing time of early sowing varieties of wheat? 
+    - what is the sowing time of early sowing varieties of wheat
+    - What is the correct number of days to sow early sowing varieties of wheat?
+    - How can I figure out sowing time for early sowing varieties of wheat?
+    - How do I find sowing time of early sowing varieties of wheat?
+    - What information are available regarding sowing time of early sowing varieties of wheat?
+    - Is there any info regarding sowing time of early sowing varieties of wheat?
+    - What should be the sowing period for early sowing varieties of wheat?
+    - How long is the sowing time for early sowing varieties of wheat?
+    - More information about sowing time for early wheat varieties if available.
+    - What is the correct time for early sowing wheat varieties?
+    - What's the timing for the early-sowing varieties of wheat?
+    - tell me the sowing period for early sowing wheat varieties?
+    - How can you predict the sowing time for early-sowing varieties of wheat?
+    - What is a good way to predict the time for sowing a wheat?
+    - How can I know when early sowing varieties of wheat starts?
+
+# about sowing time of wheat grown after november
+- intent: faq-agri-wheat-b2/sowing-time-of-wheat-after-nov
+  examples: |
+    - information regarding sowing time of wheat after nov
+    - sowing time of wheat after nov?
+    - How long do you need to sow wheat after november.?
+    - what is sowing time of wheat after november?
+    - When should we sow wheat after november?
+    - How should I determine sowing time for wheat after nov?
+    - Can you provide sowing time of wheat after November?
+    - After november, How do I determine the sowing time for wheat?
+    - How can I know the sowing time of wheat after nov ?
+    - How do you determine the sowing time for wheat after nov?
+    - After november, What is the sowing time for wheat 
+    - What is the correct number of days to sow wheat after nov?
+    - After november , How can I figure out sowing time for wheat?
+    - How do I find sowing time of wheat after nov?
+    - What information are available regarding sowing time of wheat after nov?
+    - Is there any info regarding sowing time of wheat after nov?
+    - sowing period of wheat after nov
+    - What should be the sowing period for wheat after nov?
+    - Information concerning sowing time of wheat after November 
+    - When should I sow wheat after November?
+    - Tell me the correct time to sow wheat after Nov.
+    - How do I know the sowing time of wheat after Nov?
+    - Is there any way to find the sowing time of wheat after nov?
+    - How do I know the sowing time for wheat after nov?

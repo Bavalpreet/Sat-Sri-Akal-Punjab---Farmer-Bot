@@ -1,0 +1,45 @@
+version: "3.0" 
+intents: 
+  - faq-agri-rice-b1
+responses:
+  utter_faq-agri-rice-b1/information-regarding-the-role-of-regent-in-paddy: 
+  - text: It is an insecticide.
+  utter_faq-agri-rice-b1/information-regarding-dose-of-fertilizers-in-rice: 
+  - text: Dose of fertilizers in Rice is 90 kilogram Urea, 27 kilogram DAP or 75 kilogram superphosphate and 20 kilogram Potash per acre. Skip phosphorus application if recommended dose of phosphorus had been applied to the preceding wheat crop and apply muriate of potash on the basis of a soil test. Apply DAP or super and potash at the time of puddling, pply urea at first, third and sixth week after transplanting.
+  utter_faq-agri-rice-b1/information-regarding-time-or-date-of-transplanting-of-rice: 
+  - text: Time or Date of transplanting of Rice, After 15 June.
+  utter_faq-agri-rice-b1/fertilizer-dose-in-rice-after-sowing: 
+  - text: Dose of fertilizer after sowing is 26 kilogram of Urea after 15 days and then after four week.
+  utter_faq-agri-rice-b1/information-regarding-mycorrhiza-apply-in-paddy-field: 
+  - text: Broadcast Mychorrihzae 3 kilogram in one acre.
+  utter_faq-agri-rice-b1/information-regarding-control-of-termite-in-paddy: 
+  - text: For Control of termite in paddy is by applying Chlorpyriphos 20 EC @ 1 litre mixing with 25 to 30 kilogram sand per acre.
+  utter_faq-agri-rice-b1/information-regarding-plant-growth-regulator-in-paddy: 
+  - text: Growth regulator is used in Paddy is by spray NPK 13:0:45 1 kilogram in 100 litre of water.
+  utter_faq-agri-rice-b1/information-regarding-dose-of-poultary-yard-manure-in-paddy: 
+  - text: Dose of poultry yard manure is 2.5 ton per acre in paddy . It also saves 55 kilogram urea per acre.
+  utter_faq-agri-rice-b1/information-regarding-problem-of-water-stagnating-in-paddy-crop: 
+  - text: For water stagnating in paddy, No recommendation of any remedy. Drain out the water from the field.
+  utter_faq-agri-rice-b1/information-regarding-control-of-pest-in--paddy: 
+  - text: For Control of pest in paddy is by applying 1 litre Chlorpyrifos 20 EC mixed with 15-20 kilogram of sand per acre.
+  utter_faq-agri-rice-b1/information-regarding-control-of-hispa-in-paddy: 
+  - text: For control of Hispa in Paddy is by spraying 1 litre Chlorpyriphos 20 Ec or 800 ml Ekalaux in 100 litres of water per acre.
+  utter_faq-agri-rice-b1/information-regarding-drainage-problem-in-paddy-feild: 
+  - text: Drainage problem is solved in paddy by broadcasting Sulphur 80% 4 kilogram per acre mix with sand.
+  utter_faq-agri-rice-b1/information-regading-control-of-rats-in-paddy-feild: 
+  - text: For Control of rat in paddy is by taking 1 kilogram wheat or bajra, 20 gram basmati oil, 20 gram powder sugar, 25 gram zinc phosphoid then mix all of them and make 10 gram of 100 balls. Broadcast 40 balls per acre.
+  utter_faq-agri-rice-b1/information-regarding-bluegreen-algae-in-paddy: 
+  - text: Blue-green algae is good for paddy crop, it helps to fix Nitrogen in field.
+  utter_faq-agri-rice-b1/information-regarding-dificency-of-npk-in-rice: 
+  - text: For Control of Deficiency of NPK is by spraying NPK 19:19:19 @ 1 kilogram in 100 litre/acre.
+  utter_faq-agri-rice-b1/information-regarding--application-of-water-after-broadcasting-urea-in-field: 
+  - text: Drain water from field and apply urea then irrigation should be provided next day.
+  utter_faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result: 
+  - text: 12 hours is sufficient gap between spray of urea and rain for better result.
+  utter_faq-agri-rice-b1/information-regarding-urea-dose-in-paddy-seedlings: 
+  - text: Broadcast 1 kilogram urea mix with sand/acre.
+  utter_faq-agri-rice-b1/rice-leaves-turn-into-the-white-colour: 
+  - text: Apply 1 kilogram Ferrous Sulphate into the one acre.
+  utter_faq-agri-rice-b1/information-regarding-broadcast-dap-in-paddy: 
+  - text: To complete the deficiency of phosphorous spray 1.5 kilogram DAP per acre in 100 litres of water in paddy crop.
+  

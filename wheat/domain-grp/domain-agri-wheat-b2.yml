@@ -1,0 +1,10 @@
+version: "3.0" 
+intents: 
+  - faq-agri-wheat-b2
+responses:
+  utter_faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat: 
+  - text: Sowing time of wheat is start from 4th week of October to 4th week of November.
+  utter_faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties: 
+  - text: Sowing time of wheat is from last week of October to last week of November.
+  utter_faq-agri-wheat-b2/sowing-time-of-wheat-after-nov: 
+  - text: Sowing time of wheat after November is start from 4th week of November to 4th week of December.

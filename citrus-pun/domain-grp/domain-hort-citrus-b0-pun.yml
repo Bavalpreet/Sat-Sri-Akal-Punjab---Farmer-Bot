@@ -1,0 +1,102 @@
+version: "3.0"
+
+intents:
+  - faq-hort-citrus-b0-pun
+
+responses:
+  utter_faq-hort-citrus-b0-pun/information-regarding-for-the-control-of-fungus-in-citrus?:
+  - text: 3 ਗ੍ਰਾਮ ਬਲਾਇਟੋਕਸ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-how-to-control-gummosis-in-kinnow?:
+  - text: ਗਮੋਸਿਸ ਦੀ ਰੋਕਥਾਮ ਲਈ ਬਲਿਟੌਕਸ 3 ਗ੍ਰਾਮ ਜਾਂ ਰਿਡੋਮਿਲ ਗੋਲਡ 2.5 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਦੇ 2 ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-citrus-psylla?:
+  - text: ਸਾਈਲਾ ਦੀ ਰੋਕਥਾਮ ਲਈ - 200 ਮਿਲੀਲਿਟਰ ਕੌਨਫੀਡੋਰ 17.8 ਐਸਐਲ (ਇਮੀਡਾਕਲੋਪ੍ਰਿਡ) ਨੂੰ 500 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-reagrding-how-to-control-pest-in-kinnow?:
+  - text: ਸਪਰੇਅ 400 ਮਿ.ਲੀ. ਰੋਗਰ 250 ਲਿ. ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-weed-control-in-kinnow?:
+  - text: ਗ੍ਰਾਮੈਕਸੋਨ 24 WSC (ਪੈਰਾਕੁਆਟ) @ 1.2 ਲੀਟਰ/ਏਕੜ ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-control-leaf-curl-in-kinnow?:
+  - text: ਲੀਫ ਕਰਲ ਦੀ ਰੋਕਥਾਮ 3 ਮਿਲੀਲਿਟਰ ਮੈਲਾਥੀਓਨ 50 ਈਸੀ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-for-the-control-of-aphids-in-kinnow-orchard?:
+  - text: ਐਫੀਡਜ਼ ਦੇ ਨਿਯੰਤਰਣ ਲਈ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 70 ਮਿਲੀਲਿਟਰ ਇਮੀਡਾਕਲੋਪਰੀਡ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-to-flower-drop-in-citrus?:
+  - text: ਫਲਾਂ ਦੇ ਡਿੱਗਣ ਤੋਂ ਬਚਣ ਲਈ ਗਰਮੀਆਂ ਵਿੱਚ ਹਲਕੀ ਸਿੰਚਾਈ ਕਰੋ। ਉੱਲੀ ਦੇ ਹਮਲੇ ਨਾਲ ਡਿੱਗਣ 'ਤੇ ਉੱਲੀਨਾਸ਼ਕ ਬਾਵਿਸਟਿਨ 2.5 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਓ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-for-control-of-blight-in-citrus?:
+  - text: 3 ਗ੍ਰਾਮ ਬਲਾਇਟੋਕਸ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-for-control-of-yellowing-in-citrus?:
+  - text: ਪੀਲੇਪਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ NPK 13:0:45 1-2 ਗ੍ਰਾਮ ਨੂੰ 1 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-control-of-blackfly-in-citrus?:
+  - text: 1000 ਮਿਲੀਲਿਟਰ ਫੋਸਮਾਈਟ 30 ਈਸੀ (ਈਥਿਓਨ) ਨੂੰ 500 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-control-of-jassid-in-citrus:
+  - text: ਨਿੰਬੂ ਵਿੱਚ ਜੈਸੀਡ ਦੀ ਰੋਕਥਾਮ ਲਈ 160 ਗ੍ਰਾਮ ਅਕਤਾਰਾ ਨੂੰ 500 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-for-the-control-of-black-spotts-in-citrus-plants?:
+  - text: ਰਿਡੋਮਿਲ ਐਮਜ਼ੈਡ (ਮੈਟਾਲੈਕਸਿਲ+ਮੈਨਕੋਜ਼ੇਬ) 2 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਦੀ ਸਪਰੇਅ
+  utter_faq-hort-citrus-b0-pun/information-regarding-the-control-of-anthracnose-in-kinnow?:
+  - text: ਐਂਥ੍ਰੈਕਨੋਸ ਤੋਂ ਛੁਟਕਾਰਾ ਪਾਉਣ ਲਈ ਕਾਪਰ ਆਕਸੀਕਲੋਰਾਈਡ ਜਾਂ ਐਮ-45 ਜਾਂ ਬਾਵਿਸਟਨ 50 ਡਬਲਯੂਪੀ @ 3 ਗ੍ਰਾਮ ਪ੍ਰਤੀ 1 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/how-to-control-leaf-miner-in-kinnows?:
+  - text: ਨਿੰਬੂ ਵਿੱਚ ਪੱਤਾ ਮਾਈਨਰ ਦੀ ਰੋਕਥਾਮ ਲਈ ਅਪ੍ਰੈਲ-ਮਈ ਅਤੇ ਸਤੰਬਰ-ਅਕਤੂਬਰ ਦੌਰਾਨ 200 ਮਿਲੀਲਿਟਰ ਕਨਫੀਡੋਰ 17.8 ਐਸਐਲ (ਇਮੀਡਾਕਲੋਪ੍ਰਿਡ) ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 500 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/how-to-increase-fruit-size-of-citrus?:
+  - text: ਫਲਾਂ ਦੀ ਗੁਣਵੱਤਾ ਨੂੰ ਸੁਧਾਰਨ ਲਈ 10 ਗ੍ਰਾਮ NPK-13:0:45 ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-for-urea-dose-in-kinnow-plant?:
+  - text: ਨਿੰਬੂ ਵਿੱਚ ਯੂਰੀਆ ਦੀ ਖੁਰਾਕ ਲਈ 1-2 ਕਿਲੋ ਯੂਰੀਆ/ਪੌਦੇ
+  utter_faq-hort-citrus-b0-pun/information-regarding-fertilizers-dose-in-kinnow-plant?:
+  - text: ਨਿੰਬੂ ਲਈ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਖਾਦ ਖੁਰਾਕ- (1-3 ਸਾਲ ਦੇ ਪੌਦੇ)-FYM-5-20 ਕਿਲੋਗ੍ਰਾਮ, ਯੂਰੀਆ-110-330 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਪੌਦਾ, (4-6 ਸਾਲ ਦੇ ਪੌਦੇ) -FYM-25-50 ਕਿਲੋਗ੍ਰਾਮ, ਯੂਰੀਆ-440-550 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਪੌਦਾ, (7-9 ਸਾਲ ਦੇ ਪੌਦੇ)-FYM-60-90 ਕਿਲੋਗ੍ਰਾਮ, ਯੂਰੀਆ-660-880 ਗ੍ਰਾਮ ਅਤੇ (10 ਅਤੇ ਇਸ ਤੋਂ ਵੱਧ)-FYM-100 ਕਿਲੋਗ੍ਰਾਮ, ਯੂਰੀਆ-880-1760 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਪੌਦਾ
+  utter_faq-hort-citrus-b0-pun/what-is-the-dosage-of-zinc-in-kinnow?:
+  - text: ਨਿੰਬੂ ਵਿੱਚ ਜ਼ਿੰਕ ਦੀ ਖੁਰਾਕ 3 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਹੈ।
+  utter_faq-hort-citrus-b0-pun/when-is-the-time-of-fertilizer-application-in-kinnow?:
+  - text: ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਪੂਰੀ ਖਾਦ ਦਸੰਬਰ ਦੇ ਮਹੀਨੇ ਵਿੱਚ ਪਾਓ। ਅੱਧਾ ਯੂਰੀਆ ਅਤੇ ਸਾਰਾ ਸੁਪਰ ਫਾਸਫੇਟ ਫਰਵਰੀ ਦੇ ਮਹੀਨੇ ਵਿੱਚ ਅਤੇ ਬਾਕੀ ਅੱਧਾ ਯੂਰੀਆ ਮਈ ਮਹੀਨੇ ਵਿੱਚ ਪਾਓ। ਮਿੱਟੀ ਦੀ ਪਰਖ ਅਨੁਸਾਰ ਮਿਊਰੇਟ ਆਫ਼ ਪੋਟਾਸ਼ ਪਾਓ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-control-thrips-in-kinnow?:
+  - text: ਥ੍ਰਿਪਸ ਦੀ ਰੋਕਥਾਮ ਲਈ 1000 ਮਿਲੀਲੀਟਰ ਫੋਸਮਿਟ 50 ਈਸੀ ਨੂੰ 500 ਮਿਲੀਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/tell-me-the-control-of-scab-in-kinnow?:
+  - text: 500 ਲਿਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 500 ਗ੍ਰਾਮ ਬਲਿਟੌਕਸ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-problem-of-phytophthora-in-citrus?:
+  - text: ਰਿਡੋਮਿਲ @ 25 ਨੂੰ 10 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪਾਓ
+  utter_faq-hort-citrus-b0-pun/information-regarding-the-problem-of-leaf-folder-in-citrus?:
+  - text: ਪੱਤਾ ਫੋਲਡਰ ਦੀ ਰੋਕਥਾਮ 4 ਮਿਲੀਲੀਟਰ ਏਕਲਕਸ 25 ਈਸੀ (ਕੁਇਨਲਫੋਸ) ਨੂੰ 1 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/problem-of-white-fly-in-citrus?:
+  - text: 500 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 1 ਲੀਟਰ ਫੋਸਮਾਈਟ 50EC ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-problem-of-mealy-bug-in-citrus?:
+  - text: ਕੀਟਨਾਸ਼ਕਾਂ ਦਾ ਛਿੜਕਾਅ ਜਿਵੇਂ ਕਿ 1875 ਮਿਲੀਲੀਟਰ ਮਾਸਬਨ/ਡਰਮੇਟ/ਡਰਸਬਨ/ਕੋਰੋਬਨ 20 ਈਸੀ (ਕਲੋਰਪਾਈਰੀਫੋਸ) ਨੂੰ 500 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਕਰੋ ਅਤੇ ਲੋੜ ਪੈਣ 'ਤੇ ਸਪਰੇਅ ਦੁਹਰਾਓ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-for-the-sowing-time-of-kinnow?:
+  - text: ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਫਰਵਰੀ-ਮਾਰਚ ਜਾਂ ਅਗਸਤ-ਸਤੰਬਰ ਹੈ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-the-proper-growth-of-citrus-plant?:
+  - text: 1 ਕਿਲੋ NPK (19:19:19) 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-for-the-control-of-zinc-deficency-in-kinnow?:
+  - text: ਜ਼ਿੰਕ ਦੀ ਕਮੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਅਪਰੈਲ ਦੇ ਅੰਤ ਅਤੇ ਅੱਧ ਅਗਸਤ ਵਿੱਚ ਜ਼ਿੰਕ ਸਲਫੇਟ ਘੋਲ 4.7 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-nitrogen-requirement-of-kinnow?:
+  - text: NPK 19:19:19 @ 10GM / ਲੀਟਰ ਪਾਣੀ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-planting-space-in-kinnow?:
+  - text: ਬੀਜਣ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਥਾਂ 6m x 6m ਹੈ
+  utter_faq-hort-citrus-b0-pun/information-regarding-pruning-in-kinnow?:
+  - text: ਜਿਹੜੀਆਂ ਟਾਹਣੀਆਂ ਮਰੀਆਂ ਹੋਈਆਂ ਹਨ ਅਤੇ ਰੋਗੀ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਕੱਟੋ ਅਤੇ ਫਿਰ ਬਲਿਟੌਕਸ 3 ਗ੍ਰਾਮ ਨੂੰ 1 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-hort-citrus-b0-pun/information-regarding-control-canker-diseases-in-kinnow-plant-?:
+  - text: ਕੈਂਕਰ ਦੀ ਰੋਕਥਾਮ ਲਈ 50 ਗ੍ਰਾਮ ਸਟ੍ਰੈਪਟੋਸਾਈਕਲੀਨ + 25 ਗ੍ਰਾਮ ਕਾਪਰ ਸਲਫੇਟ 500 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾ ਕੇ ਅਕਤੂਬਰ ਅਤੇ ਫਰਵਰੀ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ। ਵਿਕਲਪਕ ਤੌਰ 'ਤੇ 50 ਗ੍ਰਾਮ ਸਟ੍ਰੈਪਟੋਸਾਈਕਲੀਨ + 1250 ਮਿਲੀਲੀਟਰ ਕਾਪਰ ਆਕਸੀਕਲੋਰਾਈਡ ਵੀ ਲਗਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-bordeaux-mixture-ratio-in-citrus-orchard?:
+  - text: ਬਾਰਡੋ ਮਿਸ਼ਰਣ ਦਾ ਅਨੁਪਾਤ ਕਾਪਰ ਸਲਫੇਟ, ਚੂਨਾ ਅਤੇ ਪਾਣੀ ਦਾ 1:1:100 ਹੈ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-dosage-of-planofix-in-kinnow?:
+  - text: 1 ਮਿਲੀਲਿਟਰ ਪਲੈਨੋਫਿਕਸ 4.5 ਲੀਟਰ ਪਾਣੀ ਦਾ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-hort-citrus-b0-pun/information-regarding-the-growth-regulator-used-in-citrus?:
+  - text: ਨਿੰਬੂ ਦੇ ਸਪਰੇਅ N:P:K 13:0:45 10gm/1 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਵਿਕਾਸ ਰੈਗੂਲੇਟਰ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-deficiency-of-sulphur-in-citrus?:
+  - text: ਨਿੰਬੂ ਵਿੱਚ ਗੰਧਕ ਦੀ ਘਾਟ ਨੂੰ ਕਾਬੂ ਕਰਨ ਲਈ 3-4 ਕੁਇੰਟਲ ਜਿਪਸਮ ਪ੍ਰਤੀ ਏਕੜ ਪਾਓ।
+  utter_faq-hort-citrus-b0-pun/info-regarding-how-to-deal-with-boron-deficiency-in-citrus-plants?:
+  - text: ਨਿੰਬੂ ਵਿੱਚ ਬੋਰਾਨ ਦੀ ਕਮੀ ਲਈ ਬੋਰੈਕਸ @ 2-3 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-control-manganese-deficiency-in-kinnow-plant-?:
+  - text: ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ @ 0.1%-0.2% ਘੋਲ 'ਤੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-for-nutrient-deficiency-in-citrus-?:
+  - text: ਨਿੰਬੂ ਵਿੱਚ ਪੋਸ਼ਕ ਤੱਤਾਂ ਦੇ ਪ੍ਰਬੰਧਨ ਲਈ N:P:K (19:19:19) 1 ਕਿਲੋ ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-dose-of-trichoderma-in-plants--of-citrus?:
+  - text: ਚੰਗੇ ਨਤੀਜਿਆਂ ਲਈ ਨਿੰਬੂ ਦੇ ਪ੍ਰਤੀ ਪੌਦੇ ਦੀ 60-70 ਗ੍ਰਾਮ ਖੁਰਾਕ ਦੀ ਵਰਤੋਂ ਕਰੋ, ਇਸਨੂੰ 5-6 ਦਿਨਾਂ ਲਈ ਖਾਦ ਵਿੱਚ ਮਿਲਾਓ ਅਤੇ ਇਸਦੀ ਨਮੀ ਨੂੰ ਰੋਜ਼ਾਨਾ ਬਣਾਈ ਰੱਖੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-control-of-catterpiller-in-citrus?:
+  - text: ਈਕਲਕਸ 25ec 300ml ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ/ਏ.ਸੀ.ਆਰ.ਈ. ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-hort-citrus-b0-pun/information-regarding-mixing-of-insecticide-with-fungicide?:
+  - text: ਕੀਟਨਾਸ਼ਕ ਨੂੰ ਉੱਲੀਨਾਸ਼ਕ ਨਾਲ ਮਿਲਾਉਣ ਦੀ ਕੋਈ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-root-weevil-attack-in-kinnow?:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫਾਸ 10 ਮਿਲੀਲੀਟਰ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਮਿੱਟੀ ਨੂੰ ਭਿੱਜੋ
+  utter_faq-hort-citrus-b0-pun/how-to-control-gummosis-disease-in-kinnows?:
+  - text: ਗੰਮੋਸਿਸ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਬਲਿਟੌਕਸ 3 ਗ੍ਰਾਮ ਜਾਂ ਰਿਡੋਮਿਲ ਗੋਲਡ 2.5 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਦੇ 2 ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/information-regarding-black-fungus-growth-on-kinnow-leaves?:
+  - text: ਨਿੰਬੂ ਦੇ ਪੱਤਿਆਂ 'ਤੇ ਕਾਲੀ ਉੱਲੀ ਦਾ ਵਾਧਾ ਸੋਥੀਮੋਲਡ ਹੁੰਦਾ ਹੈ ਜੋ ਕਾਲੇ ਰੰਗ ਦਾ ਬਣ ਜਾਂਦਾ ਹੈ 2 ਜੀ 1 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-citrus-b0-pun/post-harvest-management-of-citrus:
+  - text: ਨਿੰਬੂ ਦੇ ਫਲਾਂ ਨੂੰ ਵਾਢੀ ਅਤੇ ਮੋਮ ਕਰਨ ਤੋਂ ਬਾਅਦ ਸਟੋਰ ਕਰੋ
+  utter_faq-hort-citrus-b0-pun/information-regarding-water-management-in-kinnow-?:
+  - text: ਰਿੰਗ ਪ੍ਰਣਾਲੀ ਦੇ ਅਨੁਸਾਰ ਪਾਣੀ ਲਗਾਓ। ਨਿੰਬੂ ਵਿੱਚ ਫਲੱਡ ਸਿੰਚਾਈ ਨਾ ਕਰੋ।

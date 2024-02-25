@@ -1,0 +1,68 @@
+version: "3.0" 
+intents: 
+  - faq-hort-garlic-b0
+responses:
+  utter_faq-hort-garlic-b0/information-regarding-sowing-time-of-garlic: 
+  - text: Sowing time of Garlic is last week of September to first week of October.
+  utter_faq-hort-garlic-b0/regarding-weed-control-in-garlic: 
+  - text: Hand hoeing helps in controlling weeds in garlic. The weeds in garlic can also be managed by applying 25 q per acre paddy straw after sowing.
+  utter_faq-hort-garlic-b0/dose-of-urea-in-garlic: 
+  - text: Urea dose in garlic is 110kg and give it in three split dose fistly after one month and then after 45 dyas and third after 60 days.
+  utter_faq-hort-garlic-b0/information-regarding-how-to-control-fungal-disease-in-garlic: 
+  - text: For the control of fungal disease, spray 500 gram M-45 in 150 litre water/acre.
+  utter_faq-hort-garlic-b0/information-regarding-storage-of-garlic: 
+  - text: Don't place garlic under direct sunlight after uprooting.
+  utter_faq-hort-garlic-b0/pre-emergence-weedicide-in-garlic: 
+  - text: Spray GOAL(OXYCLORFEN) 425 ml in 200 litres of water per acre.
+  utter_faq-hort-garlic-b0/regarding-maggots-in-garlic: 
+  - text: Apply Thimat 4kg/acre mix in soil
+  utter_faq-hort-garlic-b0/regarding-yellowing-of-leaves-of-garlic: 
+  - text: Complete the dose of urea and spray M 45 600 gram with 220 Tritone in 200 litre water.
+  utter_faq-hort-garlic-b0/information-regarding-burning-of-tips-in-garlic: 
+  - text: Spray 500 gram blue copper +1 Tikka Streptocyclin in 150 litre of water per acre.
+  utter_faq-hort-garlic-b0/information-regarding-how-to-control-jassids-in-garlic: 
+  - text: Spray 100 ml Confidor 17.8% in 120 litre of water per acre.
+  utter_faq-hort-garlic-b0/information-regarding-how-to-improve-growth-in-garlic: 
+  - text: Spray 1 kg NPK 00:52:34 in 100 litre of water per acre.
+  utter_faq-hort-garlic-b0/fertilizers-in-garlic: 
+  - text: Fertilizer dose in garlic crop is 110 kg Urea + 155 kg SSP per acre.
+  utter_faq-hort-garlic-b0/row-spacing-in-garlic: 
+  - text: Row spacing in garlic is 15 cm
+  utter_faq-hort-garlic-b0/maturity-time-of-garlic: 
+  - text: It takes 165-170 days for maturity.
+  utter_faq-hort-garlic-b0/information-regarding-seed-treatment-of-garlic: 
+  - text: Seed treatment with Thiram@2 gram/kg of seed + Benomyl 50WP@1 gram/liter water effectively controls damping off and smut diseases. After chemical treatment, seed treatment with bio agent Trichoderma viride@2 gram/kg of seed is recommended, it help in reducing early seedling diseases and soil borne inoculum.
+  utter_faq-hort-garlic-b0/information-regarding-last-irrigation-in-garlic: 
+  - text: Stop irrigation before 15 days of harvesting.
+  utter_faq-hort-garlic-b0/information-regarding-the-application-of-urea-in-garlic: 
+  - text: Apply 34 kg Urea after one month of sowing 33 kg Urea 15 days after that.
+  utter_faq-hort-garlic-b0/information-regarding-the-harvesting-of-garlic: 
+  - text: When crop leaves turn yellow harvest the garlic crop.
+  utter_faq-hort-garlic-b0/information-regarding-method-of-sowing-of-garlic: 
+  - text: NO information regarding method of showing
+  utter_faq-hort-garlic-b0/information-regarding-manures-and-fertilizer-application-in-garlic-crop: 
+  - text: Apply 20 tonnes of farmyard manure, 110 kg of Urea and 155 kg of Superphosphate. Apply whole FYM and superphosphate at the of sowing and apply urea in 3 split doses after 30 days, 45 days and 60 days of sowing.
+  utter_faq-hort-garlic-b0/information-regarding-application-of-biozyme-in-garlic: 
+  - text: Spray of Biozyme liquid formulation at garlic at 200ml/acre increases the yield.
+  utter_faq-hort-garlic-b0/information-regarding-dose-of-ssp-in-garlicacre: 
+  - text: Dose of SSP, 155 kg/acre.
+  utter_faq-hort-garlic-b0/information-regarding-about-depth-of-garlic-in-soil: 
+  - text: Depth of garlic in soil is 3-5 cm.
+  utter_faq-hort-garlic-b0/information-regarding-zinc-sulphate-doze-in-garlic: 
+  - text: Spray 5 gram Zinc sulphate per litre water in garlic to overcome zinc deficency
+  utter_faq-hort-garlic-b0/information-regarding-how-to-control-purple-blotch-in-garlic: 
+  - text: Spray Indofil M-45 @ 400 gram in 120 litre water per acre.
+  utter_faq-hort-garlic-b0/information-regarding-control-of-thrips-in-thrips-and-other-sucking-pests-crop: 
+  - text: Spray 250 ml malathion per acre in 100 liters of water to control thrips and other sucking pests in garlic crop.
+  utter_faq-hort-garlic-b0/information-regarding-for-deficiency-of-nitrogen-in-garlic: 
+  - text: Urea 20 kg in once acre.
+  utter_faq-hort-garlic-b0/information-regarding-control-of-stem-boror-in-garlick: 
+  - text: Spray Chloropyriphos 20 EC @ 1 litre in 100 litres of water/acre.
+  utter_faq-hort-garlic-b0/information-regarding-control-of-caterpillar-in-garlic: 
+  - text: No information on caterpillar control for garlic crop
+  utter_faq-hort-garlic-b0/tell-me-about-insect-control-in-garlic: 
+  - text: Spray malathion 50 ec @ 250 ml in 80 litre per acre.
+  utter_faq-hort-garlic-b0/information-regarding-for-control-of-root-rot-in-garlic: 
+  - text: NO information on the control of root rot in garlic
+  utter_faq-hort-garlic-b0/how-to-pest-control-in-garlic-crop: 
+  - text: Brodcast chlorpyriphos @ 1 litre in 15-20 kg drysand/acre.

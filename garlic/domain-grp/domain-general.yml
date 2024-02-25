@@ -1,0 +1,29 @@
+version: "3.0"
+
+intents:
+  - greet
+  - goodbye
+  - ok
+
+responses:
+  utter_greet:
+  - text: "Hi! Welcome to Farmerapp. You can ask queries related to crop diseases, fertilizers, etc."
+  utter_goodbye:
+  - text: "Bye"
+  utter_ok:
+  - text: "Thank You!!  \n Please type your questions in the chat"
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?
+  utter_default:
+  - text: Sorry I didn't get that. Can you rephrase?
+
+actions:
+- action_viz_faq
+- action_general
+
+forms: {}
+e2e_actions: []
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

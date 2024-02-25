@@ -1,0 +1,66 @@
+version: "3.0"
+
+intents:
+  - faq-hort-guava-b0-pun
+
+responses:
+  utter_faq-hort-guava-b0-pun/information-regarding-for-control-of-caterpillar-in-guava-?:
+  - text: ਅਮਰੂਦ ਵਿੱਚ ਕੈਟਰਪਿਲਰ ਦੀ ਰੋਕਥਾਮ ਲਈ 2 ਮਿਲੀਲੀਟਰ ਮੈਲਾਥੀਓਨ ਨੂੰ 1 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-control-of-fruit-dropping-in-guava:
+  - text: ਫਲਾਂ ਦੇ ਡਿੱਗਣ ਤੋਂ ਬਚਣ ਲਈ ਗਰਮੀਆਂ ਵਿੱਚ ਹਲਕੀ ਸਿੰਚਾਈ ਕਰੋ। ਜੇਕਰ ਉੱਲੀ ਦੇ ਹਮਲੇ ਨਾਲ ਡਿੱਗਣਾ ਹੋਵੇ ਤਾਂ ਉੱਲੀਨਾਸ਼ਕ ਬਾਵਿਸਟਿਨ 2.5 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਓ।
+  utter_faq-hort-guava-b0-pun/information-regarding-for-the-control-of-bacterial-blight-disease-in-guava-crop?:
+  - text: 500 ਗ੍ਰਾਮ ਬਲਿਟੌਕਸ + 3 ਗ੍ਰਾਮ ਸਟ੍ਰੈਪਟੋਸਾਈਕਲੀਨ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-for-control-of-fungus-in-guava-?:
+  - text: ਅਮਰੂਦ ਵਿੱਚ ਉੱਲੀ ਦੀ ਰੋਕਥਾਮ ਲਈ 3ਜੀ ਇੰਡੋਫਿਲ ਐਮ-45 ਜਾਂ ਬਲਿਟੌਕਸ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-pest-attack-in-guava?:
+  - text: 2 ਮਿਲੀਲਿਟਰ ਮੈਲਾਥੀਆਨ ਨੂੰ 1 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-how-to-control-anthracnose-in-guava?:
+  - text: ਐਂਥ੍ਰੈਕਨੋਸ ਤੋਂ ਛੁਟਕਾਰਾ ਪਾਉਣ ਲਈ ਕਾਪਰ ਆਕਸੀਕਲੋਰਾਈਡ ਜਾਂ ਐਮ-45 ਜਾਂ ਬਾਵਿਸਟਨ 50 ਡਬਲਯੂਪੀ @ 3 ਗ੍ਰਾਮ ਪ੍ਰਤੀ 1 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-control-of-aphids-in-guava?:
+  - text: ਗਵਾ ਵਿੱਚ ਐਫੀਡਜ਼ ਦੀ ਰੋਕਥਾਮ ਲਈ ਅਪ੍ਰੈਲ-ਮਈ ਅਤੇ ਸਤੰਬਰ-ਅਕਤੂਬਰ ਦੌਰਾਨ 200 ਮਿਲੀਲਿਟਰ ਕਨਫੀਡੋਰ 17.8 ਐਸਐਲ (ਇਮੀਡਾਕਲੋਪ੍ਰਿਡ) ਜਾਂ 160 ਗ੍ਰਾਮ ਐਕਟਾਰਾ 25 ਡਬਲਯੂਜੀ (ਥਿਆਮੇਥੋਕਸਮ) ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 500 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-for-the-mealybug-in-guava?:
+  - text: ਅਮਰੂਦ ਵਿੱਚ ਮੀਲੀਬੱਗ ਦੀ ਰੋਕਥਾਮ ਲਈ 5 ਮਿਲੀਲੀਟਰ ਡਰਮੇਟ/ਡਰਸਬਨ (ਕਲੋਰਪਾਈਰੀਫੋਸ) ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-control-of-zinc-defciency-in-guava:
+  - text: ਜ਼ਿੰਕ ਦੀ ਕਮੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ 1200 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਸਲਫੇਟ 21%+600 ਗ੍ਰਾਮ ਅਣ-ਸਲੇਕਡ ਚੂਨਾ ਜਾਂ 750 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਸਲਫੇਟ 33%+375 ਗ੍ਰਾਮ ਅਨਸਲੈਕਸਡ ਚੂਨਾ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-control-of-borer-in-guava?:
+  - text: 125 ਲੀਟਰ ਪਾਣੀ/ਏਸਰ ਵਿੱਚ 500 ਮਿਲੀਲੀਟਰ ਈਕਲਕਸ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/infomation-regarding-for-the-fertilizer-dose-in-guava-?:
+  - text: ਮਈ ਦੇ ਮਹੀਨੇ ਅਤੇ 150 ਗ੍ਰਾਮ ਯੂਰੀਆ, 500 ਗ੍ਰਾਮ ਐਸਐਸਪੀ, 100 ਗ੍ਰਾਮ ਪੋਟਾਸ਼ .ਅੱਧੀ ਖੁਰਾਕ ਮਈ-ਜੂਨ ਦੇ ਮਹੀਨੇ ਅਤੇ ਅੱਧੀ ਸਤੰਬਰ-ਅਕਤੂਬਰ ਦੇ ਮਹੀਨੇ ਵਿੱਚ ਲਾਗੂ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-for-the-prunning-time-in-guava?:
+  - text: ਅਕਤੂਬਰ-ਨਵੰਬਰ
+  utter_faq-hort-guava-b0-pun/information-regarding-die-back-in-guava?:
+  - text: ਡਾਈ ਬੈਕ ਨੂੰ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਢੰਗ ਨਾਲ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਸੁੱਕੀਆਂ ਟਹਿਣੀਆਂ ਨੂੰ ਸਮੇਂ-ਸਮੇਂ 'ਤੇ ਹਟਾਉਣ ਦੇ ਨਾਲ-ਨਾਲ ਕੱਟੇ ਸਿਰਿਆਂ 'ਤੇ ਬਾਰਡੋ ਪੇਸਟ ਲਗਾਓ। ਕਾਪਰ ਆਕਸੀਕਲੋਰਾਈਡ @3 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾ ਕੇ ਮਾਰਚ, ਜੁਲਾਈ ਅਤੇ ਸਤੰਬਰ ਮਹੀਨੇ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/how-to-control-of-termite-in-guava?:
+  - text: ਅਮਰੂਦ ਵਿੱਚ ਦੀਮਕ ਦੀ ਰੋਕਥਾਮ ਲਈ 10 ਮਿਲੀਲਿਟਰ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 ਈ ਸੀ ਪ੍ਰਤੀ ਰੁੱਖ ਪਾਓ।
+  utter_faq-hort-guava-b0-pun/information-regarding-control-of-fruit-rot-in-guava?:
+  - text: ਅਮਰੂਦ ਵਿੱਚ ਫਲਾਂ ਦੇ ਸੜਨ/ਐਂਥ੍ਰੈਕਨੋਸ ਜਾਂ ਡਾਈ ਬੈਕ ਦਾ ਨਿਯੰਤਰਣ ਛਾਂਟਣ ਤੋਂ ਬਾਅਦ, ਰੁੱਖਾਂ ਨੂੰ 300 ਗ੍ਰਾਮ ਬਲਿਟੌਕਸ ਜਾਂ 300 ਗ੍ਰਾਮ ਕੈਪਟਾਨ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ। ਫਲ ਦੇ ਸੈੱਟ ਤੋਂ ਬਾਅਦ ਸਪਰੇਅ ਨੂੰ ਦੁਹਰਾਓ ਅਤੇ ਪੱਕਣ ਤੱਕ 10 ਤੋਂ 15 ਦਿਨਾਂ ਦੇ ਅੰਤਰਾਲ 'ਤੇ ਛਿੜਕਾਅ ਜਾਰੀ ਰੱਖੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-control-of-black-spots-in-guava:
+  - text: ਬੋਰਡੋਕਸ ਮਿਸ਼ਰਣ ਨੂੰ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-hort-guava-b0-pun/control-of-fruit-fly-in-the-guava?:
+  - text: ਫਲਾਂ ਵਿੱਚ ਫਲ ਦੀ ਮੱਖੀ ਦਾ ਨਿਯੰਤਰਣ 1250 ਮਿਲੀਲਿਟਰ ਸੁਮੀਸੀਡੀਨ 20 ਈਸੀ (ਫੇਨਵੈਲਰੇਟ) ਨੂੰ 500 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾ ਕੇ ਫਲਾਂ ਦੇ ਪੱਕਣ 'ਤੇ ਹਫ਼ਤਾਵਾਰੀ ਅੰਤਰਾਲਾਂ 'ਤੇ ਛਿੜਕਾਅ ਕਰੋ ਅਤੇ ਜੁਲਾਈ ਦੇ ਦੂਜੇ ਹਫ਼ਤੇ PAU ਫਲਾਈ ਫਲਾਈ ਟਰੈਪ @ 16 ਟਰੈਪ/ਏਕੜ ਵਿੱਚ ਲਗਾਓ।
+  utter_faq-hort-guava-b0-pun/tell-me-how-to-control-fruit-borer-in-guava:
+  - text: 2.5 - 3 ਮਿਲੀਲਿਟਰ ਮੈਲਾਥੀਆਨ 50 ਈ ਸੀ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-control-of-shoot-borer-in-guava-?:
+  - text: ਕੁਇਨਲਫੋਸ @ 400 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪਾਓ।
+  utter_faq-hort-guava-b0-pun/information-regarding-sowing-time-of-guava?:
+  - text: ਅਮਰੂਦ ਆਰਕਿਡ ਦੀ ਸਥਾਪਨਾ ਲਈ ਢੁਕਵਾਂ ਸਮਾਂ ਫਰਵਰੀ-ਮਾਰਚ ਜਾਂ ਅਗਸਤ-ਸਤੰਬਰ ਹੈ।
+  utter_faq-hort-guava-b0-pun/information-regarding-weed-control-in-guava?:
+  - text: ਅਮਰੂਦ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ ਗਲਾਈਫੋਸੇਟ 41 ਐਸਐਲ @ 1.6 ਲੀਟਰ ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-the-deficiency-of-boron-in-guava?:
+  - text: ਬੋਰੈਕਸ @ 1.5 ਗ੍ਰਾਮ / 1 ਲੀਟਰ ਪਾਣੀ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-the-control-of-damping-off-in-guava-?:
+  - text: ਅਮਰੂਦ ਵਿੱਚ ਨਦੀਨ ਨਿਯੰਤਰਣ ਲਈ ਕੈਪਟਨ 3 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-sundi-in-guava?:
+  - text: ਸਪਰੇਅ ਪਲੈਨੋਫਿਕਸ 3ML ਨੂੰ 1 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪਾਓ।
+  utter_faq-hort-guava-b0-pun/information-regarding-of-iron-deficiency-of-guava?:
+  - text: ਫੈਰਸ ਸਲਫੇਟ 1kg/100 ਲੀਟਰ ਪਾਣੀ।
+  utter_faq-hort-guava-b0-pun/information-regarding-control-of-yellowing-in-guava:
+  - text: ਅਮਰੂਦ ਦੇ ਪੱਤਿਆਂ ਦੇ ਪੀਲੇ ਹੋਣ ਦੀ ਰੋਕਥਾਮ ਲਈ 10 ਗ੍ਰਾਮ ਐਨ ਪੀ ਕੇ 19 19 19 ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-plant-growth-of-guava?:
+  - text: NPK 19:19:19 @ 1 ਗ੍ਰਾਮ 2 ਲੀਟਰ ਪਾਣੀ / ਘੋਲ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-guava-b0-pun/information-regarding-about-manures-in-guava?:
+  - text: f.y.m.-50kg ਮਈ ਵਿੱਚ, ਯੂਰੀਆ-1kg, ssp-2.5kg, mop-1.5kg। ਯੂਰੀਆ, ਐਸਐਸਪੀ ਅਤੇ ਐਮਓਪੀ ਅੱਧੀ ਮਈ-ਜੂਨ ਵਿੱਚ ਅਤੇ ਅੱਧੀ ਸਤੰਬਰ ਵਿੱਚ ਵਰਤੀ ਜਾਂਦੀ ਹੈ।
+  utter_faq-hort-guava-b0-pun/information-regarding-control-of-powdery-mildew-in-guava?:
+  - text: ਅਮਰੂਦ ਵਿੱਚ ਪਾਊਡਰਰੀ ਫ਼ਫ਼ੂੰਦੀ ਦੇ ਨਿਯੰਤਰਣ ਵਿੱਚ ਇੰਡੋਫਿਲ ਐਮ-45 ਜਾਂ ਬਾਵਿਸਟਿਨ 2 ਗ੍ਰਾਮ 1 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ ਅਤੇ 10 ਦਿਨਾਂ ਬਾਅਦ 2-3 ਸਪਰੇਅ ਕਰਨ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
+  utter_faq-hort-guava-b0-pun/information-regarding-to-control-sucking-pest-in-guava:
+  - text: ਸਪਰੇਅ 2-3 ਮਿ.ਲੀ. ਮੈਲਾਥੀਓਨ 50EC ਪ੍ਰਤੀ ਲਿ. ਪਾਣੀ ਦੀ.

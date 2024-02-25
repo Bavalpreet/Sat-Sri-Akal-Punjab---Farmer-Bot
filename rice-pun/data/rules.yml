@@ -1,0 +1,49 @@
+version: "3.0"
+
+rules:
+
+- rule : greet
+  steps:
+  - intent: greet
+  - action: action_general
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: action_general
+
+- rule: rule for ok
+  steps:
+  - intent: ok
+  - action: action_general
+
+- rule: Ask the user to rephrase whenever they send a message with low NLU confidence
+  steps:
+  - intent: nlu_fallback
+  - action: action_general
+
+# punjabi
+- rule: for rice batch 0 (Punjabi)
+  steps:
+  - intent: faq-agri-rice-b0-pun
+  - action : action_viz_faq
+
+- rule: for rice batch 1 (Punjabi)
+  steps:
+  - intent: faq-agri-rice-b1-pun
+  - action : action_viz_faq
+
+- rule: for rice batch 2 (Punjabi)
+  steps:
+  - intent: faq-agri-rice-b2-pun
+  - action : action_viz_faq
+
+- rule: for rice batch 3 (Punjabi)
+  steps:
+  - intent: faq-agri-rice-b3-pun
+  - action : action_viz_faq
+
+- rule: for rice batch 4 (Punjabi)
+  steps:
+  - intent: faq-agri-rice-b4-pun
+  - action : action_viz_faq

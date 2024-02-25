@@ -1,0 +1,196 @@
+version: "3.0" 
+nlu: 
+
+- intent: faq-agri-wheat-b5/recommended-time-of-irrigation-of-wheat
+  examples: |
+    - information regarding recommended time of irrigation of wheat
+    - recommended time of irrigation of wheat
+    - When should wheat be irrigated ?
+    - Which irrigation time of irrigation is recommended for wheat?
+    - any details related to recommended time of irrigation in wheat
+    - tell me the recommended time for irrigation of wheat
+    - let me know the best time for wheat irrigation
+    - tell me the best time of irrigation of wheat
+    - what is the good time for irrigation of wheat 
+    - when we supposed to irrigate the wheat 
+    - please tell me when a farmer is supposed to irrigate their wheat field
+    - Let me know when is the best time to apply water to wheat
+    - Tell me the best time for the irrigation of wheat
+    - Let me know the best time for watering wheat ?
+    - If the farmer wants to irrigate a field of wheat please tell me when it should be done?
+    
+- intent: faq-agri-wheat-b5/information-regarding-place-of-soil-test
+  examples: |
+    - information regarding place of soil test for wheat ?
+    - Where is a soil test done for wheat crop?
+    - tell me Where can I take a soil test for wheat?
+    - can I conduct a soil test for wheat?
+    - Where could I find place for soil testing for wheat?
+    - At what place can soil be tested for wheat
+    - is there a specific place to test a soil for wheat
+    - list all the names of place where i can conduct soil test for wheat
+    - any details related to place of soil test for wheat crop
+    - How should I know the place of soil testing for wheat?
+    - Where do I take a soil test for wheat?
+    - Tell me the best place to have a soil test for wheat?
+    - is there a specific place to test a soil for wheat ?
+    - How do I test the soil for wheat ?
+
+- intent: faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation
+  examples: |
+    - information regarding that how to collect a soil sample for soil testing for fertilizer recommendation 
+    - How do I collect a soil sample for soil testing for fertilizer recommendation in wheat?
+    - tell me how can I collect soil sample for soil test for fertilizer recommendation in wheat?
+    - is it possible to collect soil sample for soil testing for fertilizer recommendation in wheat?
+    - How to collect soil sample for soil testing for fertilizer recommendation ?
+    - what are the techniques to collect soil sample for soil testing for fertilizer recommendation in wheat?
+    - how can i supposed to collect soil sample for soil testing for fertilizer recommendation 
+    - for fertilizer recommendation in wheat, how to collect soil sample for soil testing
+    - tell me all the methods to collect soil sample for soil testing for fertilizer recommendation in wheat
+    - Tell me the best way to collect soil sample for soil testing for fertilizer recommendation in wheat? 
+    - can you list the techniques to collect soil samples for soil testing for fertilizer recommendation in wheat?
+    - recommend some of the techniques to collect soil sample for soil test for fertilizer recommendation in wheat?
+    - list the methods to collect soil sample for soil testing for fertilizer recommendation in wheat?
+    - Which is the best technique to collect soil sample for soil testing for fertilizer recommendation in wheat?
+    - Tell me the way to collect soil sample for soil testing for fertilizer recommendation in wheat
+    - Can you tell me the proper method to collect a soil sample for soil testing for fertilizer recommendation in wheat
+    - list all the methods of collection of soil sample for soil testing for fertilizer recommendation in wheat 
+    - Tell me all the methods to collect soil sample for soil testing for fertilizer recommendation in wheat ?
+    - I want to collect soil samples for soil testing for fertilizer recommendation?
+    - Tell me all the methods to collect soil sample for soil testing for fertilizer recommendation in wheat 
+
+- intent: faq-agri-wheat-b5/information-regarding-protection-of-stored-grains-from-insect-pest-attack
+  examples: |
+    - information regarding protection of stored grains from insect and pest attack 
+    - How do I protect stored grains against insect and pest attack
+    - can you prevent grain from insect or pest attack ?
+    - How can I protect grains from insect and pest attack 
+    - is it possible to protect the grains from pest and insect attack ?
+    - How can stored grains be protected from insect and pest attack? 
+    - How do we protect grains from insect attacks 
+    - What are the best practices for protection of stored grains from insect-pest attack 
+    - any details related to protection of stored grains from insect and pest attack
+    - what are the possible methods that we can use to protect the stored grains from insect and pest attack
+    - Info concerning protection of stored grain from insect and pest attack 
+    - How can we avoid bugs and pests in stored grains?
+    - Tell me the best way to prevent stored grain from pests?
+    - can you list the best ways to prevent grain from pest & insect attack?
+    - Is it possible to keep stored grain from pest and insect attack?
+    - What is it possible to protect grains from pests and insect attacks?
+    - can you list the best practices for protecting grain stored from insect-pest attack
+    - Is there any systematic way to keep grains protected from insect-pest attack?
+
+- intent: faq-agri-wheat-b5/regarding-depth-of-seed-sown-of-wheat
+  examples: |
+    - information regarding depth of seed sown of wheat
+    - determine depth of wheat seed sown 
+    - What is the depth of wheat seed sown in a wheat field?
+    - tell me the depth of wheat seed sown
+    - how deep should wheat seeds be sown
+    - tell me the depth at which wheat seeds should be sown
+    - what's the best depth at which wheat seeds should be sown
+    - how can i know that wheat seed sown depth is good
+    - can you please tell me the exact depth of wheat seed sown
+    - is there any depth limit for sowing of wheat seed
+    - any details related to the depth of wheat seed sown in a field
+    - How deep has wheat seed sown in a wheat field?
+    - How can I know that the depth of the wheat seed should be good or bad?
+    - Is there any depth limit for seed sowing in wheat field
+
+- intent: faq-agri-wheat-b5/information-regarding-waste-decomposer
+  examples: |
+    - information regarding waste decomposer ?
+    - What is the waste decomposer?
+    - tell me what is a waste decomposer
+    - can you tell me something realted to waste decomposer
+    - i want to know about waste decomposer
+    - is it something you tell me about waste decomposer
+    - what's the use of waste decomposer
+    - tell me the usage of waste decomposer
+    - any details related to the waste decomposer
+    - is there any details i know regarding waste decomposer
+    - can you list the facts about waste decomposer?
+    - details about waste decomposer?
+    - need information about waste decomposition? 
+    - show me the use of the waste decomposer 
+    - Is there any information I know regarding waste decomposer 
+    - Are there any details I know regarding Waste Decomposer
+    - list the details I know regarding waste decomposer 
+
+- intent: faq-agri-wheat-b5/information-regarding-calcium-deficiency-in-soil
+  examples: |
+    - information regarding calcium deficiency in soil?
+    - how to handle calcium defi in soil
+    - what can be done to make soil rich in calcium
+    - how to remove calcium deficiency from soil
+    - what should be sprayed to remove calcium deficiency in soil
+    - tell me all the techniques used to get rid of calcium deficiency in soil
+    - how can i make sure that our soil can never become calcium deficient
+    - what's the procedure we need to follow to make our soil rich in calcium
+    - how can i deal with calcium deficiency in soil
+    - is it possible to reduce the deficiency of calcium in soil
+    - any details related to calcium deficiency in soil
+    - What can be done to correct the calcium deficiency in soil?
+    - How to deal with calcium defici in soil 
+    - How to manage calcium defi in soil 
+    - which spray is used for removal of calcium deficiency in soil
+    - show the methods to remove calcium deficiency in soil?
+    - How can we prevent our soil from becoming calcium deficient?
+    - How can I ensure that our soil can never become calcium deficient 
+
+- intent: faq-agri-wheat-b5/information-regarding-salt-content-in-soil
+  examples: |
+    - information regarding salt content in soil?
+    - How do I determine salt content in soil?
+    - tell me to find salt content of soil?
+    - How much salt should be in soil?
+    - tell me about salt content of soil
+    - any details related to salt content in soil
+    - in soil, tell me about salt content
+    - tell me all in details about salt content in soil
+    - is there any thing you want to tell me about salt content in soil
+    - what do you know about the content of salt in soil
+    - How can we assess the salt content in soil?
+    - can you list the salt content of soil?
+    - Tell me about salt content of soil and the size of soils?
+    - How can I know the amount of salt content in soil?
+    - What do you know about the content of salt in soil?
+    - Tell me the content of salt in soil?
+
+- intent: faq-agri-wheat-b5/information-regarding-use-of-neem-spray-as-insecticide
+  examples: |
+    - information regarding use of neem spray as insecticide?
+    - How can you use neem spray as an insecticide?
+    - Is neem spray is a valid insecticide?
+    - How can we use neem spray as an insecticide?
+    - is it good to used neem spray as an insecticide?
+    - any details related to used of neem spray as an insecticides
+    - tell me that there is no side effect of using neem spray as an insecticides
+    - info related to the use of neem as insecticides
+    - is it true that neem spray is an alternate of insecticides
+    - Is there any toxicity that comes with the use of neem spray as insecticide?
+    - Does Neem spray really work as an alternative of insecticide?
+    - Is Neem spray a good insecticide?
+    - Tell me that there is no side effect of using neem spray as an insecticides 
+    - I can't see any side effects of using neem spray as insecticide.
+    - Is there any side effect from using neem spray as a insecticide? Is it harmless?
+    - Is neem spray an alternate of insecticides?
+
+- intent: faq-agri-wheat-b5/information-regarding-vertical-conveyor-reaper
+  examples: |
+    - information regarding vertical conveyor reaper ?
+    - What is vertical conveyor reaper? 
+    - What is the main purpose of vertical conveyor reaper?
+    - Can you give more details about vertical conveyor reaper?
+    - What is the information about vertical conveyor reaper?
+    - any details related to vertical conveyor reaper
+    - describe the vertical conveyor reaper
+    - give me more specific details about vertical conveyor reaper
+    - can you tell me the purose of vertical conveyor reaper
+    - More information on vertical conveyor reaper?
+    - I need technical information regarding vertical conveyor reaper?
+    - How can I get more information about vertical conveyor reaper in India?
+    - list the main features of vertical conveyor reaper?
+    - can you tell me more specific details about the vertical conveyor reaper.
+    - Please contact us with details regarding vertical conveyor reaper
+    - list any details related to vertical conveyor reaper 

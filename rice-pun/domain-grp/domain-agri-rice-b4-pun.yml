@@ -1,0 +1,28 @@
+version: "3.0"
+
+intents:
+  - faq-agri-rice-b4-pun
+
+responses:
+  utter_faq-agri-rice-b4-pun/information-regarding-hydroponic-technique-for-rice?:
+  - text: ਕੋਈ ਉੱਤਰ ਨਹੀਂ
+  utter_faq-agri-rice-b4-pun/information-regarding-to-improve-the-drainage-of-water-in-rice-field?:
+  - text: ਮਿੱਟੀ ਦੀ ਪਰਖ ਕਰੋ, ਮਿੱਟੀ ਦੇ ਨਿਕਾਸ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਮਿੱਟੀ ਪਰਖ ਅਨੁਸਾਰ ਖਾਦਾਂ ਪਾਓ।
+  utter_faq-agri-rice-b4-pun/information-regarding-thiamethoxam-25-wg-chemical-is-used-for-in-rice?:
+  - text: Thiamethoxam 25 WG ਦੀ ਵਰਤੋਂ ਕੀਟਨਾਸ਼ਕ ਲਈ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਨਾ ਕਿ ਉੱਲੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-technical-names-of-folicur-and-chloro?:
+  - text: ਫੋਲੀਕਰ ਟੇਬੂਕੋਨਾਜ਼ੋਲ ਹੈ ਅਤੇ ਕਲੋਰੋ ਵਿੱਚ ਕਲੋਰੋਪਾਈਰੀਫੋਸ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-paddy-seed-have-been-sown-for-6-days-seed-didn't-sprout-?:
+  - text: ਬੀਜ ਨੂੰ ਜ਼ਿਆਦਾ ਸਿੰਚਾਈ ਦੇਣ ਦਾ ਨਤੀਜਾ ਮਾੜਾ ਪੁੰਗਰਦਾ ਹੈ
+  utter_faq-agri-rice-b4-pun/information-regarding-paddy-seed-storage-in-home?:
+  - text: ਝੋਨਾ (ਆਮ) 2 ਸਾਲ ਤੱਕ ਘਰ ਵਿੱਚ ਸਟੋਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਝੋਨਾ (ਹਾਈਬ੍ਰਿਡ) ਸਟੋਰੇਜ ਲਈ ਢੁਕਵਾਂ ਨਹੀਂ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-waste-decomposer-used-in-paddy-straw?:
+  - text: ਵੇਸਟ ਡੀਕੰਪੋਜ਼ਰ ਨੂੰ ਤਿਆਰ ਕਰਨ ਲਈ 2 ਕਿਲੋ ਗੁੜ ਅਤੇ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਇੱਕ ਬੋਤਲ ਵੇਸਟ ਡੀਕੰਪੋਜ਼ਰ ਲਓ। 5 ਦਿਨਾਂ ਬਾਅਦ ਮਿਸ਼ਰਣ ਕ੍ਰੀਮੀ ਹੋ ਜਾਂਦਾ ਹੈ। ਪਿਛਲੇ ਮਿਸ਼ਰਣ ਦੇ 20 ਲੀਟਰ ਲੈ ਕੇ ਮਿਸ਼ਰਣ ਨੂੰ ਪਿਛਲੇ ਮਿਸ਼ਰਣ ਤੋਂ ਦੁਬਾਰਾ ਤਿਆਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-the-how-to-remove-the-water-from-paddy-field-?:
+  - text: ਖੇਤ ਵਿੱਚੋਂ ਪਾਣੀ ਨੂੰ ਹੱਥੀਂ ਕੱਢ ਦਿਓ ਜੇਕਰ ਫ਼ਸਲ ਨੂੰ ਪਾਣੀ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਡੁਬੋਇਆ ਜਾਵੇ ਤਾਂ ਇਹ ਫ਼ਸਲ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਂਦਾ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-standing-water-in-paddy-field?:
+  - text: 1-2 ਦਿਨਾਂ ਤੋਂ ਵੱਧ ਪਾਣੀ ਖੜ੍ਹਾ ਰਹਿਣ ਨਾਲ ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਵਾਧਾ ਰੁਕ ਜਾਂਦਾ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water-?:
+  - text: ਜੇਕਰ ਫ਼ਸਲ ਨੂੰ ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਪਾਣੀ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਡੁਬੋਇਆ ਜਾਵੇ ਤਾਂ ਇਹ ਫ਼ਸਲ ਲਈ ਨੁਕਸਾਨਦਾਇਕ ਹੋ ਸਕਦੀ ਹੈ ਪਰ ਜੇਕਰ ਪਾਣੀ ਦਾ ਪੱਧਰ ਉੱਚਾਈ ਤੋਂ ਹੇਠਾਂ ਜਾਵੇ ਤਾਂ ਫ਼ਸਲ ਬਚ ਸਕਦੀ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-preventing-the-paddy-field-from-cracks?:
+  - text: ਝੋਨੇ ਦੇ ਖੇਤ ਨੂੰ ਫਟਣ ਤੋਂ ਰੋਕਣ ਲਈ ਖੇਤ ਵਿੱਚ ਤਰੇੜਾਂ ਪੈਦਾ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਸਿੰਚਾਈ ਕਰੋ।

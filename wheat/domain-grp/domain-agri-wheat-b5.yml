@@ -1,0 +1,24 @@
+version: "3.0" 
+intents: 
+  - faq-agri-wheat-b5
+responses:
+  utter_faq-agri-wheat-b5/recommended-time-of-irrigation-of-wheat: 
+  - text: Number of Irrigation interval after sowing (In days) are 1st irrigation 20-25 days, 2nd irrigation 40-45 days, 3rd irrigation 60-65 days, 4th irrigation 80-85 days, 5th irrigation 100-105 days and 6th irrigation 115-120 days.
+  utter_faq-agri-wheat-b5/information-regarding-place-of-soil-test: 
+  - text: No-Answer for place of soil test.
+  utter_faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation: 
+  - text: Scrap away surface litter and make a V-shaped cut with a khurpa to a depth of 6 inches. Remove about 1 inches thick uniform slice of soil from one side of the cut. Similarly, collect samples from 7 to 8 places in the field of uniform texture and uniform fertility. Put the samples in a clean bucket and mix it thoroughly. Take approximately half kilogram of soil in a cloth bag.
+  utter_faq-agri-wheat-b5/information-regarding-protection-of-stored-grains-from-insect-pest-attack: 
+  - text: Place Aluminium Phophide tablets in container which is air tight properly and do not open for 25-30 days.
+  utter_faq-agri-wheat-b5/regarding-depth-of-seed-sown-of-wheat: 
+  - text: Depth of seed in soil in wheat is 4 to 6 centimeter.
+  utter_faq-agri-wheat-b5/information-regarding-waste-decomposer: 
+  - text: Waste Decomposer can be bought online on Amazon site.
+  utter_faq-agri-wheat-b5/information-regarding-calcium-deficiency-in-soil: 
+  - text: For control of Calcium deficiency in wheat is by spraying in 0.5 kilogram Calcium Nitrate in 100 litre of water per acre.
+  utter_faq-agri-wheat-b5/information-regarding-salt-content-in-soil: 
+  - text: Apply Gypsum 2-3 bags in soil.
+  utter_faq-agri-wheat-b5/information-regarding-use-of-neem-spray-as-insecticide: 
+  - text: Use 1 kilogram of neem leaves mixed in 5 litre of water
+  utter_faq-agri-wheat-b5/information-regarding-vertical-conveyor-reaper: 
+  - text: Vertical conveyor reaper mainly work on wheat and rice cutting.

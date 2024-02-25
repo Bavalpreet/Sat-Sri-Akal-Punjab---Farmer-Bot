@@ -1,0 +1,64 @@
+version: "3.0"
+
+intents:
+  - faq-hort-chilli-b0-pun
+
+responses:
+  utter_faq-hort-chilli-b0-pun/information-regarding-red-beetle-control-in-chllies-?:
+  - text: ਸਪਰੇਅ [ਨੈਪਥਾਈਲ ਐਸੀਟਿਕ ਐਸਿਡ 4.5 ਐਸਐਲ (4.5% ਡਬਲਯੂ/ਡਬਲਯੂ)] 400 ਮਿਲੀਲੀਟਰ / ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਮਿਕਸ ਕਰੋ
+  utter_faq-hort-chilli-b0-pun/information-regarding-insect-pest-in-chillies?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 100-125 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 400 ਮਿਲੀਲਿਟਰ ਮੈਲਾਥੀਆਨ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-mites-in-chilli?:
+  - text: ਮਿਰਚਾਂ ਵਿੱਚ ਦੇਕਣੂਆਂ ਨੂੰ ਕੰਟਰੋਲ ਕਰੋ ਐਕਟਰਾ 3 ਗ੍ਰਾਮ ਜਾਂ ਕਨਫੀਡੋਰ 4 ਮਿਲੀਲਿਟਰ / 10 ਲਿਟਰ ਪਾਣੀ ਦਾ ਛਿੜਕਾਅ
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-spider-mites-in-chiili?:
+  - text: 200 ਮਿਲੀਲਿਟਰ ਰੋਗਰ 30 ਈਸੀ ਨੂੰ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-diamond-back-moth-in-chilly?:
+  - text: ਮਿਰਚਾਂ ਵਿੱਚ ਡਾਇਮੰਡ ਬੈਕ ਮੋਥ ਦੇ ਨਿਯੰਤਰਣ ਲਈ 80-100 ਲੀਟਰ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਕੇ 420 ਮਿ.ਲੀ. ਸਪਿਨੋਸੈਡ 2.5 ਐਸਸੀ ਜਾਂ 70 ਗ੍ਰਾਮ ਪ੍ਰੋਕਲੇਮ 5 ਐਸਜੀ (ਇਮੇਮੇਕਟਿਨ ਬੈਂਜੋਏਟ) ਜਾਂ 130 ਮਿ.ਲੀ. ਅਵਾਂਟ 15.8 ਈਸੀ (ਇੰਡੌਕਸਕਾਰਬ) ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-to-control-of-root-rot-in-chilli:
+  - text: ਮਿਰਚਾਂ ਵਿੱਚ ਜੜ੍ਹਾਂ ਦੇ ਸੜਨ ਦਾ ਨਿਯੰਤਰਣ - 500 ਗ੍ਰਾਮ SAAF (12% ਕਾਰਬੈਂਡਾਜ਼ਿਮ 63% WP ਮੈਨਕੋਜ਼ੇਬ) ਨੂੰ ਰੇਤ ਨਾਲ ਪ੍ਰਸਾਰਿਤ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-how-to-control-stem-rot-in-chillies?:
+  - text: ਮਿਰਚ (ਮਿਰਚ) ਵਿੱਚ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 300 ਗ੍ਰਾਮ SAAF ਦਾ ਛਿੜਕਾਅ ਕਰਕੇ ਸਟੈਮ ਰੋਟ ਨੂੰ ਕੰਟਰੋਲ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/how-to-control-of-yellow-spots-in-chillies?:
+  - text: ਸਿਕਸਰ 1/2 ਕਿਲੋ ਪ੍ਰਤੀ 120 ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਲਾਗੂ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-catrepiller-in-chilies?:
+  - text: ਕੈਟਰਪਿਲਰ ਦੀ ਰੋਕਥਾਮ ਲਈ ਕੋਰੇਜਨ 1 ਮਿਲੀਲੀਟਰ ਨੂੰ 2 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-sundi-in-chillies-?:
+  - text: ਕੋਰੇਜਨ @ 40 ਗ੍ਰਾਮ 150 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-thrips-in-chilles?:
+  - text: ਚਿੱਲੀ ਵਿੱਚ ਥ੍ਰਿਪਸ ਦੀ ਰੋਕਥਾਮ ਲਈ 560 ਮਿਲੀਲਿਟਰ ਮੈਲਾਥੀਓਨ 50 ਈਸੀ ਜਾਂ 200 ਮਿਲੀਲੀਟਰ ਰੋਗਰ ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-birds-in-chillies?:
+  - text: ਮਿਰਚਾਂ ਵਿੱਚ ਪੰਛੀਆਂ ਦੇ ਹਮਲੇ ਤੋਂ ਬਚਣ ਲਈ ਪਟਾਕਿਆਂ ਦੀ ਵਰਤੋਂ ਕਰੋ ਜਾਂ ਮਲਮਲ ਦੇ ਕੱਪੜੇ ਨਾਲ ਢੱਕੋ
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-leaf-spot-in-chilli-crop?:
+  - text: ਮਿਰਚ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਪੱਤਿਆਂ ਦੇ ਧੱਬੇ ਦੀ ਰੋਕਥਾਮ 200 ਗ੍ਰਾਮ ਇੰਡੋਫਿਲ ਐਮ-45 ਨੂੰ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-for-the-control-of-damping-off-disease-in-chillies-crop?:
+  - text: ਮਿਰਚਾਂ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਨਦੀਨ ਰੋਗ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ 150 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 400 ਗ੍ਰਾਮ ਐਮ-45 ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-chilli-anthracnose?:
+  - text: 750 ਗ੍ਰਾਮ ਇੰਡੋਫਿਲ ਐਮ-45 ਨੂੰ 200-250 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/how-to-control-of-phomopsis-blight-of-chilli?:
+  - text: 200 ਗ੍ਰਾਮ ਜ਼ੀਨਬ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਮਿਲਾ ਕੇ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-leaf-curl-in-chilli?:
+  - text: ਮਿਰਚਾਂ ਵਿੱਚ ਲੀਫ ਕਰਲ ਵਾਇਰਸ ਦੇ ਨਿਯੰਤਰਣ ਲਈ 1 ਲੀਟਰ ਨਿੰਬੀਸਾਈਡਾਈਨ ਨਿੰਮ ਦਾ ਤੇਲ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-white-fly-in-chilies?:
+  - text: ਰੋਗਰ 250 ਮਿਲੀਲੀਟਰ ਜਾਂ ਕਨਫੀਡੋਰ 40 ਮਿਲੀਲੀਟਰ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-dose-of-urea-in-chilli?:
+  - text: ਮਿਰਚ ਲਈ ਯੂਰੀਆ ਦੀ ਖੁਰਾਕ 55 ਕਿਲੋ/ਏਕੜ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-fungal-disease-in-chilies?:
+  - text: ਮਿਰਚਾਂ ਵਿੱਚ ਉੱਲੀ ਰੋਗ ਦੀ ਰੋਕਥਾਮ ਲਈ 750 ਗ੍ਰਾਮ ਬਲਾਇਟੋਕਸ ਨੂੰ 250 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-dryness-in-chilli-due-to-rainfall?:
+  - text: ਫ਼ਸਲ 'ਤੇ ਛਿੜਕਾਅ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ, ਕੁਝ ਸਮੇਂ ਲਈ ਪੌਦੇ ਆਪਣੇ ਆਪ ਠੀਕ ਹੋ ਜਾਣ ਦੀ ਉਡੀਕ ਕਰੋ
+  utter_faq-hort-chilli-b0-pun/information-regarding-how-to-control-white-grub-in-chilies.:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫੋਸ 1.5 ਲੀਟਰ 10 ਕਿਲੋ ਰੇਤ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਮਿਕਸ ਕਰੋ
+  utter_faq-hort-chilli-b0-pun/information-regarding-the-recommendation-of-manganese-in-chilli?:
+  - text: ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ 500 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ 2-3 ਦਿਨ ਪਹਿਲਾਂ ਧੁੱਪ ਵਾਲੇ ਦਿਨਾਂ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-deficiency-of-macro-nutrients-in-chili?:
+  - text: ਸਪਰੇਅ N:P:K-19:19:19/1KG 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਵਰਤੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-mosaic-in-chilli-crop?:
+  - text: ਮਿਰਚ ਮੋਜ਼ੇਕ ਵਾਇਰਸ ਤੋਂ ਬਚਣ ਲਈ 400 ਮਿਲੀਲੀਟਰ ਮੈਲਾਥੀਆਨ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-for-the-control-of-shoot-borer-in-chillies-crop?:
+  - text: ਮਿਰਚਾਂ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਸ਼ੂਟ ਬੋਰਰ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, 160 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ PLS-ਸਾਈਪਰਮੇਥਰਿਨ-250ML ਜਾਂ ਕਾਰਟਾਪ ਹਾਈਡ੍ਰੋਕਲੋਰਾਈਡ (ਪਾਊਡਰ)-250GM ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-control-of-jassid-in-chilli?:
+  - text: 400 ਮਿਲੀਲੀਟਰ ਮੈਲਾਥੀਆਨ 50 ਈਸੀ ਨੂੰ 100-125 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-growth-regulator-used-in-chilli-crop?:
+  - text: ਮਿਰਚਾਂ ਦੀ ਫਸਲ ਵਿੱਚ ਮਈ-ਜੂਨ ਵਿੱਚ ਨੈਫਥਲੀਨ ਐਸੀਟਿਕ ਐਸਿਡ (ਐਨਏਏ) 4 ਜੀ 10-15 ਮਿਲੀਲੀਟਰ ਇਥਾਈਲ ਅਲਕੋਹਲ ਪ੍ਰਤੀ ਲੀਟਰ ਜਾਂ ਪਲੈਨੋਫਿਕਸ 1 ਮਿ.ਲੀ. ਨੂੰ 4.5 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ 10 ਦਿਨਾਂ ਦੇ ਅੰਤਰਾਲ 'ਤੇ ਸਪਰੇਅ ਕਰਨ ਲਈ ਗ੍ਰੋਥ ਰੈਗੂਲੇਟਰ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।
+  utter_faq-hort-chilli-b0-pun/information-regarding-transplanting--time-of-chillies-crops?:
+  - text: ਮਿਰਚਾਂ ਦੀ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਫਰਵਰੀ ਹੈ। - ਮਾਰਚ.

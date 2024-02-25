@@ -1,0 +1,150 @@
+version: '3.0'
+intents:
+- greet
+- goodbye
+- ok
+- faq-hort-citrus-b0
+responses:
+  utter_greet:
+  - text: Hi! Welcome to Farmerapp. You can ask queries related to crop diseases,
+      fertilizers, etc.
+  utter_goodbye:
+  - text: Bye
+  utter_ok:
+  - text: "Thank You!!  \n Please type your questions in the chat"
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?
+  utter_default:
+  - text: Sorry I didn't get that. Can you rephrase?
+  utter_faq-hort-citrus-b0/information-regarding-for-the-control-of-fungus-in-citrus:
+  - text: For the control of fungus, spray 3 gram Blitox per litre of water.
+  utter_faq-hort-citrus-b0/information-regarding-how-to-control-gummosis-in-kinnow:
+  - text: For the control of gummosis, spray blitox 3 gram or ridomil gold 2.5 gram
+      per litre water.
+  utter_faq-hort-citrus-b0/information-regarding-citrus-psylla:
+  - text: For the control of psylla , spray 200 ml Confidor 17.8 SL (imidacloprid)
+      in 500 litre water per acre.
+  utter_faq-hort-citrus-b0/information-reagrding-how-to-control-pest-in-kinnow:
+  - text: For the control of pest, spray 400 ml Rogor in 250 litre of water per acre.
+  utter_faq-hort-citrus-b0/information-regarding-weed-control-in-kinnow:
+  - text: For the control of weeds, spray Gramaxone 24 WSC (paraquat) @ 1.2 litre/acre
+      in 200 litres of water.
+  utter_faq-hort-citrus-b0/information-regarding-control-leaf-curl-in-kinnow:
+  - text: For the control of leaf curl, spray 3 ml Malathion 50 EC per litre of water.
+  utter_faq-hort-citrus-b0/information-regarding-for-the-control-of-aphids-in-kinnow-orchard:
+  - text: For the control of aphids, spray 70 ml Imidachloprid in 100 litre water.
+  utter_faq-hort-citrus-b0/information-regarding-to-flower-drop-in-kinnow:
+  - text: For the control of flower drop, apply light irrigations in summer to avoid
+      fruit dropping and apply fungicide bavistin 2.5 gram per litre if the dropping
+      is by fungal attack.
+  utter_faq-hort-citrus-b0/information-regarding-for-control-of-blight-in-citrus:
+  - text: For the control of blight spray 3 gm Blitox per litre of water.
+  utter_faq-hort-citrus-b0/information-regarding-for-control-of-yellwoing-in-citrus:
+  - text: For the control of yellowing spray NPK 13:0:45 1-2 gm in 1 litre of water
+      to control the yellowing.
+  utter_faq-hort-citrus-b0/information-regarding-control-of-blackfly-in-citrus:
+  - text: For the control of blackfly spray 1000 ml Fosmite 30 EC (ethion) in 500
+      litres of water per acre.
+  utter_faq-hort-citrus-b0/tell-me-control-of-jassid-in-citrus:
+  - text: For control of jassids spray 160 gm aektara in 500 litres of water
+  utter_faq-hort-citrus-b0/information-regarding-for-the-control-of-black-spotts-in-citrus-plants:
+  - text: For the control of black spots spray Ridomil MZ (Metalexyl + Mencozeb) 2
+      gram per litre water.
+  utter_faq-hort-citrus-b0/information-regarding-the-control-of-anthracnose-in-citrus:
+  - text: For the control of anthracnose spray copper oxychloride or M-45 or bavistan
+      50 WP @ 3gm per 1 litre water is done.
+  utter_faq-hort-citrus-b0/how-to-conrol-leaf-miner-in-kinnows:
+  - text: For control of leaf miner spray 200 ml confidor 17.8 SL (imidacloprid) per
+      acre in 500 litre of water during April-May and September-October.
+  utter_faq-hort-citrus-b0/how-to-increase-fruit-size-of-citrus:
+  - text: To improve the fruit quality spray 10 gram NPK-13:0:45 per litre of water.
+  utter_faq-hort-citrus-b0/information-regarding-for-urea-dose-in-kinnow-plant:
+  - text: Dose of urea 1-2 KG urea/plant
+  utter_faq-hort-citrus-b0/information-regarding-fertilizers-dose-in-kinnow-plant:
+  - text: The recommended fertilizer doses for (1-3 years plant) - FYM-5-20 kg, urea-110-330
+      gram per plant, (4-6 years plant) - FYM -25-50kg, urea-440-550 gram per plant,(7-9
+      years plants )-FYM -60-90 kg ,urea-660-880 gram and (10 and above)-FYM-100 kg
+      ,urea-880-1760 gram per plant
+  utter_faq-hort-citrus-b0/what-is-the-dose-of-zinc-in-citrus:
+  - text: Dose of Zinc is 3 gram per litre of water.
+  utter_faq-hort-citrus-b0/when-is-the-time-of-fertilizer-application-in-citrus:
+  - text: Apply recommended whole FYM in the month of December. Apply half urea and
+      whole super phosphate in the month of February and remaining half urea In the
+      month of April to may. Apply muriate of potash according to soil test.
+  utter_faq-hort-citrus-b0/how-to-control-thrips-in-kinnow:
+  - text: For the control of thrips spray 1000 ml Fosmite 50 EC in 500ml water per
+      acre.
+  utter_faq-hort-citrus-b0/tell-me-the-control-of-scab-in-kinnow:
+  - text: Spray 500 gram Blitox in 500 litre water/acre.
+  utter_faq-hort-citrus-b0/problem-of-phytophthora-in-citrus:
+  - text: Apply Ridomil @ 25 in 10 litres of water.
+  utter_faq-hort-citrus-b0/problem-of-leaf-folder-in-citrus:
+  - text: For the control of leaf folder spray 4 ml Ekalux 25 EC (quinalphos) in 1
+      litre of water.
+  utter_faq-hort-citrus-b0/problem-of-white-fly-in-citrus:
+  - text: For the control of white fly spray 1 litre Fosmite 50 EC in 500 litres of
+      water/acre.
+  utter_faq-hort-citrus-b0/problem-of-mealy-bug-in-citrus:
+  - text: Drench spraying of insecticides like 1875 ml Massban/Durmet/Dursban/Coroban
+      20 EC (chlorpyriphos) in 500 litres of water first on the appearance of pest
+      and repeat the spray if required.
+  utter_faq-hort-citrus-b0/information-regarding-for-the-sowing-time-of-citrus-palnts:
+  - text: Sowing time is Feb-March or August-September.
+  utter_faq-hort-citrus-b0/information-regarding-the-proper-growth-of-citrus-plant:
+  - text: Spray 1 kg NPK (19:19:19) in 100 litre of water/acre.
+  utter_faq-hort-citrus-b0/information-regarding-for-the-control-of-zinc-deficency-in-kinnow:
+  - text: For the control of zinc deficiency spray zinc sulphate solution 4.7 gram/litre
+      of water in end April and mid August.
+  utter_faq-hort-citrus-b0/infrmation-regarding-nitrogen-requirement-of-kinnow:
+  - text: Spray NPK 19:19:19 @ 10 gram/litre of water.
+  utter_faq-hort-citrus-b0/information-regarding-planting-space-in-kinnow:
+  - text: The recommended planting space is 6m x 6m
+  utter_faq-hort-citrus-b0/information-regarding-pruning-in-citrus:
+  - text: For pruning cut the branches which are dead and diseased then spray blitox
+      3 gram in 1 litre of water
+  utter_faq-hort-citrus-b0/how-to-control-canker-diseases-in-citrus-plant:
+  - text: For the control of canker apply 50 gram streptocycline + 25 gram copper
+      sulphate in 500 litres of water spray in October, December and February. Alternatively
+      50 gram streptocycline + 1250 ml copper oxychloride can also be applied.
+  utter_faq-hort-citrus-b0/information-regarding-bordeaux-mixture-ratio-in-kinnow-orchard:
+  - text: Bordeaux mixture ratio is 1:1:100 of copper sulphate,lime and water.
+  utter_faq-hort-citrus-b0/information-regarding-dosage-of-planofix-in-citrus:
+  - text: spray 1 ml planofix with 4.5 litre water
+  utter_faq-hort-citrus-b0/information-regarding-the-growth-regulator-used-in-citrus:
+  - text: Growth regulator used, spray N:P:K 13:0:45 10 gram/litre water.
+  utter_faq-hort-citrus-b0/information-regarding-deficiency-of-sulphur--in-citrus:
+  - text: Apply 3-4 quintal Gypsum per acre to control sulphur deficiency
+  utter_faq-hort-citrus-b0/how-to-deal-with-boron-deficiency-in-citrus-plants:
+  - text: Spray Borax @ 2-3 gram per litre of water for the deficiency of boron.
+  utter_faq-hort-citrus-b0/how-to-control-manganese-deficiency-in-citrus-plant:
+  - text: Spray manganese sulphate @ 0.1%-0.2% solution for the deciciency of manganese.
+  utter_faq-hort-citrus-b0/information-regarding-for-nutrient-deficiency-in-kinnow:
+  - text: Spray N:P:K (19:19:19) 1 kg in 100 litres of water per acre for the nutrient
+      management
+  utter_faq-hort-citrus-b0/information-regarding-dose-of-trichoderma-in-plants--of-citrus:
+  - text: Use 60-70 gram dose per plant for better result mix it into FYM for 5-6
+      days and maintain its moisture daily.
+  utter_faq-hort-citrus-b0/information-regarding-control-of-catterpiller-in-citrus:
+  - text: Spray Ekalux 25ec 300ml in 200 litre of water/acre.
+  utter_faq-hort-citrus-b0/information-regarding-mixing-of-insecticide-with-fungicide:
+  - text: Mixing of insecticide with fungicide is not recommended.
+  utter_faq-hort-citrus-b0/information-regarding-root-weevil-attack-in-citrus:
+  - text: Drench the soil with chloropyriphos 10 ml in per litre of water
+  utter_faq-hort-citrus-b0/how-to-control-gummosis-disease-in-kinnows:
+  - text: For control of gummosis, give 2 sprays of blitox 3 gram or ridomil gold
+      2.5 gram per litre water.
+  utter_faq-hort-citrus-b0/information-regarding-black-fungus-growth-on-citruis-leaves:
+  - text: Black fungus growth on leaves is sooty mold which become black colour spray
+      redomil 2g in 1 liter water to protect plant from it.
+  utter_faq-hort-citrus-b0/post-harvest-management-of-citrus:
+  - text: Store fruits after harvesting and waxing
+  utter_faq-hort-citrus-b0/information-regarding-water-management-in-citrus:
+  - text: Apply water according to ring system. Do not apply flood irrigation.
+actions:
+- action_viz_faq
+- action_general
+forms: {}
+e2e_actions: []
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

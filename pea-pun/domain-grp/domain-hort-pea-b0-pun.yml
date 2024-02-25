@@ -1,0 +1,72 @@
+version: "3.0"
+
+intents:
+  - faq-hort-pea-b0-pun
+
+responses:
+  utter_faq-hort-pea-b0-pun/information-regarding-for-the-control-leaf-miner-attack-in-pea-crop?:
+  - text: 300-400 ਮਿਲੀਲਿਟਰ ਮੈਟਾਸਿਸਟੌਕਸ 30 ਈਸੀ 150 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-caterpiler-in-peas?:
+  - text: ਮਟਰ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਕੈਟਰਪਿਲਰ ਦੀ ਰੋਕਥਾਮ ਲਈ 70 ਗ੍ਰਾਮ ਪ੍ਰੋਕਲੇਮ (ਇਮੇਮੇਕਟਿਨ ਬੈਂਜੋਏਟ), 100 ਮਿਲੀਲਿਟਰ ਸੁਮੀਸੀਡੀਨ (ਫੇਨਵੈਲਰੇਟ) ਜਾਂ 130 ਮਿਲੀਲੀਟਰ ਅਵਾੰਟ (ਇੰਡੌਕਸਕਾਰਬ 15.8 ਈ.ਸੀ.) ਜਾਂ 60 ਮਿਲੀਲੀਟਰ ਕੋਰੇਜਨ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-control-of-borer-in-pea-?:
+  - text: ਕੋਰਾਜਨ 60 ਮਿਲੀਲਿਟਰ ਨੂੰ 120 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਇੱਕ ਏਕੜ ਲਈ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-hort-pea-b0-pun/information-regarding-the-control-of-damping-off-in-pea-?:
+  - text: ਬਾਵਿਸਟਿਨ (ਕਾਰਬੈਂਡਾਜ਼ਿਮ) @ 200 ਗ੍ਰਾਮ 200 ਲਿਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-fugal-problem-in-peas?:
+  - text: ਇੰਡੋਫਿਲ ਐਮ 45 400 ਗ੍ਰਾਮ 200 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਮਟਰ ਦੇ ਖੇਤ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-for-the-control-of-stem-borer-attack-in-pea-crop?:
+  - text: ਰੋਜਰ (ਡਾਈਮੇਥੋਏਟ) 400 ਮਿ.ਲੀ. 80-100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-hort-pea-b0-pun/information-regarding-yellowing-of-pea-plants?:
+  - text: ਮਾਈਕ੍ਰੋਨਿਊਟ੍ਰੀਐਂਟ 1 ਕਿਲੋ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-brown-spot-in-pea-crop?:
+  - text: BLITOX 50wp 300G 100 ਲੀਟਰ ਪਾਣੀ ਦੇ ਮਿਸ਼ਰਣ ਨਾਲ ਅਤੇ ਸਪਰੇਅ ਪ੍ਰਤੀ ਏਕੜ
+  utter_faq-hort-pea-b0-pun/how-to-control-thirps-in-pea-crop-?:
+  - text: 400 ਮਿਲੀਲੀਟਰ ਰੋਗਰ 30 ਈਸੀ ਡਾਈਮੇਥੋਏਟ ਦਾ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-hort-pea-b0-pun/how-to-pest-control-in-pea-crop-?:
+  - text: 1 ਏਸੀਆਰ ਲਈ 150 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਸਾਈਪਰਮੇਥਰਿਨ 20 ਈਸੀ 80-100 ਮਿ.ਲੀ. ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-control-of-powdery-mildew-in-pea?:
+  - text: ਮਟਰਾਂ ਵਿੱਚ ਪਾਊਡਰ ਫ਼ਫ਼ੂੰਦੀ ਦੀ ਰੋਕਥਾਮ ਲਈ 80 ਮਿਲੀਲਿਟਰ ਕਰਾਥੇਨੇ ਜਾਂ 600 ਗ੍ਰਾਮ ਸਲਫ਼ੈਕਸ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/how-to-control-of-flower-droping-in-pea-crop?:
+  - text: ਸਪਰੇਅ 1 ਮਿ.ਲੀ. ਪਲੈਨੋਫਿਕਸ ਵਿੱਚ 4.5 ਲਿ. ਪਾਣੀ ਦੀ.
+  utter_faq-hort-pea-b0-pun/information-regarding-control-of-termite-in-pea?:
+  - text: ਮਟਰ ਵਿੱਚ ਦੀਮਕ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਥਾਈਮੇਟ @ 3 ਕਿਲੋਗ੍ਰਾਮ / ਏਕੜ ਦੀ ਵਰਤੋਂ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-for-the-control-of-rust-disease-attack-in-pea-crop?:
+  - text: ਮਟਰਾਂ ਦੀ ਜੰਗਾਲ ਲਈ 400 ਗ੍ਰਾਮ ਇੰਡੋਫਿਲ ਐਮ-45 ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-the-control-of-rats-in-pea?:
+  - text: ਚੂਹਿਆਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਜ਼ਿੰਕ ਫਾਸਫਾਈਡ ਦੀ ਵਰਤੋਂ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-for-the-deficiency-of-potash-in-pea?:
+  - text: 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ n:p:k-13:0:45/1kg ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-the-control-of-insects-in-pea-?:
+  - text: ਮਟਰ ਵਿੱਚ ਕੀੜਿਆਂ ਦੀ ਰੋਕਥਾਮ ਲਈ 300 ਮਿਲੀਲਿਟਰ ਮੈਲਾਥੀਆਨ 50 ਈਸੀ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-the-control-of-aphids-in-peas?:
+  - text: ਰੋਗਰ 150 ਮਿਲੀਲਿਟਰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-rgearding-for-the-control-of-grasshopper-in-pea?:
+  - text: ਮਟਰ ਵਿੱਚ ਟਿੱਡੀ ਦੀ ਰੋਕਥਾਮ ਲਈ 800 ਮਿਲੀਲਿਟਰ ਏਕਲੌਕਸ ਨੂੰ 80-100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-control-of-blight-in-pea?:
+  - text: ਬਲਿਟੌਕਸ @ 250 ਗ੍ਰਾਮ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-control-of-leaf-curl-in-pea?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 150 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ 500 ਗ੍ਰਾਮ SAAF (UPL) ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-for-the-sowing-time-of-pea?:
+  - text: ਮਟਰ ਦੀ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਮੱਧ ਅਕਤੂਬਰ ਤੋਂ ਅੱਧ ਨਵੰਬਰ ਤੱਕ।
+  utter_faq-hort-pea-b0-pun/control-of-rotting-in-pea?:
+  - text: 100 ਲਿਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 300 ਗ੍ਰਾਮ ਇੰਡੋਫਿਲ ਐਮ-45 ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-for-control-of-root-rot-in-pea?:
+  - text: ਮਟਰਾਂ ਵਿੱਚ ਜੜ੍ਹਾਂ ਦੀ ਸੜਨ ਦੀ ਰੋਕਥਾਮ ਲਈ ਖੇਤ ਨੂੰ 3 ਗ੍ਰਾਮ ਬਾਵਿਸਟਿਨ 50 ਡਬਲਯੂਪੀ (ਕਾਰਬੈਂਡਾਜ਼ਿਮ) ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਨਾਲ ਭਿੱਜੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-seed-treatment-in-pea-crop?:
+  - text: ਮਟਰ ਦੀ ਫ਼ਸਲ ਵਿੱਚ 8 ਟਨ ਖਾਦ, 45 ਕਿਲੋ ਯੂਰੀਆ ਅਤੇ 155 ਕਿਲੋ ਸਿੰਗਲ ਸੁਪਰਫਾਸਫੇਟ ਪਾਓ।
+  utter_faq-hort-pea-b0-pun/information-regarding-growth-of-peas?:
+  - text: ਮਟਰ ਦੀ ਫ਼ਸਲ ਦੇ ਵਾਧੇ ਲਈ 1KG ਪਾਊਡਰ NPK (19:19:19) ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ (@10 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ) ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-the-control-of-weeds-in-peas?:
+  - text: ਮਟਰਾਂ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ ਸਟੌਪ 30EC (ਪੈਂਡੀਮੇਥਾਲਿਨ) @ 1 ਲਿਟਰ ਬਿਜਾਈ ਤੋਂ 2 ਦਿਨਾਂ ਬਾਅਦ 200 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/control-of-weeds-in-pea-after-40-days-of-sowing?:
+  - text: ਹੱਥੀਂ ਨਦੀਨਨਾਸ਼ਕ ਕੀਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ, ਜੜੀ-ਬੂਟੀਆਂ ਦੀ ਕੋਈ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ।
+  utter_faq-hort-pea-b0-pun/information-regarding-temperature-requirement-for-pea-germination?:
+  - text: ਮਟਰ ਦੀ ਬਿਜਾਈ ਦਾ ਤਾਪਮਾਨ 25-30 ਡਿਗਰੀ ਸੈਲਸੀਅਸ ਹੁੰਦਾ ਹੈ
+  utter_faq-hort-pea-b0-pun/information-regarding-total-fertilizers-dose-in-pea?:
+  - text: ਬਿਜਾਈ ਦੇ ਸਮੇਂ 45 ਕਿਲੋ ਯੂਰੀਆ ਅਤੇ 155 ਕਿਲੋ ਸਿੰਗਲ ਸੁਪਰ ਫਾਸਫੇਟ ਪਾਓ।
+  utter_faq-hort-pea-b0-pun/information-regarding-the-deficiency-of-sulphur-in-pea-?:
+  - text: 3 ਕਿਲੋਗ੍ਰਾਮ / ਏਕੜ ਸਲਫਰ ਦੀ ਵਰਤੋਂ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-nutrient-requirement-at-flowering-stage-in-pea-?:
+  - text: ਮਟਰ ਵਿੱਚ ਫੁੱਲ ਆਉਣ ਸਮੇਂ ਪੌਸ਼ਟਿਕ ਤੱਤਾਂ ਦੀ ਲੋੜ- 1 ਕਿਲੋ NPK 13 00 45 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-pea-b0-pun/information-regarding-deficiency-of-iron-in-pea-?:
+  - text: 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 500 ਗ੍ਰਾਮ ਫੈਰਸ ਸਲਫੇਟ ਦੀ ਸਪਰੇਅ ਕਰੋ।

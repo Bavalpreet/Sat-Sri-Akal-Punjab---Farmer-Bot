@@ -1,0 +1,62 @@
+version: "3.0" 
+intents: 
+  - faq-hort-chilli-b0
+responses:
+  utter_faq-hort-chilli-b0/information-regarding-red-beetle-control-in-chllies: 
+  - text: Spray [Napthyl Acetic Acid 4.5 SL (4.5 % w/w)] 400 ml/acre mix 100 litre water
+  utter_faq-hort-chilli-b0/information-regarding-insectpest-in-chillies: 
+  - text: Spray Malathion @ 400 ml in 100-125 litre water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-mites-in-chilli: 
+  - text: For the control of mites in chilies spray Actara 3 gram or Confidoor 4 ml per 10 litre water
+  utter_faq-hort-chilli-b0/information-regarding-control-of-spider-mites-in-chiili: 
+  - text: Spray 200 ml Roger 30 EC in 100 litre of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-diamondback-moth-in-chilll: 
+  - text: For the control of diamond back moth in chilli spray 420 ml Spinosad 2.5 SC or 70 gram Proclaim 5 SG (emamectin benzoate) or 130 ml Avant 15.8 EC (indoxacarb) using 80-100 litre of water.
+  utter_faq-hort-chilli-b0/information-regarding-to-control-of-root-rot-in-chilli: 
+  - text: For the control of root rot in chillies, broadcast 500 gram Saaf (12% carbendazim 63% WP mancozeb ) with sand
+  utter_faq-hort-chilli-b0/information-regarding-how-to-control-stem-rot-in-chillies: 
+  - text: For the control of stem rot spray 300 gram Saaf in 100 litre water/acre in chilli.
+  utter_faq-hort-chilli-b0/how-to-control-of-yellow-spots-in-chillies: 
+  - text: For the control of yellow spots apply Sixer 1/2 kg per 120 litre of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-catrepiller-in-chilies: 
+  - text: For the control of Caterpillar spray Coragen 1 ml in 2 litre of water.
+  utter_faq-hort-chilli-b0/information-regarding-control-sundi-in-chillies: 
+  - text: For the control of sundi spray Coragen @ 40 gram in 150 litre of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-thrips-in-chilles: 
+  - text: For the control of thrips in Chilli spray 560 ml Malathion 50 EC or 200 ml Roger per acre in 100 litre of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-birds-in-chillies: 
+  - text: For the control of birds use crackers to avoid attack in chillies or cover it with muslin cloth
+  utter_faq-hort-chilli-b0/information-regarding-control-of-leaf-spot-in-chilli-crop: 
+  - text: For the control of leaf spot in Chilli crop spray 200 gram Indofil M-45 in 100 litre water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-for-the-control-of-damping-off-disease-in-chillies--crop: 
+  - text: For the control of damping off disease in chillies crop, please spray 400 gram M-45 in 150 litre water/acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-chilli-anthracnose: 
+  - text: For the control of Anthracnose, spray 750 gram Indofil M-45 in 200-250 litre water per acre.
+  utter_faq-hort-chilli-b0/how-to-control-of-phomopsis-blight-of-chilli: 
+  - text: For the control of phomopsis blight, spray 200 gram Zineb with 100 litre water/acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-leaf-caurl-in-chilli: 
+  - text: For the control of leaf curl virus in chillies, spray 1 litre Nimbicidine neem oil in 100 litre of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-white-fly-in-chilies: 
+  - text: For the control of white fly in chillies, spray Roger 250 ml or Confidor 40 ml in 100 litre of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-dose-of-urea-in-chilli: 
+  - text: Dose of urea for chilli is 55 kg/acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-fungal-disease-in-chilies: 
+  - text: For the control of fungal disease in chillies, spray 750 gram Blitox in 250 litre of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-dryness-in-chilli-due-to-rainfall: 
+  - text: No need to spray on the crop wait for some time the plants will heal itself.
+  utter_faq-hort-chilli-b0/information-regarding-how-to-control-white-grub-in-chilies: 
+  - text: For the control of white grub, spray Chlorpyrifos 1.5 litre mixed with 10 kg sand per acre.
+  utter_faq-hort-chilli-b0/information-regarding-the-recommendation-of-manganese-in-chilli: 
+  - text: Spray manganese sulphate 500 gram in 100 litres of water per acre 2-3 days before on sunny days.
+  utter_faq-hort-chilli-b0/information-regarding-deficiensy-of-macro-nutrients-in-chili: 
+  - text: Use N:P:K-19:19:19 1 kg in 100 litres of water.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-mosaic-in-chilli-crop: 
+  - text: For the control of mosaic, spray 400 ml Malathion per acre in 100 litres of water.
+  utter_faq-hort-chilli-b0/information-regarding-for-the-control-of-shoot-borer-in-chillies-crop: 
+  - text: For the control of shoot borer in chillies, spray Cypermethrin 250 ml or Cartap Hydrochloride (powder) 250 gram in 160 litre water/acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-jassid-in-chilli: 
+  - text: For the control of jassid in chillies, spray 400 ml Malathion 50 EC in 100-125 litre of water.
+  utter_faq-hort-chilli-b0/information-regarding-growth-regulator-used-in-chilli-crop: 
+  - text: Growth regulator used in Chilli crop in May-June, spray Napthalene Acetic Acid (NAA) 4 gram in 10-15 ml ethyl alcohal per litre or Planofix 1 ml in 4.5 litre water at 10 days interval.
+  utter_faq-hort-chilli-b0/information-regarding-transplanting--time-of-chillies-crops: 
+  - text: The transplaiting time of chillies is Feb-March.

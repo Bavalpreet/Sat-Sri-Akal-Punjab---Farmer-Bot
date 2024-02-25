@@ -1,0 +1,64 @@
+version: "3.0" 
+intents: 
+  - faq-hort-guava-b0
+responses:
+  utter_faq-hort-guava-b0/information-regarding-for-control-of-caterpillar-in-guava:
+  - text: Spray 2 ml Malathion in 1 litre of water for the control of catterpilar in guava.
+  utter_faq-hort-guava-b0/how-to-control-the-fruit-droping-in-guava: 
+  - text: Apply light irrigations in summer to avoid fruit dropping. Apply fungicide bavistin 2.5 gram per litre if the dropping is due to fungal attack.
+  utter_faq-hort-guava-b0/information-regarding-for-the-control-of-bacterial-blight-disease-in-guava-crop: 
+  - text: Sapray 500 gram Blitox + 3 gram Streptocyclin in 100 litre water/acre.
+  utter_faq-hort-guava-b0/information-regarding-for-control-of-fungus-in-guava:
+  - text: To control Fungus in Guava spray 3 gram Indofil M-45 or Blitox per litre of water.
+  utter_faq-hort-guava-b0/information-regarding-pest-attack-in-guava: 
+  - text: Spray 2 ml Malathion in 1 litre of water.
+  utter_faq-hort-guava-b0/information-regarding-how-to-control-anthracnose-in-guava: 
+  - text: Spray copper oxychloride or M-45 or bavistan 50 WP @ 3gm per 1 ltr water to get rid of anthracnose.
+  utter_faq-hort-guava-b0/information-regarding-control-of-aphids-in-guava: 
+  - text: For control of Aphids in guava, spray 200 ml confidor 17.8 SL (imidacloprid) or 160 gram Actara 25 WG (thiamethoxam) per acre in 500 litre of water during April-May and September-October.
+  utter_faq-hort-guava-b0/information-regarding-for-the-mealybug-in-guava: 
+  - text: To control of mealybug in guava spray 5 ml Durmet/Dursban(chlorpyriphos) per litre water
+  utter_faq-hort-guava-b0/how-to-control-of-zinc-deficiency-in-guava: 
+  - text: For the control of zinc deficiency spray 1200 gram zinc sulfate 21% + 600 gram unslaked lime or 750 gram zin sulfate 33% + 375 gram unslaked lime in 200 litres of water per acre.
+  utter_faq-hort-guava-b0/information-regarding-control-of-borer-in-guava: 
+  - text: Spray 500 ml Ekalux in 125 litre water/acre.
+  utter_faq-hort-guava-b0/infomation-regarding-for-the-fertilizer-dose-in-guava: 
+  - text: Apply FYM in month of May and 150 gram Urea, 500 gram SSP, 100 gram Potash. Half Dose apply in month of May-June and Half in the month of September-October.
+  utter_faq-hort-guava-b0/information-regarding-for-the-prunning-time-in-guava: 
+  - text: Oct-Nov.
+  utter_faq-hort-guava-b0/information-regarding-die-back-in-guava: 
+  - text: To control die back effectively do periodical removal of dried twigs along with application of Bordeaux paste on cut ends. Take spray of Copper Oxychloride @ 3 gm per litre of water in March, July and September month.
+  utter_faq-hort-guava-b0/how-to-control-of-termite-in-guava: 
+  - text: To control termite in guava, apply 10 ml chlorpyrifos 20EC per tree.
+  utter_faq-hort-guava-b0/information-regarding-control-of-fruit-rot-in-guava: 
+  - text: Control of Fruit Rot/Anthracnose or Die Back in guava After pruning, spray the trees with 300 gram of Blitox or 300 gram Captan in 100 litres of water per acre. Repeat the spray after the fruit set and continue spraying at 10 to 15 days interval till maturity.
+  utter_faq-hort-guava-b0/control-of-black-spots-in-guava: 
+  - text: Spray Bordaux mixture.
+  utter_faq-hort-guava-b0/control-of-fruit-fly-in-the-guava: 
+  - text: Control of fruit fly in fruits, Spray 1250 ml Sumicidin 20EC (fenvalerate) in 500 litres of water at weekly intervals on ripening fruits and Fix PAU fruit fly traps @ 16 traps/acre in the second week of july.
+  utter_faq-hort-guava-b0/tell-me-control-fruit-borer-in-guava: 
+  - text: Spray 2.5-3 ml malathion 50EC per litre of water.
+  utter_faq-hort-guava-b0/information-regarding-control-of-shoot-borer: 
+  - text: Quinalphos @ 400 ml in 100 litres of water per acre.
+  utter_faq-hort-guava-b0/information-regarding-sowing-time-of-guava: 
+  - text: Suitable time for establishment of guava orchid is Feb-March or Aug-September.
+  utter_faq-hort-guava-b0/information-regarding-weed-control-in-guava: 
+  - text: Spray Glyphosat 41 SL @ 1.6 litre mix in 200 litres of water/acre for the control of weeds in guava.
+  utter_faq-hort-guava-b0/information-regarding-the-deficiency-of-boron-in-guava: 
+  - text: Spray Borex@ 1.5 gram per 1 litre water.
+  utter_faq-hort-guava-b0/information-regarding-the-control-of-damping-off-in-guava: 
+  - text: For control of damping off in guava do the drenching of Captan 3 gram per litre water.
+  utter_faq-hort-guava-b0/information-regarding-sundi-in-guava: 
+  - text: Apply the spray Planofix 3 ml in 1 litre water.
+  utter_faq-hort-guava-b0/information-regarding-of-iron-deficiency-of-guava: 
+  - text: Ferrous sulphate 1 kg/100 litre water.
+  utter_faq-hort-guava-b0/how-to-control-yellowing-in-guava-plant: 
+  - text: For control of yellowing of leaves of Guava spray 10 gram N P K 19:19:19 per litre water.
+  utter_faq-hort-guava-b0/information-regarding-plant-growth-of-guava: 
+  - text: Spray NPK 19:19:19 @ 1 gram in 2 litre of water/solution.
+  utter_faq-hort-guava-b0/information-regarding-about-manures-in-guava: 
+  - text: FYM 50 kg in May, Urea 1 kg, SSP 2.5 kg, MOP 1.5 kg. Urea, SSP and  MOP is used half in May-June and half used in September.
+  utter_faq-hort-guava-b0/information-regarding-control-of-powdery-mildew-in-guava: 
+  - text: Control of powdery mildew in Guava, spray Indofil M-45 or Bavistin 2 gram in 1 litre water and 2-3 spray recommended repeat after 10 days.
+  utter_faq-hort-guava-b0/how-to-control-sucking-pest-in-guava: 
+  - text: Spray 2-3 ml Malathion 50EC in per litre of water.

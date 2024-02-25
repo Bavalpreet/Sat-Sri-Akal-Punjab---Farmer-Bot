@@ -1,0 +1,46 @@
+version: "3.0" 
+intents: 
+  - faq-agri-rice-b2
+responses:
+  utter_faq-agri-rice-b2/information-regarding-sowing-time-of--basmati: 
+  - text: Sowing time of Basmati rice is 15-30 june.
+  utter_faq-agri-rice-b2/sowing-time-of-direct-seedling-of-basmati: 
+  - text: For direct Sowing time of Rice is 1-15 June.
+  utter_faq-agri-rice-b2/sowing-seaosn-of-basmati: 
+  - text: Sowing season of the basmati is start from the first july.
+  utter_faq-agri-rice-b2/information-regarding-time-of-nursery-sowing: 
+  - text: Nursery sowing time is start from 1st june.
+  utter_faq-agri-rice-b2/information-regarding-for-the-suitable-sowing-time-of-paddyjhona: 
+  - text: Suitable sowing time of paddy is 15 to 25 May for normal and hybrid varieties and first week of June for basmati varieties.
+  utter_faq-agri-rice-b2/informtion-regarding-application-of-padan-in-paddy-nursery: 
+  - text: No recommendation of Padan/ Regent/ Fertera or any Granular Insecticides in paddy but, Recommended in basmati if attack of stem borer and leaf folder not for growth.
+  utter_faq-agri-rice-b2/information-regarding-the-detail-of-hybrid-paddy-cultivation: 
+  - text: The cultivation of Hybrid paddy in Punjab is prohibited by the government of Punjab because it has high percentage of broken grains which create problem in marketing due to quality measurement.
+  utter_faq-agri-rice-b2/information-regarding-seed-treatment-of-basmati-seedlings: 
+  - text: Seed treated with Bavestin 20 gram mix with 1 gram Steptocycline in 10 litre of water.
+  utter_faq-agri-rice-b2/information-regarding-for-the-seed-treatment-of-paddyjhona: 
+  - text: Seed treatment of paddy is by Soak the selected seed in 10 litre of water containing 20 gram Bavistin and 1 gram Streptocyclin.
+  utter_faq-agri-rice-b2/information-regarding-planting-time-of-basmati-crop: 
+  - text: Planting time of Basmati crop is 10 July.
+  utter_faq-agri-rice-b2/information-regarding-plantation-of-basmati-rice: 
+  - text: Plantation of Basmati rice is Mid of June.
+  utter_faq-agri-rice-b2/information-regarding-the-sowing-time-of-rice-in-punjab: 
+  - text: Sowing time of rice in Punjab is starting from 1st of June.
+  utter_faq-agri-rice-b2/number-of-rice-plant-require-in-one-one-square-meter: 
+  - text: 66 Plant require for one square meter.
+  utter_faq-agri-rice-b2/information-regarding-moisture-content-of-rice: 
+  - text: Moisture content should be 14 % of paddy to sell in mandi.
+  utter_faq-agri-rice-b2/information-regarding-for-the-control-of-weeds-in-paddyjhona-crop: 
+  - text: For control of weeds in paddy nursery is by spraying 120 mililitre Nominy gold per acre after 15 to 25 days of sowing.
+  utter_faq-agri-rice-b2/information-regarding-when-to-use-weedcide-just-after-transplantation: 
+  - text: Broadcast 600 mililitre Rifit mixed with 60 kilogram sand in standing water after 3 days of transplanting.
+  utter_faq-agri-rice-b2/information-regarding-control-of-weeds-in-paddy: 
+  - text: For control of weeds in paddy is by spraying Nominee gold/macho (Bispyribac-sodium 10% SC) 100 mililitre in 150 litre of water per acre(0.66 mililitre per litre of water) and irrigation may be applied one day after spray.
+  utter_faq-agri-rice-b2/telll-me-control-weeed-in-blank--field: 
+  - text: For control of weed in blank field is by spraying Glyphosatee 4 litre per hectare.
+  utter_faq-agri-rice-b2/information-regarding-spacing-in-direct-seeded-rice: 
+  - text: Spacing in Direct Seeded Rice for row to row spacing is 20cm and Depth is 2-3cm.
+  utter_faq-agri-rice-b2/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-paddy: 
+  - text: Drench the seedlings with water sprayer tank.
+  utter_faq-agri-rice-b2/information-regarding-application-of--pre-emergence-weedicide:
+  - text: No-Answer for application of pre-emergence weedicide.

@@ -1,0 +1,28 @@
+version: "3.0"
+
+rules:
+
+- rule : greet
+  steps:
+  - intent: greet
+  - action: action_general
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: action_general
+
+- rule: rule for ok
+  steps:
+  - intent: ok
+  - action: action_general
+
+- rule: Ask the user to rephrase whenever they send a message with low NLU confidence
+  steps:
+  - intent: nlu_fallback
+  - action: action_general
+
+- rule: for citrus batch 0
+  steps:
+  - intent: faq-hort-citrus-b0-pun
+  - action : action_viz_faq

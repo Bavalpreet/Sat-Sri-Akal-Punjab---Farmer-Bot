@@ -1,0 +1,83 @@
+version: "3.0" 
+#seed treatment
+nlu: 
+# Seed treatment
+- intent: faq-agri-wheat-b4/information-regarding-to-the-seed-treatment-of-wheat
+  examples: |
+    - information regarding to the seed treatment of wheat ?
+    - What is seed treatment of wheat?
+    - How can I get information regarding the treatment of wheat?
+    - How can be seeds treated for wheat?
+    - Is it possible to get information concerning the seed treatment of wheat?
+    - What are the information related to the seed treatment of wheat?
+    - any details related to the seed treatment in wheat
+    - tell me the procedure of treatment of seed in wheat
+    - how can i treat my seeds of wheat
+    - tell me anything related to treatment of seed of wheat
+    - How can we treated wheat seeds?
+    - What is a wheat seed treatment procedure?
+    - I would like to know about the procedure of treatment of wheat seed
+    - Tell me anything related to the treatment of wheat seeds
+    - recommend some things related to the process of treatment of wheat seed
+    - Tell me anything regarding treatment of wheat seed 
+
+# Termite protection
+- intent: faq-agri-wheat-b4/tell-me-about-seed-treatment-for-termite-protection
+  examples: |
+    - information regarding seed treatment for termite protection
+    - any details related to seed treatment for termite protection
+    - tell me about seed treatment for termite protection
+    - If you know of seed treatments for termite protection tell me how to do it.
+    - What is the best seed treatment for termites protection?
+    - How can I use seed treatment for termite protection?
+    - which seed treatment is there for termite protection?
+    - Tell me about seed treatment for termite protection?
+    - how can i treat my seed for termite protection
+    - is it possible to treat the seed for termites protection
+    - info concerning soil treatment for termite protection 
+    - How can I use soil treatments for termite protection? 
+    - can you list the best ways to use seed treatment to protect termites?
+    - Is it possible to treat the seed for termites protection
+    - How should seed be treated for termites protection
+    - Is it possible to treat the seeds for termites protection?
+
+# Dose of chlorpyriphos
+- intent: faq-agri-wheat-b4/dose-of-chlorpyriphos-for-seed-treatment
+  examples: |
+    - information regarding dose of chlorpyriphos for seed treatment
+    - any details related to dose of chlorpyriphos for seed treatment
+    - dose of chlorpyriphos for seed treatment?
+    - What is the dosage of chlorpyriphos for seed treatment?
+    - How much chlorpyriphos dose is necessary for seed treatment?
+    - What do you think about chlorpyriphos seed treatment?
+    - Do you use chlorpyriphos for seed treatment?
+    - How much chlorpyriphos is safe for seed treatment?
+    - tell me the amount of chlorpyriphos for seed treatment
+    - is it safe to use chlorpyriphos for seed treatment
+    - Tell me the dose of chlorpyriphos for seed treatment?
+    - list the effective doses of chlorpyriphos for seed treatment?
+    - can you list the dosages of chlorpyriphos for treatment of seed?
+    - Do you use chlorpyriphos for seed treatment?
+    - Tell me the dosage of chlorpyriphos for the seed treatment 
+
+# Dose of raxil
+- intent: faq-agri-wheat-b4/information-regarding-dose-of-raxil-for-wheat-seed-treatment
+  examples: |
+    - information regarding dose of raxil for wheat seed treatment?
+    - Dose of raxil for wheat seed treatment?
+    - What is the recommended dose of raxil for grain seed treatment
+    - How much raxil is used for wheat seed treatment?
+    - What is the dose of raxil for wheat seed treatment?
+    - Is there any information regarding the dosage of raxil for wheat seed treatment?
+    - What's the dose of raxil for wheat seed treatment?
+    - What is the best dose of raxil for wheat seed treatment?
+    - any details related to dosage of raxil for wheat seed treatment
+    - tell me the exact dosage of raxil for wheat seed treatment
+    - what's the amount of raxil we use for wheat seed treatment
+    - can you list the doses of raxil on wheat seed treatment?
+    - How much is raxil required for wheat seed treatment?
+    - Tell me the recommended dose of raxil for grain seed treatment 
+    - Can you list the exact dosage of raxil for wheat seed treatment
+    - Is there any equivalent amount of raxil that we need for wheat seed treatment
+    - How much raxil we use for wheat seed treatment 
+    - Tell me the amount of raxil we use for wheat seed treatment?

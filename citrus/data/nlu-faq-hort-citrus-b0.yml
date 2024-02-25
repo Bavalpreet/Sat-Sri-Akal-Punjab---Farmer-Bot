@@ -1,0 +1,1337 @@
+version: "3.0" 
+
+nlu: 
+- intent: faq-hort-citrus-b0/information-regarding-for-the-control-of-fungus-in-citrus
+  examples: |
+    - information regarding for the control of fungus in citrus?
+    - How can we control fungus in citrus?
+    - how we can remove fungus in citrus?
+    - What are the fungus control solutions in citrus?
+    - How can I deal with fungus in citrus?
+    - For the control of fungus in kinnow?
+    - What is the best possible method to deal with fungus in kinnow?
+    - Is there any effective control system for fungus in citrus?
+    - What are good ways to get rid of fungus in kinnow?
+    - any details related to how to get rid of fungus in citrus?
+    - how can i stop fungus from growing on citrus
+    - is there any way to stop fungus from growing on citrus
+    - tell me any technique to stop fungus from growing on citrus
+    - How do you stop fungus from growing on citrus?
+    - Is there a way to stop the fungus from growing in citrus?
+    - How do I get rid of fungus from my kinnow plant?
+    - What is best way to get rid of fungus in citrus?
+    - Tell me the best way to get rid of the fungus from the Kinnow plant?
+    - show the best ways to get rid of fungus on Kinnow plants?
+    - Is there any way to control fungus?
+    - How can you control fungus in citrus?
+    - How can we fight fungus in citrus?
+    - What can be done to control the fungus in citrus?
+    - What do you do to help control citrus fungus?
+    - How can I control fungus infection in citrus?
+    - Tell me the best way to control fungus in citrus?
+- intent: faq-hort-citrus-b0/information-regarding-how-to-control-gummosis-in-kinnow
+  examples: |
+    - information regarding how to control gummosis in kinnow?
+    - How do you remove gummosis from citrus?
+    - How do I remove gummosis in citrus?
+    - How do I deal with gummosis in citruss?
+    - How can we treat gummosis in kinnows?
+    - solution for the problem of gummosis in citrus?
+    - how to handle gummosis problem in citrus?
+    - Can gummosis in citrus be treated?
+    - how to treat gummosis in citrus plants
+    - what are the methods to stop gummosis in citrus plants?
+    - Tell me the best way to treat gummosis in citrus?
+    - what can I do to get rid of gummosis problem in citrus?
+    - Is there any real cure for gummosis disease in kinnow plants?
+    - What should I do to stop gummosis of citrus?
+    - list the best ways to stop gummosis in citrus?
+    - What can I do to stop gummosis in citrus plant?
+    - show the ways to prevent gummosis in citrus?
+    - list the best ways to remove gummosis from a citrus plant?
+- intent: faq-hort-citrus-b0/information-regarding-citrus-psylla
+  examples: |
+    - information regarding citrus psylla?
+    - What are some tips for handling kinnow psylla?
+    - how to control citrus psylla?
+    - How do I control citrus psylla in citrus?
+    - How can I remove psylla in citrus?
+    - How can I get rid of citrus psylla?
+    - How do you handle kinnow psylla?
+    - list some practical tips for handling Kinnow psylla?
+    - show the best ways to deal with Kinnow Psyllas?
+    - What is kinnow psylla and how can you handle it?
+    - What's the best way to treat kinnow psylla?
+    - What's the best way to deal with the kinnow psylla?
+    - Can psylla be eliminated in citrus?
+    - How can I remove psylla from citrus?
+    - Tell me the best way to remove psylla in citrus?
+    - What are the ways to get rid of psylla in citrus?
+- intent: faq-hort-citrus-b0/information-reagrding-how-to-control-pest-in-kinnow
+  examples: |
+    - information reagrding how to control pest in kinnow?
+    - How to control pest in kinnow?
+    - How do you get rid of pests with kinnow?
+    - How do I control pest in kinnow?
+    - How do I remove the pests in kinnow?
+    - How do you deal with a pest in kinnow?
+    - What are some of the most effective ways to control a pest in kinnow?
+    - how to pest control in citrus plant?
+    - How can you control pests on citrus plants?
+    - What is the easiest way to manage a citrus plant pest?
+    - How do I prevent pests on citrus plants?
+    - deal with pests in a citrus plant?
+    - let me know what can I do to get rid of a pest in a citrus plant?
+    - what can be done to eliminate pests in a citrus plant?
+    - control of pest from growing in Kinnow?
+    - list some ways to get rid of pests from kinnow crop?
+    - How can I get rid of woody spiders if I have too many?
+    - show some ways to get rid of fleas with kinnow?
+    - How do I get rid of mosquitos and cockroaches by kinnow?
+    - How can you get rid of a cockroach with KNNOW?
+    - Tell me the best way to get rid of pests with kinnow?
+    - How do you get rid of a kinnow?
+    - How can we get rid of kinnows?
+    - How can you get rid of pests with Kinnow?
+- intent: faq-hort-citrus-b0/information-regarding-weed-control-in-kinnow
+  examples: |
+    - information regarding weed control in kinnow?
+    - What are weed control options in Kinnow?
+    - What are the weed control services in Kinnow?
+    - Is there weed control plan for Kinnow?
+    - Is there any information regarding weed control in citrus?
+    - How can I remove weeds in kinnow?
+    - How can I get rid of weeds on citrus?
+    - How do I manage weeds in kinnow?
+    - How can we deal with weeds in Kinnow?
+    - How can you remove weeds in citrus?
+    - how can i control growth of weed in citrus
+    - is there any technique that can help to reduce the growth of weed in citrus
+    - how to reduce weed growth in citrus plants
+    - tell me the ways to control the growth of weed in citrus plants
+    - what are the processes to manage weed growth in citrus plant
+    - tell me about the processes to manage the growth of weed in kinnow plants
+    - what are the ways to manage the growth of weed in kinnow
+    - how can i manage the growth of weed in kinnow
+    - How do you dispose of weeds in kinnow?
+    - What's a good way to get rid of weeds on citrus?
+    - How can I get rid of all the weeds that can harm citrus plants?
+    - Is there any technique that can help reduce the growth of weed in citrus plants?
+    - Is there any method that can help to reduce the growth of weed in citrus plant bushes.
+    - any way to prevent or control weed in citrus plants?
+    - can you list the best techniques to control and prevent the growth of citrus plants weeds?
+    - Can you find a suitable way to reduce the growth of weed in citrus plants?
+    - control the growing of weeds in kinnow
+- intent: faq-hort-citrus-b0/information-regarding-control-leaf-curl-in-kinnow
+  examples: |
+    - information regarding control leaf curl in kinnow?
+    - How do you deal with leaf curl in a kinnow?
+    - How can I get rid of the leaf curl in a kinnow?
+    - What should I do to remove the leaf curl in kinnow?
+    - How can we deal with leaf curl in kinnows?
+    - What is the control measures of leaf curl in kinnow?
+    - How can I control leaf curl in citrus? 
+    - What is the leaf curl control method for kinnow fruit?
+    - information regarding control of leaf curl in citrus?
+    - What are the strategies to control leaf curl in citrus?
+    - What is leaf curl control in citrus?
+    - What is the best way to control leaf curl in citrus?
+    - How do I control leaf curl in citrus?
+    - Is there any way to stop leaf curl in citrus citrus?
+    - How do I control leaf curl and regrowth in citrus?
+    - What is the most effective method of controlling leaf curl in citrus?
+    - What are the factors that control leaf curl in citrus?
+    - Can leaf curl in citrus be controlled?
+    - Tell me the treatment for leaf curl?
+    - How do I avoid leaf curl in kinnow?
+    - remove the leaf curl in a kinnow?
+    - What should I do to remove the leaf curl in Kinnow?
+    - can you list the best possible ways to stop leaf curling in citrus juice?
+    - Can you let me know how to stop leaf curl in citrus?
+    - Is there a way to stop leaf curl in citrus fruit?
+    - Tell me the best way to stop leaf curling in citrus?
+
+- intent: faq-hort-citrus-b0/information-regarding-for-the-control-of-aphids-in-kinnow-orchard
+  examples: |
+    - information regarding for the control of aphids in kinnow orchard?
+    - What is the control for aphids in a citrus orchard?
+    - What are a few ways to control aphids in kinnow?
+    - How do I remove aphids in citrus?
+    - How can you deal with aphids in a Kinnow?
+    - How can citrus plant be controlled from aphids?
+    - How can I control aphids from in kinnow?
+    - The control methods for aphids in Kinnow orchards?
+    - How can we get rid of aphids in Kinnow orchard?
+    - tell how can i deal with aphids in citrus orchard?
+    - methods to kill aphids on a citrus?
+    - show the control for aphids in a citrus?
+    - How do you prevent aphids from spreading in citrus?
+    - What do you know about control for aphids in a citrus?
+    - How do I get rid of aphids in citrus?
+    - show some good ways to control aphids in citrus?
+    - show the best ways to stop aphids from attacking citrus?
+    - How can you control aphids from eating your citrus?
+    - Tell me the best way to control aphids in citrus?
+    - list some ways to fight aphids from citrus?
+    - list some ways to control aphids in citrus trees?
+    - What do I do to prevent aphids from attacking a citrus plant?
+    - list the control measures for aphids in citrus?
+    - Is there any way to control aphids in citrus?
+    - list some good ways of controlling aphids in citrus?
+    - Do I need a spray to control aphids in citrus trees?
+    - Tell me the best way to remove aphids from a fruit?
+- intent: faq-hort-citrus-b0/information-regarding-to-flower-drop-in-kinnow
+  examples: |
+    - information regarding to flower drop in citrus?
+    - How do I control the flower drop in Kinnow kinnow?
+    - How does the flower drop in citrus controlled?
+    - give me some details regarding methods for flower drop control in kinnow?
+    - What is the information regarding flower drop in kinnow?
+    - what is flowers drop in citrus?
+    - what are the dying reason of citrus blooms
+    - tell me why blooms of citrus are dying off
+    - how to stop flower droping problem of citrus plant
+    - what can i do to make sure citrus fruit flowers do not drop
+    - how to make sure the citrus fruit blooms do not die
+    - is there any way to handle fruit dying problem in citrus
+    - How can I control the flower drop in Kinnow?
+    - How do I control the drop in my kinnows?
+    - control the flower drop in kinnow kinnow?
+    - control the drop of flowers in kinnow?
+    - How is the flower droppings in citrus regulated?
+    - How does the flower drop in citrus are controlled??
+    - How is flower dropping in citrus controlled?
+    - can you give me some details about methods for flower drop control in kinnow?
+    - Can you provide me some details regarding methods of flower drop control in kinnow?
+    - provide me details about flower drop control in kinnow?
+    - show me some techniques to control flower drop in Kinnow?
+    - give me the details about the methods for flower drop control in Kinnow?
+    - list the steps on how to remove flower drop in KINNOW?
+    - some details about method for flower drop control in kinnow?
+    - Can you give me the best way of controlling flower drop in kinnow?
+    - How can you cure the fruit dying issue in citrus?
+    - How do we deal with fruit dying problem in citrus trees?
+    - What's the best way to handle fruit dying in citrus plants?
+    - handling fruit dying problem in a citrus plant?
+    - any way to deal with the fruit dying in a citrus flower?
+    - list some ways to prevent Fruit Dielting on citrus?
+    - cure for the fruit dying issue in citrus?
+    - Way to deal with fruit dying problem in citrus trees?
+    - best way to handle fruit dying in citrus plants?
+    - Is there any way to deal with the fruit dying in a citrus flower?
+    - How can I address the problem of fruit dying in citrus bushes?
+- intent: faq-hort-citrus-b0/information-regarding-for-control-of-blight-in-citrus
+  examples: |
+    - information regarding for control of blight in citrus?
+    - What can I do to deal with blight in citrus?
+    - How can I deal with blight from kinnow?
+    - How can I get rid of the blight in citrus?
+    - How do I remove blight in citrus?
+    - How should I control blight in kinnow?
+    - How do I control blight from citrus?
+    - How can I get rid of blight on citrus?
+    - What are the ways to control blight in kinnow?
+    - What is the best way to remove blight in citrus fruits?
+    - What are some suggestions for controlling blight on kinnow?
+    - How can you deal with the blight on kinnow fruit?
+    - How can we cure citrus blight?
+    - How do you treat blight on citrus?
+    - What can I do to treat orange blight?
+    - can you list the ways to prevent blight in citrus?
+    - What does it take to treat blight from kinnow?
+    - How can citrus blight be eradicated?
+    - show some ways to control blight in kinnow?
+    - show the best ways to control blight in Kinnow?
+    - What's the best way to get rid of blight in citrus?
+    - remove the blight from citrus?
+    - methods to clean up blight from citrus plants?
+    - methods to remove blight from citrus?
+    - what can be done to eliminate blight in citrus?
+    - Is there any cure for blight in citrus?
+    - What is blight treatment in citrus fruits?
+    - Tell me the best way to remove blight in citrus fruits?
+    - What's the best way to treat blight on citrus fruits?
+- intent: faq-hort-citrus-b0/information-regarding-for-control-of-yellwoing-in-citrus
+  examples: |
+    - information regarding for control of yellowing in citrus?
+    - Is there any effective way to deal with yellowing in citrus?
+    - What is the information regarding control of yellowing in kinnow?
+    - What are the precautions for the control of yellowing in citrus?
+    - What is the preventive measure for yellowing in kinnow?
+    - How can I control yellowing in citrus?
+    - How does yellowing affect kinnow?
+    - How can I remove yellowing in citrus?
+    - How can I get rid of yellowing in kinnow?
+    - Is there any control measures for yellowing in citrus?
+    - tell me how i can prevent citrus from fading
+    - what are the methods to prevent the citrus from fading
+    - is there any way to prevent citrus from fading 
+    - techniques to prevent citrus from fading
+    - what can be done to control yellowing of citrus plant leaves?
+    - How can I prevent Yellowing of Kinnow?
+    - Tell me the preventive measure for yellowing in kinnow?
+    - can you list the preventive measures for yellowing in kinnow?
+    - What should I do to prevent yellowing in Kinow?
+    - Tell me the best way to prevent yellowing in kinnow?
+    - What are preventive measures for yellowing in Kinnow?
+    - What could be the preventive measure for yellowing in kinnow?
+    - How do I reduce yellowing on my citrus?
+    - How can I treat yellowing on citrus plants?
+    - Is there any effective way to treat yellowing in citrus?
+    - any effective way of preventing yellowing in citrus?
+    - If a citrus has yellowing can you give me any control measures?
+    - control measures for yellowing of citrus?
+    - Are there any control measures for yellowing of citrus?
+- intent: faq-hort-citrus-b0/information-regarding-control-of-blackfly-in-citrus
+  examples: |
+    - information regarding control of blackfly in citrus?
+    - How can you get rid of blackfly in citrus?
+    - How can you remove blackfly in kinnow?
+    - How can you deal with Blackfly in citrus?
+    - Blackfly is eating kinnow how to stop it?
+    - How can blackflies be controlled in citrus?
+    - What are the potential ways to remove black flies in kinnow?
+    - What is the most effective way to control blackfly infestation in citrus?
+    - How can I control blackfly infestation in kinnow?
+    - How can blackfly be removed in citrus?
+    - Is there any information regarding control of blackfly in kinnow?
+    - What should I do if I have blackfly in my citrus?
+    - What can I do to get rid of blackfly in citrus?
+    - Can you help me get rid of the black fly in citrus?
+    - What's the best way to deal with the Blackfly in citrus?
+    - How do I stop Blackfly eating kinnow?
+    - How do I stop Blackfly from eating kinnow?
+    - ways to stop my Blackfly from eating citrus fruits?
+    - What does it take to get rid of black flies?
+    - show the best way to remove black flies in a kinnow?
+    - show the safest and cheapest ways to kill blackflies that can be found in Kinnow?
+    - Is there any information about control of blackfly in Kinnow?
+    - Is it possible to control black flies in Kenya?
+    - What is blackfly control protocol in Kinnow and how can we control it?
+    - list some good information on blackfly control in Kinnow?
+    - Is there any information regarding blackfly control in the Kinnow?
+
+- intent: faq-hort-citrus-b0/tell-me-control-of-jassid-in-citrus
+  examples: |
+    - information regarding control of jassid in citrus
+    - Tell me how to deal with jassid in citrus
+    - How can you control jassid in kinnow?
+    - tell me removal technique of jassid in citrus.
+    - How do I control jassid on kinnow?
+    - Is there a safe way for you to get control of jassid in citrus?
+    - Tell me control of jassid in kinnow?
+    - Tell me the way to get rid of jassid in kinnow fruit.
+    - Tell me control measures of jassid in citrus.
+    - Is there any control method of jassid in citrus?
+    - control of jassid in citrus
+    - how to prevent the growth of jassid in citrus plants?
+    - Tell me how to handle jassids in citrus plants.
+    - what are the removal technique of jassid in citrus.
+    - procedure for controlling Jassid in citrus.
+    - which is the best way to remove jassid in citrus?
+    - How do you get rid of jassid in citrus?
+    - can you tell me the removal technique of jassid in citrus.
+    - way to get rid of jassid in kinnow fruit.
+    - which is the best way to get rid of jassid in kinnow?
+    - best way to get rid of the jassid from the kinnow fruit?
+    - How do I prevent jassid growth in citrus plants?
+    - can you help me prevent the germination of jassids in citrus plants?
+    - How do I keep jassids from growing in citrus plants?
+    - prevent the growth of Jassid in citrus plants?
+    - What should I do to avoid the growth of jassid in citrus plants?
+    - How should I avoid the growth of jassid in citrus plants?
+    - What can I do to control jassid on kinnow?
+    - ways to control jassid in kinnow
+    - methods to take care of jassids in kinnow plants
+    - prevention methods for making sure jassids don't grow in citrus plants
+- intent: faq-hort-citrus-b0/information-regarding-for-the-control-of-black-spotts-in-citrus-plants
+  examples: |
+    - information regarding for the control of black spotts in citrus plants?
+    - What are the possible ways to control black spots in kinnow plants?
+    - How can I control black spot in citrus plants?
+    - What is the best treatment for black spots in kinnow plants?
+    - How can you get rid of black spots in citrus plants?
+    - How to remove black spots on kinnow?
+    - How can I remove black spots from citrus?
+    - How can I control black spots on kinnow plants?
+    - How can we deal with black spots in citrus trees?
+    - What are some ways to deal with black spots on orange fruits?
+    - What are the ways of preventing black spots in citrus fruit?
+    - information regarding to remove black spots in kinnow orchard?
+    - Information regarding to deal with black spots in citrus orchard?
+    - What is the treatment of black spots for citrus plants?
+    - What is the best way to control black spots in citrus fruit?
+    - show the best ways to control black spots?
+    - can you list the best way to control black spots in kinnow plants?
+    - show some ways to control the black spot in kinnow plants?
+    - How do I treat black spots in plants?
+    - show some ways to eliminate black spots on my kinnow plants?
+    - Can black spots be treated with in citrus plant leaves?
+    - What can I do to remove black spots in citrus plant?
+    - list the best options to treat black spots in kinnow plants?
+    - Tell me the best treatment for black spots on citrus plant?
+    - show the best treatments for kinnow plants?
+    - list some effective ways to deal with black spots in kinnow plants?
+    - best treatment for black spots in kinnow plants?
+    - What is best solution to treat black spots in citrus plants?
+    - treat a black spot on a citrus plant?
+    - get rid of black spots in my citrus plants?
+    - what can I do to deal with a black spot in citrus plants?
+    - show the best ways to remove black spots on kinnow fruit?
+    - Methods to prevent a black spot on a lemon?
+    - which methods can be used to get rid of black spots from my citrus fruits?
+    - can you list the best way to remove black spots from citrus fruits?
+    - list the best ways to get rid of black spots on citrus?
+
+- intent: faq-hort-citrus-b0/information-regarding-the-control-of-anthracnose-in-citrus
+  examples: |
+    - information regarding the control of anthracnose in kinnow?
+    - How do you stop anthracnose in citrus?
+    - Is there any methods for anthracnose control in kinnow?
+    - How can you deal with anthracnose in citrus?
+    - How can I get rid of anthracnose in kinnow?
+    - What is the best way to remove anthracnose in citrus?
+    - What is the best way to deal with anthracnose in kinnow?
+    - Can you provide information concerning the control of anthracnose in citrus?
+    - how can i remove anthracnose in kinnow?
+    - How can the anthracnose in citrus be controlled?
+    - Is there any way to cure anthracnoses in citrus?
+    - What is anthracnose control method in citrus?
+    - Is there a method for controlling anthracnose in citrus?
+    - Is there any way to control anthracnoses in citrus?
+    - show the best ways to control anthracnoses in citrus?
+    - How can you control anthracnose in citrus?
+    - How can I get rid of anthracnose infection in my kinnow?
+    - list the best ways to get rid of anthracnose in kinnow?
+    - What should I do to get rid of a kinnow anthracnose?
+    - Can you give me information about the control of anthracnose in citrus?
+    - Is there any control for anthracnose in citrus?
+    - Tell me the correct approach to preventing anthracnose in citrus?
+    - How can anthracnose in citrus be controlled?
+    - Can anthracnose be controlled in citrus?
+    - list some ways to deal with anthracnose in cirtus?
+    - How do I treat anthracnoses in cirtus?
+    - How do you treat anthracnose in cirtus?
+    - What's the best method to deal with anthracnose?
+    - How can I manage Anthracnose in Cirtus?
+    - what can I do to deal with cirtus anthracnose?
+    - Tell me the best way to treat anthracnose in cirtus?
+    - Tell me the best treatment for anthracnose in cirtus?
+    
+- intent: faq-hort-citrus-b0/how-to-conrol-leaf-miner-in-kinnows
+  examples: |
+    - how to control leaf miner in kinnows?
+    - How can I control leaf miner in kinnows?
+    - How do I deal with leaf miner in kinnows?
+    - How can a leaf miner be controlled in kinnows?
+    - How do you control leaf miner in kinnows?
+    - What are some ways to deal with leaf miner on orange fruits?
+    - What are the ways of preventing leaf miner in kinnow fruit?
+    - information regarding to remove leaf miner in kinnow orchard?
+    - Information regarding to deal with leaf miner in kinnow orchard?
+    - What is the treatment of leaf miner in kinnow orchard?
+    - Information concerning leaf miner in kinnow orchard?
+    - What is the best way to control leaf miner in citrus fruit?
+    - list some ways to deal with leaf miner on citrus fruits?
+    - What can you do to kill leaf miner on citrus fruit?
+    - Tell me the best way to control a leaf miner on citrus fruit?
+    - show some ways to deal with leaf miner in citrus fruit?
+    - How do you prevent leaf miner in citrus fruit?
+    - What can you do to prevent leaf miner in citrus fruit?
+    - How can I prevent leaf miner in citrus?
+    - How can I eradicate leaf miner in citrus fruit?
+    - List the best ways to prevent leaf miner in citrus fruit?
+    - What can be done to prevent leaf miner in citrus fruits?
+    - recommend some tips for preventing leaf miner in citrus fruits?
+    - How should I handle leaf miner in a citrus plant?
+    - How do I treat leaf miner in citrus plants??
+    - What should I do to deal with leaf miner in citrus plant?
+    
+- intent: faq-hort-citrus-b0/how-to-increase-fruit-size-of-citrus
+  examples: |
+    - how to increase fruit size of citrus?
+    - information regarding increasing fruit size in citrus?
+    - How can I increase fruit size of citrus?
+    - How do I increase the fruit size of kinnow fruit?
+    - How can I increase fruit size of citrus fruit?
+    - How can you grow kinnow fruit size?
+    - How do I increase the size of fruit of citrus?
+    - information regarding improving fruit size of kinnow?
+    - What are some tips on improving the fruit size in citrus?
+    - Is there any information regarding improving fruit size of citrus?
+    - How can I increase the fruit size of kinnow?
+    - How can we improve the fruit size of citrus?
+    - What are some ways of improving fruit size of citrus?
+    - How do I increase fruit size on kinnow?
+    - what are the ways to grow citrus fruit bigger
+    - Is it possible to increase the size of the kinnows fruit?
+    - How do I increase the size of my kinnow fruit?
+    - How do you improve the fruit size of kinnow?
+    - Can we improve fruit size of Kinnow?
+    - How can I increase the size of my Kinnow?
+    - Tell me the best way to increase the size of kinnow?
+    - Is it possible to increase the fruit size of kinnows?
+    - show some tips to improve the fruit size of citrus?
+    - recommend some ways to increase the fruit size of a citrus?
+    - Tell me the best way to increase the fruit size in citrus?
+    - What are ways to increase the size of citrus fruits?
+    - show some ways of increasing the fruit size of citrus?
+    - What is best way to increase fruit size of citrus?
+    - can you list the best ways to improve fruit size of citrus?
+    - How can we increase the fruit size of citrus?
+    - What are methods to increase fruit size for fruit?
+    - What should be done to increase the fruit size of the citrus?
+    - What's the best way to increase the fruit size of orange?
+    
+- intent: faq-hort-citrus-b0/information-regarding-for-urea-dose-in-kinnow-plant
+  examples: |
+    - information regarding for urea dose in kinnow plant?
+    - What is the dose of urea in Kinnow plant?
+    - What is the information regarding urea dose in citrus plant?
+    - what is the quatity of dosage of urea for citrus plant?
+    - Tell me the best solution for urea dose in KINNOW plant?
+    - How much urea dose is needed in Kinnow plant?
+    - What is data regarding urea dose in Kinnow plant?
+    - Tell me the dose of urea in Kinnow plant?
+    - What is dose of urea in Kinnow plant?
+    - Tell me the maximum amount of urea in Kinnow plant?
+    - What do you know about the dose of urea in kinnow plant?
+    - Tell me the information regarding the amount of urea in citrus plant?
+    - What is the required urea dose in a citrus plant?
+    - Tell me the content of urea in citrus?
+    - list the urea dosage of citrus plant?
+    - Tell me the proportion of urea dosage for citrus plant??
+    - Tell me the correct dosage of urea for citrus plant?
+    - How much urea should be sprayed in citrus plants?
+    - what amount of urea should I spray in citrus plant
+    - How much urea should I use in my citrus plants?
+    - How much urea should be sprayed in citrus plants?
+    - Which amount of urea should I spray in citrus plant?
+    - Tell me the amount of urea I should spray in a citrus plant?
+
+- intent: faq-hort-citrus-b0/information-regarding-fertilizers-dose-in-kinnow-plant
+  examples: |
+    - information regarding fertilizers dose in kinnow plant?
+    - What is the specific amount of fertilizers needed for citrus plant?
+    - can you determine the dose of fertilizers in kinnow plant?
+    - How much fertilizer should I use for kinnow plant?
+    - Is there any important information regarding the fertilizers dose in citrus plant?
+    - What is the exact dosage of fertilizers required for kinnow plants?
+    - How can I determine the correct fertilizers dose for the Kinnow plant?
+    - What should I know regarding fertilizers dose in citrus plant?
+    - How much fertilizer should I use in a kinnow plant?
+    - What are the fertilizers dose of citrus plant?
+    - Tell me the specific amount of fertilizer needed for citrus plants?
+    - Tell me the exact amount of fertilizer need for citrus plants?
+    - Tell me the amount of fertilizer needed for a citrus plant?
+    - list the specific amount of fertilizers required for citrus plant?
+    - Can you list the specific amounts of fertilizers needed for the cultivation of citrus plant?
+    - show the fertilizers used by citrus plant?
+    - show the best fertilizer doses in citrus plants?
+    - Tell me the exact dosage of fertilizers required for kinnow plants?
+    - Dose of fertilizers required for citrus fruits
+    - The maximum amount of fertilizers required for citrus fruit production
+    - Tell me the amount of fertilizers required for citrus horticultural plants?
+    - what amount of fertilizer needed in citrus.
+    - what amount of fertilizers to be used for citrus?
+    - can you list the quantity of fertilizers required in citrus?
+    - Can you tell me the amount of fertilizers needed in citrus?
+    - Tell me the actual dosage of fertilizer in citrus plants?
+    - can you list the essential chemicals used in citrus plant and their application?
+    - can you list the dosage of fertilizer needed for kinnow plants?
+    - What is the precise dosage of fertilizers necessary for the cultivation of kinnow plants?
+    - show the exact dosage of fertilizer required for kinnow plants?
+    - How much fertilizer can I use in a kinnow plant?
+    - what amount of fertilizers is good to use for kinnows?
+    
+- intent: faq-hort-citrus-b0/what-is-the-dose-of-zinc-in-citrus
+  examples: |
+    - what is the dosage of zinc in kinnow?
+    - information regarding dosage of zinc in citrus?
+    - tell me about the dosage of zinc in citrus?
+    - How much zinc is required in citrus?
+    - What dose of zinc is necessary for citrus?
+    - What is the information regarding zinc dose in kinnow plant?
+    - what is the quatity of dosage of zinc for kinnow plant?
+    - How much zinc should I use in a kinnow plant?
+    - Tell me the dosage of zinc in kinnow?
+    - show me the correct dosage of zinc in Kinnow?
+    - Tell me the correct dosage of zinc in Kinnow?
+    - What's the dosage of zinc in Kinnow?
+    - dosage of zinc in Kinnow?
+    - can you list the dosages of zinc required by citrus?
+    - Can you let me know the dosage of zinc essential for citrus?
+    - what amount of zinc is required for citrus plants?
+    - What dose of zinc is required for citrus?
+    - How much zinc is necessary for the growing of citrus trees?
+    - What amount of zinc is necessary for citrus?
+    - How much zinc is needed to grow citrus?
+    - How much zinc is needed for the development of citrus?
+    - How much zinc is necessary for citrus?
+    - What do you think is the best dose of zinc for citrus?
+    - What is the dosage requirement of zinc for kinnow plant?
+    - Tell me the correct amount of zinc used inkinnow plants?
+    
+- intent: faq-hort-citrus-b0/when-is-the-time-of-fertilizer-application-in-citrus
+  examples: |
+    - when is the time of fertilizer application in kinnow?
+    - tell me the time of fertilizer application in citrus trees?
+    - information regarding time to apply fertilizer on kinnow?
+    - When is the correct fertilizer application time for citrus?
+    - When is the best time to apply fertilizer on kinnow?
+    - tell me about fertilizer application time for citrus?
+    - When is the best time for fertilizer application on kinnow trees?
+    - When is the time for fertilizer application in Kinnow?
+    - When is the time of fertilizer application in Kinnow?
+    - Tell me the time for the fertilizer application in Kinnow?
+    - at what time should i apply fertilizer on citrus trees?
+    - Tell me the time of application of fertilizer on citrus trees?
+    - When is the correct time to apply fertilizer for citrus?
+    - tell me the proper time for fertilizer application for citrus?
+    - correct time for fertilizer application on a citrus tree?
+    - When should we apply fertilizer for citrus?
+    - Tell me the best time to apply fertilizer on kinnows?
+    - When is the best time to fertilize kinnow?
+    - Tell me the time to apply fertilizer on KINNOW?
+    - When should you apply fertilizer to citrus trees?
+    - At what intervals of time should I apply fertilizer in citrus
+    - In what intervals should I apply fertilizer for citrus?
+    - schedule for fertilizer spray in citrus fruit
+
+- intent: faq-hort-citrus-b0/how-to-control-thrips-in-kinnow
+  examples: |
+    - information regarding control thrips in kinnow?
+    - How do I control thrips in kinnow?
+    - How can I remove thrips in kinnows?
+    - How can I control thrips on kinnow?
+    - what can I do to get rid of thrips from kinnows?
+    - How do you deal with thrips in kinnows?
+    - What can I do to remove thrips in kinnow?
+    - How can you get rid of thrips in kinnow?
+    - tell me about to control thirips in kinnow
+    - how to control thirips in citrus plant?
+    - control of thirips in citrus plant?
+    - How can thirips be control in kinnow plant?
+    - info regarding control thirips in kinnow
+    - any details how to deal with thirips in citrus plant
+    - tell me any method to prevent thrips from growing in citrus plants
+    - What are the methods to prevent thrips from citrus 
+    - prevention measure of citrus from thrips 
+    - is there any steps to prevent thrips from occuring in citrus
+    - is there any way to keep citrus plant free of thrips 
+    - tell me the method to keep citrus free from thrips 
+    - steps used to keep citrus free of thrips 
+    - what can i do to make thrips free citrus
+    - How do you get thrips out of your kinnows?
+    - I've got thrips in my kinnows. How do I remove them?
+    - Is there a way to get rid of thrips in kinnows?
+    - list some ways to control thirips in citrus plants?
+    - What are effective methods to control thirips in citrus plant?
+    - Tell me the best way to prevent the thrips from growing on citrus plants?
+    - How do I prevent thrips from growing in citrus plants?
+    - Tell me the best way to keep Thrips from growing in citrus plants if possible.
+    - Tell me the best way to prevent the thrips from growing in citrus plants?
+    - Is there any way to prevent thrips from growing in citrus plants?
+    - How do you prevent thrips from growing in citrus plants?
+    - recommend some steps to prevent the thrips from occurring in citrus bushes?
+    - show the steps to prevent thrips from appearing in citrus?
+    - Is there a method of preventing thrips from forming in citrus plants?
+    - What is needed to prevent thrips from occurring on citrus groves?
+    - Can you tell me the best way to keep citrus free from thrips?
+    - Tell me the method to keep citrus free from thrips if I do not know how to do it?
+    
+- intent: faq-hort-citrus-b0/tell-me-the-control-of-scab-in-kinnow
+  examples: |
+    - tell me the control of scab in kinnow?
+    - information regarding control of scab in kinnow?
+    - What is the control techniques of scab in citrus?
+    - How do you get rid of scab in kinnow?
+    - tell me how to deal with scab in citrus?
+    - Tell me about how we can remove scab in kinnow?
+    - Is there any control methods for scab in citrus?
+    - How can scabs be managed in kinnow?
+    - can you tell me the control of the scab in Kinnow?
+    - Tell me the control of scab in the kinnow?...
+    - What's the control on the scab in Kinnow?
+    - How do you manage the scab in Kinnow?
+    - show me the controls of scab in Kinnow?
+    - What's the management plan for scab in Kinow?
+    - i want to know some information about scab control in kinnow?
+    - show the possible ways to control scab in kinnow?
+    - list the preventive techniques for scab growth in citrus?
+    - show the possible control techniques of scab in citrus?
+    - What are control techniques for scabs in citrus?
+    - list the best techniques to control the scab from kinnows?
+    - show the best control methods for scab on citrus?
+    - can you list the control methods for scab in citrus?
+    - can you list the control procedures for scabs in citrus?
+    - Tell me the best treatment to scab in citrus fruits?
+    - how can i restrict the growth of scab in citrus
+    - what can be done to restrict the spread of scab in citrus plants
+    - can you list the best way to limit scab growth in citrus?
+    - How can I control the growth of scab in citrus trees?
+    - prevent the growth of scabs in citrus bushes?
+    - I want to limit the growth of scab in citrus bushes?
+    - How can I reduce the growth of scabs in citrus plants?
+    - How can you control the spread of scab in citrus plants?
+    - What should I do to stop the scab in citrus plants?
+    - can you list the methods of controlling scab in citrus plants?
+    - What can I do to reduce the spread of scab in citrus plants?
+    
+- intent: faq-hort-citrus-b0/problem-of-phytophthora-in-citrus
+  examples: |
+    - information regarding problem of phytophthora in citrus?
+    - Problem of phytophthora in citrus?
+    - what are the problems of phytophthora in kinnow?
+    - how to deal with phytophthora in citrus plants
+    - what can be done to control the problem of phytophthora in citrus
+    - how to stop the growth of phytophthora in citrus plants
+    - what can be done to prevent phytophthora from growing in citrus
+    - how can i restrict the growth of phytophthora in citrus plants
+    - How can we treat phytophthora in citrus plants?
+    - Where can I find out information regarding solution of phytophthora disease in citrus?
+    - Can you list the details concerning solution of phytophthora in citrus?
+    - recommend some control measures of phytophthora in citrus?
+    - How can the phytophthora problem in citrus be solved?
+    - list the methods of controling phytophthora in kinnow?
+    - What are the solutions to phytophthora problem in kinnow?
+    - How can I control the phytophthora in citrus trees?
+    - Can we control phytophthora of citrus?
+    - How can the problem of phytophthora cured in citrus?
+    - control the problem of phytophthora in citrus?
+    - What can be done to control the problem of phytophthora in citrus trees?
+    - What should be done to control the problem of phytophthora in citrus?
+    - How can I stop the growth of phytophthora in citrus plants?
+    - How can one stop the growth of phytophthora in citrus?
+    - How can I prevent phytophthora from growing in citrus?
+    - What can be done to prevent phytophthora from growing in citrus?
+    - How to prevent phytophthora from growing in citrus?
+    - prevent phytophthora from growing in citrus?
+    - How do I limit the growth of phytophthora in citrus plants?
+    - Is there anything to inhibit phytophthora growth in citrus plants?
+    - what should I do to restrict the growth of phytophthora in citrus plants?
+    - How can I inhibit the growth of phytophthora in citrus plants?
+
+- intent: faq-hort-citrus-b0/problem-of-leaf-folder-in-citrus
+  examples: |
+    - information regarding the problem of leaf folder in citrus?
+    - What can be the solution to the problem of leaf folders in citrus?
+    - Problem of leaf folder in citrus?
+    - what is the cure for leaf folder in citrus
+    - how can i solve to problem of leaf folders in citrus
+    - how to deal with leaf folders in citrus crops
+    - i want to know what can used to control the leaf folder issue in citrus crop
+    - how to solve the issue of leaf folder in kinnow fruit
+    - please let me know a way to treat the leaf folder problem in citrus
+    - how to prevent leaf folder from spreading in citrus crop
+    - is it possible to cure leaf folder in citrus fruits
+    - How do you solve the issue of leaf folders in citrus?
+    - Tell me the treatment of leaf folders in citrus?
+    - Tell me the solution to the leaf folder in citrus?
+    - What should be done to stop a leaf folder problem in citrus trees?
+    - What can I do to solve the problem of leaf folders in citrus?
+    - How can I remove leaf folders in citrus?
+    - Tell me the cure for leaf folder in citrus?
+    - list the cures for leaf folder in citrus fruits?
+    - show the cures for leaf folder in citrus?
+    - How can I solve the problem of leaf folders in citrus?
+    - How should I solve a problem of leaf folders on citrus?
+    - How do I fix leaf folder problem in citrus foliars?
+    - can I solve the leaf folders problem in citrus plantation?
+    - How do I control leaf folder issue in citrus crop?
+    - What do I do to control the leaf folder issue in citrus crop i want to know what can help?
+    - Tell me the best way to deal with leaf folder issues in citrus crop?
+    - what is best way to control the leaf folder issue in citrus crop.
+    - what can be used to control the leaf folder issue in citrus crop.
+    - How do you prevent leaf folder from spreading in citrus plants?
+    - How can I stop a leaf folder from spreading in citrus plants?
+    - How to prevent leaf folder from spreading in a citrus crop rot
+    - How do I cure leaf folder in citrus fruits?
+    - Is it possible to cure leaf folder in citrus fruits?
+    - Can we cure leaf folders in citrus fruits?
+
+- intent: faq-hort-citrus-b0/problem-of-white-fly-in-citrus
+  examples: |
+    - problem of white fly in citrus?
+    - how to kill white fly in citrus crops
+    - what should i spray to get rid of whiteflies in citrus
+    - how to control the spread of white fly in citrus
+    - what should i do to control the spread of white fly in citrus
+    - i want to stop white fly from damaging citrus fruits
+    - how can I protect citrus fruits from white fly insect
+    - what are the protection measures against whiteflies in citrus crop
+    - How to get rid of white fly in citrus crops?
+    - How to stop the spread of white fly in citrus crops?
+    - How can I get rid of whiteflies in citrus by using spray?
+    - What should i use to get rid of whiteflies in citrus trees?
+    - What is best way to get rid of the white flies from citrus crops?
+    - What can you spray to get rid of whiteflies?
+    - How can I get rid of a white fly problem in citrus?
+    - What should I spray to get rid of Whiteflies in citrus?
+    - How do I control the spread of white flies in citrus?
+    - How do I control the spreading of white flies in citrus plants?
+    - What should I do to control the spread of white fly in citrus fruits?
+    - In citrus crops how can I control the spread of the white fly?
+    - how can i prevent white fly from destroying citrus fruit?
+    - I want to stop white fly from attacking citrus fruits.
+    - how to stop the white flies from damaging citrus fruits.
+    - How do I stop a white fly insect from harming my citrus fruit?
+    - How can I prevent the white fly insect from eating my citrus fruits?
+    - can you help me in preventing white flies from destroying citrus plants?
+    - protect citrus from the white fly bug?
+    
+- intent: faq-hort-citrus-b0/problem-of-mealy-bug-in-citrus
+  examples: |
+    - information regarding problem of mealy bug in citrus?
+    - How do I control mealy bug infestation in citrus?
+    - how to control mealy bugs in citrus
+    - i want to know the methods to stop mealy bugs in citrus fruits
+    - what can i do to prevent mealy bugs from appearing in citrus fruits
+    - how to get rid of mealy bug in citrus plants.
+    - what can i do to get rid of mealy bug in citrus
+    - to get rid of mealy bug in citrus what should i do
+    - is there something that i can do to control mealy bugs in citrus
+    - what should be done to remove mealy bug from citrus plants
+    - any recommendation on how to control mealy bugs in citrus crop
+    - mealy bugs are sighted in citrus plants how to kill them
+    - How do you control a mealy bug infestation on citrus?
+    - Is there anyway to control citrus mealy bug infestation?
+    - How can I get rid of a mealy bug infestation from citrus?
+    - How do I stop mealy bugs from appearing in citrus fruits?
+    - How can I prevent mealy bugs from appearing in citrus fruits?
+    - list some tips on how to prevent mealy bugs from appearing in citrus fruits?
+    - What can I do to prevent mealy bugs from appearing in citrus fruits?
+    - What can I do to stop mealy bugs from growing in citrus fruits?
+    - How do I prevent mealy bugs from appearing in citrus fruits?
+    - How can you prevent mealy bugs from appearing in fruits?
+    - can you list the best ways to eliminate mealy bugs in citrus fruits?
+    - Tell me the best way to get rid of a mealy bug in a citrus fruit?
+    - How can you reduce mealy bugs in citrus fruit?
+    - How do I eliminate mealy bugs from citrus?
+    - Tell me the easiest way to stop mealy bugs in citrus fruits?
+    - Tell me the best way to get rid of a mealy bug in citrus plants?
+    - How can I get rid of a mealy bug in my citrus plants?
+    - show the best methods of getting rid of mealy bugs in citrus?
+    - How can I kill mealy bugs in citrus?
+    - can you list the best ways to deal with mealy bugs on citrus?
+    - Is there anything I can do to control citrus mealy bugs?
+    - can you list the best ways to control mealy bugs in citrus jars?
+    - Tell me the best way to control small mealy bugs in citrus crop?
+    - list some recommendations on how to control mealy bugs in citrus crop?
+    - recommend some good ways to control mealy bugs in citrus crop?
+    
+- intent: faq-hort-citrus-b0/information-regarding-for-the-sowing-time-of-citrus-palnts
+  examples: |
+    - information regarding for the sowing time of kinnow?
+    - What is the sowing time for citrus fruits?
+    - What is the timing of sowing of citrus?
+    - What is the best sowing time for citrus ?
+    - information regarding to planting time for cultivation of orange?
+    - What is the planting time for oranges?
+    - tell me timing of planting of an orange?
+    - What will be the planting time for the orange?
+    - What is the best time of year to plant kinnow?
+    - Is there planting time for kinnow?
+    - What is the planting time for kinnow fruit?
+    - What is the correct planting time for citrus fruit?
+    - What's the planting time for kinnow fruit?
+    - At what time are the citrus planted?
+    - tell me the time to sow kinnow fruit
+    - what time of year to sow kinnow fruit
+    - to sow kinnow fruit, what is the best time
+    - tell me the season in which kinnow fruits are planted
+    - during what season, the kinnow fruits are planted
+    - to plant kinnow, tell me the best time 
+    - What is the time to sow citrus fruits?
+    - Tell me the time for planting citrus fruits?
+    - Tell me the time to sow citrus fruits?
+    - list the times for planting citrus fruits?
+    - Tell me the timing of sowing of citrus?
+    - What are timings for sowing citrus?
+    - Is there any information regarding the time for planting orange?
+    - recommend some information regarding the period of planting an orange?
+    - At which time are the citrus trees planted?
+    - When are the citrus fruits planted?
+    - What time of year do we sow kinnow fruits?
+    - What time of the year should I plant Kinnow fruit?
+    - What time of year should I start planting the kinnow tree?
+    - Tell me the season in which kinnow fruits are planted.
+    - at what time of year should i plant citrus fruits
+
+- intent: faq-hort-citrus-b0/information-regarding-the-proper-growth-of-citrus-plant
+  examples: |
+    - information regarding the proper growth of citrus plant?
+    - What should be done for the proper growth of citrus plant?
+    - What are the proper ways to grow citrus trees?
+    - How do I grow a citrus plant properly?
+    - What is the information concerning the proper growth of citrus plant?
+    - What is the best advice or information regarding the proper growth of citrus plant?
+    - tell me some tips on the proper growth of kinnow?
+    - tell me about correct way to propagate the kinnow plant?
+    - tell me the best way to grow the citrus plant in best conditions
+    - How a citrus plant should grow properly in best conditions
+    - tell me how to grow the citrus plant in best condition
+    - can you let me know how to grow citrus fruits properly
+    - what things should i do to make sure citrus fruit grows properly
+    - things to keep in mind for the good growth of citrus fruits
+    - How do I grow a healthy citrus tree?
+    - What should we do to increase citrus growth?
+    - Tell me the proper method to grow citrus plants?
+    - What should I do to increase the growth of citrus plant?
+    - How do I cultivate a healthy citrus plant?
+    - How can I promote the proper growth of citrus plants?
+    - What is best information about the proper growth of a citrus plant?
+    - How can you control the proper growth of a citrus plant?
+    - can you list the good practices for growing citrus plant?
+    - show some good ways to grow citrus?
+    - How do I grow a citrus plant correctly?
+    - How do I make sure my citrus tree grows properly?
+    - What do I need to do to make sure my citrus fruit grows properly?
+    - recommend some ways to make sure citrus fruits grow properly?
+    - How should I make sure my citrus grow properly?
+    - What should I do to make sure that citrus fruit is growing properly?
+    - What is important to remember for the good growth of citrus fruits
+    - Give me some tips for a good growth of the kinnow?
+    - can you give me some tips on the proper growth of kinnow?
+    - recommend some tips for healthy kinnows?
+    - Can you tell me any tips on the proper growth of kinnow?
+    - can you list the proper methods to grow kinnow?
+
+- intent: faq-hort-citrus-b0/information-regarding-for-the-control-of-zinc-deficency-in-kinnow
+  examples: |
+    - information regarding for the control of zinc deficency in kinnow?
+    - Info related the control of zinc deficiency in kinnow?
+    - How could we control kinnow zinc deficiencies?
+    - How do you prevent zinc deficiency in kinnow?
+    - What are the techniques for the control of zinc deficiency in citrus?
+    - Information regarding the control of zinc deficiency of kinnow?
+    - How are we dealing with zinc deficiency in kinnow?
+    - Is there any information regarding for the control of zinc deficiency in kinnow?
+    - information regarding for control of zinc deficiency in citrus ?
+    - How do you prevent zinc deficiency in citrus?
+    - What is the best way to treat zinc deficiency in citrus plants?
+    - Information regarding for control of zinc deficiency in citrus?
+    - how to control zinc deficiency in citrus?
+    - How can I control zinc deficiency in citrus?
+    - How can we control zinc deficiency in citrus?
+    - how often the shortage of zinc in kinnow be reduced
+    - how zinc shortage in kinnow be reduced
+    - tell me the ways of zinc shortage in kinnow be reduced
+    - how to handle the deficiency of zinc in citrus plants
+    - what can i do to control the deficiency of zinc in citrus plants
+    - how to correct the lack of zinc content in citrus plants
+    - How to handle the deficiency of zinc in citrus plants
+    - How can you manage a deficiency of zinc in citrus plants
+    - How can we overcome zinc deficiency in citrus plants?
+    - How to deal with deficiency of zinc in citrus plants?
+    - Tell me the best way to prevent zinc deficiency in citrus plants?
+    - What can be done to control deficiency of zinc in citrus plants?
+    - What can I do to control deficiency of zinc in citrus plants?
+    - What can be done for a deficiency of zinc in citrus plant?
+    - How do I control the zinc deficiency in citrus plants?
+    - How to correct the lack of zinc in citrus plants?
+    - can you list the correct way of avoiding the lack of zinc in citrus plants?
+    - what can I do to correct the lack of zinc content in citrus plants?
+    - How can you rectify low zinc content in citrus plants?
+    - Tell me the best way to correct a low zinc content of citrus plants?
+    - Tell me the best way to fix the lack of zinc content in citrus plants?
+
+- intent: faq-hort-citrus-b0/infrmation-regarding-nitrogen-requirement-of-kinnow
+  examples: |
+    - information regarding nitrogen requirement of kinnow?
+    - How much nitrogen does kinnow require?
+    - What nitrogen requirements for kinnow are there?
+    - any details about nitrogen requirement of kinnow?
+    - tell me about nitrogen requirement of kinnow?
+    - What is the nitrogen requirement of kinnows?
+    - information regarding the control of nitrogen deficiency in citrus ?
+    - what amount of nitrogent is required in citrus plants
+    - please tell me the amount of nitrogen required for citrus plants
+    - how much nitrogen does citrus require
+    - how much nitrogen content is required in citrus plants
+    - How much nitrogen does kinnow need?
+    - Tell me the nitrogen requirement of Kinnow?
+    - nitrogen requirement of the Kinnow? :?
+    - Tell me about nitrogen requirement of kinnow?
+    - how much nitrogen is needed by Kinnow?
+    - What amount nitrogen is required in citrus juice?
+    - How is nitrogen deficiency controlled in citrus?
+    - How can one control nitrogen deficiency in citrus?
+    - What are your opinion regarding control of Nitrogen deficiency in citrus?
+    - Is there an optimal way to control nitrogen deficiency in citrus?
+    - How do I complete the nitrogen deficiency in citrus?
+    - Is there any information regarding the control of nitrogen deficiency in citrus?
+    - How much nitrogen is required for citrus plants?
+    - How much nitrogen does citrus needs in citrus plants?
+    - What amounts of nitrogent are required in citrus plants?
+    - What quantity of nitrogent is needed in citrus plants?
+    - Tell me the requirement of nitrogent in citrus plants?
+    - How much nitrogen is required in citrus plants?
+
+- intent: faq-hort-citrus-b0/information-regarding-planting-space-in-kinnow
+  examples: |
+    - information regarding planting space in kinnow?
+    - can you determine the planting space in Kinnow?
+    - What is the information regarding planting space in Kinnow?
+    - information regarding plant to plant distance of citrus?
+    - What is the information regarding plant to plant distance of citrus?
+    - What should be the plant to plant distance of citrus?
+    - what is the optimal spacing between kinnow plants?
+    - Can you tell me the optimal spacing for planting Kinnow plants?
+    - can you list the information about planting space in Kinnow?
+    - Tell me the info regarding planting space in Kinnow?
+    - Can you give me the info about plant to plant distance of citrus?
+    - Can I get information regarding plant to plant distance of citrus?
+    - Tell me the plant-plant distance of citrus seeds?
+    - Tell me the plant to plant distance to sow citrus?
+    - What should be plant to plant distance of kinnow?
+    - Tell me the plant to plant distance of citrus?
+    - What's the optimal spacing between kinnow plants?
+    - What is best spacing between kinnow plants?
+    - show the optimal spacing between Kinnow plants?
+    - Tell me the optimal spacing between two plants of kinnow?
+    - What would be the optimal spacing between the kinnow plants?
+    - what should be the minimum distance between two kinnow plants
+    - at what minimum distance should I plant two kinnow plants?
+    - Tell me the minimum distance between two kinnow plants?
+    - How much distance should be there between kinnow plants?
+
+- intent: faq-hort-citrus-b0/information-regarding-pruning-in-citrus
+  examples: |
+    - information regarding pruning in kinnow?
+    - How do I properly prune citrus fruit?
+    - How do I prune kinnow
+    - What is the information regarding pruning in citrus?
+    - How is pruning in kinnow done?
+    - tell me how to prune citrus fruits
+    - what should I do to prune citrus fruit
+    - how to trim kinnow fruits
+    - Can I get rid of dead branches of citrus tree
+    - is it feasible to cut the dead stem of citrus fruit to promote growth
+    - is there any chemical that should be sprayed after pruning citrus tree
+    - after cliping the dead branches in citrus tree what should I spray on it
+    - what do we do when we prune kinnow plants
+    - How can I prune my citrus fruits?
+    - What is a healthy way to prune citrus fruit?
+    - show me how to prune the citrus fruits.
+    - How to cut down kinnow fruit dead branches?
+    - Tell me the best way to remove dead branches from citrus trees?
+    
+- intent: faq-hort-citrus-b0/how-to-control-canker-diseases-in-citrus-plant
+  examples: |
+    - information regarding control canker diseases in kinnow plant ?
+    - tell me about controlling canker disease in citrus plants?
+    - How can get rid of canker diseases in kinnow plant?
+    - How to remove canker diseases in citrus plants?
+    - How should I control canker disease in citrus plant?
+    - How can we get rid of canker diseases in kinnow plant?
+    - How to control canker diseases in citrus plant?
+    - How can I get rid of canker diseases in kinnow trees?
+    - How can I deal with the canker disease in citrus?
+    - How do I remove canker disease in citrus plant?
+    - tell me the process of treating canker illness in kinnow
+    - how can i aid the canker illness in kinnow plant
+    - what is the procedure of treating canker illness in kinnnow
+    - how can i treat canker illness in kinnow
+    - what can i do to control canker disease
+    - tell me the way to get rid of canker disease
+    - do you know any methods to control cankar disease
+    - is it possible to cure the canker disease in citrus plants
+    - how to treat cankar disease in kinnow plants
+    - What can I do to cure canker diseases in my kinnow plant?
+    - How to cure canker diseases of kinnow?
+    - Canker diseases in kinnow plant?
+    - How do I reduce canker disease in citrus?
+    - What's the best way to control canker disease in citrus?
+    - How can you treat a canker disease in citrus?
+    - Tell me the treatment of canker illness in Kinnow?
+    - show me the process of treating canker disease in kinnow.
+    - Is there any cure for the canker in kinnow?
+    - Tell me the way of reducing the chance of canker disease in Kinnow
+    - Is there a procedure to treat canker infection in Kinnow?
+
+- intent: faq-hort-citrus-b0/information-regarding-bordeaux-mixture-ratio-in-kinnow-orchard
+  examples: |
+    - information regarding bordeaux mixture ratio in citrus orchard?
+    - tell me the ratio of bordeaux mixture to be used in kinnow orchard?
+    - What is bordeaux mixture ratio for citrus orchard?
+    - can you tell me the bordeaux mixture ratio for kinnow plants
+    - in what ratio should bordeaux mixture be sprayed in citrus trees
+    - tell me the ratio in which bordeaux mixture is sprayed in citrus
+    - in what ratio should the mixture of bordeaux sprinkle over kinnow plants
+    - i want to sprinkle bordeaux mixture in kinnow plants what ratio should I use
+    - what ratio of bordeaux mixture used in kinnow orchard? 
+    - What is a bordeaux mixture to be used in a kinnow orchard?
+    - Can you tell me the ratio of a Bordeaux mixture to use in a Kinnow orchard?
+    - ratio of bordeaux mixture to be used in the kinnow orchard?
+    - What is bordeaux mixture ratio for citrus orchard?
+    - Tell me the Bordeaux mixture ratio for a citrus orchard?
+    - In what proportion can the bordeaux mixture be sprayed on a citrus tree?
+    - In what ratio should a mixture of bordeaux be sprinkled over kinnow plants?
+    - How much mixture of bordeaux should be sprinkled over the kinnow plants in a given ratio?
+    - In what ratio should the mixture of bordeaux sprinkle over the kinnow plants
+    - How much in which ratio should the mixture of bordeaux sprinkle on kinnow plants?
+    - In what proportion should the mixture of bordeaux be sprinkled over kinnow plants?
+    - When do you want to sprinkle bordeaux mixture on the kinnow plants?
+
+- intent: faq-hort-citrus-b0/information-regarding-dosage-of-planofix-in-citrus
+  examples: |
+    - information regarding dosage of planofix in kinnow?
+    - tell me about dosage of Planofix in citrus?
+    - What is the dosage for planofix citrus?
+    - how much planofix is needed by citrus fruits?
+    - What is the dosage of planofix in kinnow?
+    - Dosage of planofix in kinnow?
+    - what amount of planofix is required in kinnow
+    - how much planofix do citrus plants require
+    - tell me the dosage requirement of planofix in citrus
+    - Tell me the dose of planofix in citrus?
+    - Can you tell me the dosage of Planofix in citrus?
+    - Tell me the dosage of planofix citrus?
+    - recommend some possible dosages for planofix citrus?
+    - How much of planofix is needed for a citrus plant?
+    - How much planofix is needed by citrus fruits?
+    - Tell me the amount of planofix required for Kinnow?
+    - Tell me the amount of planofix necessary to be used in Kinnow?
+    - Tell me the dosage requirement of planofix in citrus?
+    - list the dosage requirements of planofix in citrus.
+    - show me the dosage requirements of Planofix for citrus fruits.
+    - Can someone tell me the dosage of planofix in citrus fruit?
+    
+- intent: faq-hort-citrus-b0/information-regarding-the-growth-regulator-used-in-citrus
+  examples: |
+    - information regarding the growth regulator used in citrus?
+    - Which growth regulator can be used in citrus?
+    - What is the growth regulator used in citrus?
+    - any details about growth regulator used in kinnow
+    - tell me about growth regulator used in kinnow
+    - tell me the name of growth regulators used in kinnow
+    - which growth regulator works best in citrus
+    - name the growth regulator that works in citrus best
+    - what is the name of growth regulator which works best with citrus
+    - can you give me the name of best growth regulator used in citrus
+    - I want to know the name of best growth regulator that works in citrus crop
+    - can you give me names of the growth regulators that can be used in citrus crop
+    - Tell me the best growth regulator for citrus?
+    - Which growth regulator is best used for citrus growth?
+    - list the best growth regulators in citrus plant?
+    - What growth regulator is most effective in citrus?
+    - Which growth regulator should be used in a citrus plant?
+    - Can you give details about the growth regulator used in Kinnow?
+    - recommend some growth regulators that can be used in Kinnow
+    - Is there any information about growth regulator used in Kinnow?
+    - Tell me the name of the growth regulators used in kinnow
+    - Can you give me the name of growth regulators used in Kinnow?
+    - can you list the growth regulators used in kinnow products?
+    - What type of growth regulators are best used in citrus?
+    - What's the best growth regulator that works in citrus crop?
+    - I want to know the name of best growth regulator that works in citrus crop.
+    - I would like to know the name of best growth regulator that works in citrus cultivation
+
+- intent: faq-hort-citrus-b0/information-regarding-deficiency-of-sulphur--in-citrus
+  examples: |
+    - information regarding deficiency of sulphur in citrus?
+    - How can deficiency of sulphur in kinnow reduced?
+    - what can be done to reduce the deficiency sulphur in kinnow
+    - I want to know the ways to recover sulphur in kinnow
+    - sulphur content seems low in kinnow crops how can i correct its deficiency
+    - what can be done to correct the deficiency of sulphur in citrus
+    - I want to know ways to recover sulphur in my kinnow plants
+    - What is the best approch to cure sulphur deficiency in kinnow plants
+    - what can be done to deal with the deficiency of sulphur in citrus trees
+    - citrus trees lack sulphur content what can i spray to recover it
+    - which spray works best for recovering the deficiency of sulphur in kinnows
+    - How can deficiency of sulfur in Kinnow recoverd?
+    - Is there any way to cure the deficiency of sulphur in kinnow?
+    - What can I do to reduce the deficiency of sulphur in kinnow?
+    - How can a deficiency of sulfur in the plant's kinnow be recovered?
+    - What can be done to reduce the deficiency sulphur in kinnow?
+    - What to do to reduce the deficiency sulphur in citrus?
+    - How can I rectify the deficiency of sulphur content in kinnow crops?
+    - How can I rectify the sulphur content in my kinnow crop?
+    - How can I correct this deficiency in kinnow sulphur?
+    - How do I correct the lack of sulphur in kinnow crop?
+    - It seems that the contents of sulphur in kinnow crops are low. How can I correct this deficiency?
+    - How can I correct the deficiencies of sulphur in citrus?
+    - Tell me the best way to recover from the deficiency of sulphur in citrus?
+    - What should be done to correct the deficiency of sulphur in citrus?
+    - What can I do to correct the deficiency of sulphur in citrus plants?
+    
+- intent: faq-hort-citrus-b0/how-to-deal-with-boron-deficiency-in-citrus-plants
+  examples: |
+    - info regarding how to deal with boron deficiency in citrus plants?
+    - How do I deal with boron deficiency in citrus plants?
+    - tell me how do you treat boron deficiency in citrus plants?
+    - How do citrus plants deal with boron deficiencies?
+    - tell me the ways to deal with boron deficiency in citrus plant?
+    - What are the best ways to deal with a boron deficiency in citrus plants?
+    - information regarding boron defficiency in citrus crop?
+    - What is the best way to recover the boron defficiency in citrus?
+    - How is the boron difficiency in kinnow crop corrected?
+    - what should be done to recover boron in citrus
+    - citrus fruit is deficient in boron content how to correct it
+    - what can be done to make sure the deficiency of boron in citrus is improved
+    - how to improve the deficiency of boron in citrus
+    - what is the best way to recover from boron deficiency in citrus
+- intent: faq-hort-citrus-b0/how-to-control-manganese-deficiency-in-citrus-plant
+  examples: |
+    - information regarding control manganese deficiency in kinnow plant ?
+    - How to control manganese defi in citrus plants?
+    - How do you get rid of manganese defi of kinnow plant?
+    - How can you control manganese deficiency in citrus plant?
+    - How to control manganese deficiency in citrus plant?
+    - How do I control manganese deficiency in kinnow plant?
+    - What should I do to control the deficiency of manganese in kinnow plants?
+    - What is the best way to control manganese deficiency in citrus plant?
+    - citrus plants are deficient of manganese how can i correct it
+    - what can be done to recover from manganese deficiency in citrus plants
+    - is there a way to recover from the deficiecny of manganese
+    - can you tell me how can i deal with the dificiency of manganese in citrus plants
+    - which spray works best with cirtus plants in case of manganese deficiency
+
+- intent: faq-hort-citrus-b0/information-regarding-for-nutrient-deficiency-in-kinnow
+  examples: |
+    - information regarding for nutrient deficiency in citrus ?
+    - How are nutrient deficiencies corrected in kinnow plants?
+    - any details on nutrient deficiency in Kinnow?
+    - what can be done to correct the deficieny of nutrients in citrus
+    - Are there any ways to correct the the nutriential deficiencies of citrus plants
+    - is there any way to make sure nutriential deficiency don't occur in citrus plants
+    - i want to make sure the nutrients are in adequate amount in citrus plants
+    - which spray can be used to make sure the nutrients are in sufficient amount in citrus plants
+    - how can i mantain the nutriential requirements in citrus plants
+
+- intent: faq-hort-citrus-b0/information-regarding-dose-of-trichoderma-in-plants--of-citrus
+  examples: |
+    - information regarding dose of trichoderma in plants  of citrus?
+    - How much trichoderma should I use in kinnow trees?
+    - What's the dose of trichoderma in citrus?
+    - Information regarding dose of trichoderma in citrus plants?
+    - What is the dose of trichoderma in citrus plants?
+    - tell me the dose of trichoderma to be used in citrus plants
+    - what amount of trichoderma should be used in citrus plants
+    - tell me the quantity of trichoderma that used be used in citrus plants
+    - can you tell me the amount of trichoderma that i can use in citrus plants
+    - what dosage of trichoderma can be sprayed in citrus plants
+    - dosage of trichoderma to be used in citrus
+
+- intent: faq-hort-citrus-b0/information-regarding-control-of-catterpiller-in-citrus
+  examples: |
+    - information regarding control of catterpiller in citrus?
+    - How do I control catterpillers in kinnow?
+    - What is the information regarding control of caterpillar in citrus?
+    - What is the control of caterpillars in citrus?
+    - What are the ways for control of caterpillar in citrus?
+    - Control of caterpillar in citrus?
+    - Is there any information regarding the control of caterpillar in citrus?
+    - What is the effective control of catterpiller in kinnow?
+    - tell me what can be done to control catterpiller in citrus crops
+    - which chemicals can be used to control caterpillar crops in citrus
+    - can you tell me name of a spray that can be used to kill caterpillers in citrus
+    - how can i get rid of caterpillers in citrus fruits
+    - what can be done to get rid of caterpiller from kinnow plants
+    - how to kill caterpiller in citrus plants
+    - how to handle the caterpillers in citrus fruits
+
+- intent: faq-hort-citrus-b0/information-regarding-mixing-of-insecticide-with-fungicide
+  examples: |
+    - information regarding mixing of insecticide with fungicide?
+    - Is there any information regarding mixing of insecticide with fungicide?
+    - What is the best information regarding mixing insecticide and fungicide?
+    - What is the mix of insecticide and fungicide?
+    - Is there any information regarding mixing insecticide and fungicide?
+    - What is the difference between insecticides and fungicides?
+    - What are some methods to mix insecticides with fungicides?
+    - Does mixing insecticide with fungicide help or hurt you?
+    - If I mix insecticide with fungicide, is there a difference between the two?
+    - What happens when we mix insecticides and fungicides?
+    - What is the information regarding mixing of insecticide with fungicide?
+
+- intent: faq-hort-citrus-b0/information-regarding-root-weevil-attack-in-citrus
+  examples: |
+    - information regarding root weevil attack in kinnow?
+    - What are some information regarding root weevil attack in citrus?
+    - How can I combat root weevils in kinnow?
+    - How do root weevils attack kinnow ?
+    - What is the root weevil attack in citrus?
+    - How will root weevil damage a citrus tree?
+    - Why are root weevils so damaging to kinnow?
+    - What are some ways to control root weevils on citrus?
+    - How do we prevent root weevils in kinnow?
+    - How do root weevils attack citrus?
+    - What is the root weevil attack in kinnow ?
+
+- intent: faq-hort-citrus-b0/how-to-control-gummosis-disease-in-kinnows
+  examples: |
+    - how to control gummosis disease in kinnows?
+    - How can I control gummosis disease in kinnows?
+    - can i stop gummosis disease in kinnows?
+    - How do I control gummosis disease in kinnows?
+    - How can you prevent gummosis disease in kinnows?
+    - How do I treat gummosis disease in kinnows?
+    - How do I control gummosis in kinnows?
+    - information regarding control of gummosis disease in citrus
+    - any details about get rid of gummosis disease in citrus
+    - tell me about how we can remove gummosis disease in citrus
+    - tell me the treatment for gummosis in kinnows
+    - is the treatment of gummosis in kinnow is available
+    - is there any aid available for gumosis in kinnows
+    - tell me the steps taken to treat gummosis in kinnow
+    - how can i aid the gummosis in kinnow
+    - is there any way to treat gummosis in kinnow
+    - what are the steps to taken to aid gummosis in kinnow
+    - what measures to follow to treat gummosis in kinnow 
+    - is there any way to treat gummosis in kinnow 
+    - tell me the measures to treat gummosis in kinnow 
+    - measures used to treat gummosis in kinnow 
+
+- intent: faq-hort-citrus-b0/information-regarding-black-fungus-growth-on-citruis-leaves
+  examples: |
+    - information regarding black fungus growth on kinnow leaves?
+    - How do black fungus eat citruis leaves?
+    - How do you detect black fungus growth in citruis leaves?
+    - How do I prevent black fungus growth on kinnow leaves?
+    - How do I stop black fungus growth on a citruis plant? What are the signs?
+    - What is black fungus growth on kinnow leaf?
+    - How does a black fungus grow in the citruis leaves?
+    - How do I control the black fungus on kinnow leaf?
+    - How can black fungus grow on the leaves of the citruis plant?
+    - How do I get rid of black fungus growth in kinnow leaves?
+
+- intent: faq-hort-citrus-b0/post-harvest-management-of-citrus
+  examples: |
+    - post harvest management of citrus
+    - information regarding Post harvest management of kinnow
+    - tell me about post harvest management of citrus
+    - what is post harvest management of kinnow citrus.
+    - Post harvest management of citrus for citrus berry.
+    - What is the following post harvest management for citrus citrus?
+    - please tell me the management of post harvest of kinnow
+    - any detail about post harvest management in kinnow
+    - what is post harvest management of citrus
+    - info regarding post harvest management in kinnow
+    - after harvesting, what should we do to take care of citrus plant
+    - tell me about how can i take care of citrus plant after harvesting
+    - what are the steps to be taken to care the citrus plant after harvesting
+    - after harvesting, tell me the procedure to take care of citrus plant
+    - after harvesting how can i take care of citrus plant 
+    - tell me the way how can i take care of citrus plant after harvesting
+    - is there any way to take care of citrus plant after being harvested
+    - what is the procedure to take care of citrus plant after being harvested
+    - how can i care the citrus plant after being harvested
+    - after harvesting is done, how can i care the citrus plant
+    - how should the citrus plant be cared after harvesting
+    - after harvesting, tell me the ways to take care of citrus plant
+  
+- intent: faq-hort-citrus-b0/information-regarding-water-management-in-citrus
+  examples: |
+    - information regarding water management in kinnow ?
+    - What should I know about citrus water management?
+    - What are some information about water management in kinnow?
+    - What are some tips regarding water management in citrus?
+    - How does irrigation management work in kinnow?
+    - How is water management in citrus sustainable?
+    - How can I manage water in kinnow?
+    - What is the best water management technique for citrus?
+    - What is the information regarding water management in kinnow?
+    - How can we conserve water in kinnow?

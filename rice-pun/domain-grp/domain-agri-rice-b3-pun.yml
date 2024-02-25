@@ -1,0 +1,44 @@
+version: "3.0"
+
+intents:
+  - faq-agri-rice-b3-pun
+
+responses:
+  utter_faq-agri-rice-b3-pun/information-regarding-application-of-farmyard-manure-before-paddy-transplanting?:
+  - text: ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਦੀ ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ 6 ਟਨ ਖਾਦ ਪਾਓ।
+  utter_faq-agri-rice-b3-pun/information-regarding-biofertilizer-treatment-of-paddy-nuresery-before-transplanting-?:
+  - text: ਨਰਸਰੀ ਟਰਾਂਸਪਲਾਂਟੇਸ਼ਨ ਤੋਂ ਪਹਿਲਾਂ ਝੋਨੇ ਦੀ ਫਸਲ ਵਿੱਚ ਐਜ਼ੋਰਾਈਜ਼ੋਬੀਅਮ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ ਟ੍ਰੀਟਮੈਂਟ ਦਾ 1 ਪੈਕੇਟ ਇਸ ਘੋਲ ਵਿੱਚ ਇੱਕ ਏਕੜ ਲਈ ਬੀਜ ਦੀ ਜੜ੍ਹ ਨੂੰ 45 ਮਿੰਟ ਤੱਕ ਡੁਬੋ ਦਿਓ।
+  utter_faq-agri-rice-b3-pun/information-regarding-water-management-in-transplanted-paddy-or-basmati-?:
+  - text: ਝੋਨਾ ਜਾਂ ਬਾਸਮਤੀ ਲਈ ਪਹਿਲੇ 15 ਦਿਨ ਪਾਣੀ ਖੜ੍ਹਾ ਰੱਖੋ ਤਾਂ ਫ਼ਸਲ ਨੂੰ ਉਗਾਉਣ ਲਈ ਚੰਗੀ ਨਮੀ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ।ਜੇਕਰ ਖੇਤ ਵਿੱਚ ਹੜ੍ਹ ਆ ਜਾਵੇ ਤਾਂ ਖੇਤ ਨੂੰ ਨਿਕਾਸ ਕਰ ਦਿਓ।ਖੇਤ ਦੇ ਪੱਕਣ ਤੋਂ 2 ਹਫ਼ਤੇ ਪਹਿਲਾਂ ਖੇਤ ਦੀ ਸਿੰਚਾਈ ਨਾ ਕਰੋ।
+  utter_faq-agri-rice-b3-pun/information-regarding-the-best-method-of-puddling-in-paddy?:
+  - text: ਰੋਟਾਵੇਟਰ ਦੁਆਰਾ ਛੱਪੜ ਦੇ ਮੁਕਾਬਲੇ ਕਲਟੀਵੇਟਰ ਦੁਆਰਾ ਝੋਨੇ ਵਿੱਚ ਛੱਪੜ ਵਧੀਆ ਹੈ।
+  utter_faq-agri-rice-b3-pun/information-regarding-cultural-practices-in-paddy-before-burrying-of-dhaincha?:
+  - text: ਢੇਚਾ ਨੂੰ ਲੁਆਈ ਤੋਂ ਇੱਕ ਦਿਨ ਪਹਿਲਾਂ ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਦੱਬ ਦਿਓ
+  utter_faq-agri-rice-b3-pun/information-regarding-storage-of-paddy-after-harvesting.:
+  - text: 10% ਦੀ ਨਮੀ ਸਮੱਗਰੀ ਤੱਕ ਸਟੋਰ ਕੀਤੀ ਗਈ
+  utter_faq-agri-rice-b3-pun/information-regarding-land-preparation-for-paddy-transplanting-field?:
+  - text: ਪਾਣੀ ਅਤੇ ਹੋਰ ਖੇਤੀ ਇਨਪੁੱਟਾਂ ਦੀ ਕੁਸ਼ਲਤਾ ਨੂੰ ਵਧਾਉਣ ਲਈ ਪੁੱਡਲਿੰਗ ਤੋਂ ਪਹਿਲਾਂ ਸਟੀਕ ਲੈਂਡ ਲੈਵਲਿੰਗ ਲਈ ਲੇਜ਼ਰ ਲੈਂਡ ਲੈਵਲਰ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਸਾਰੇ ਬੰਨ੍ਹਾਂ ਦੀ ਮੁਰੰਮਤ ਕਰੋ। ਨਦੀਨਾਂ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ, ਚੰਗੀ ਤਰ੍ਹਾਂ ਬੀਜਣ ਦੀ ਤਾਕਤ ਨੂੰ ਬਣਾਈ ਰੱਖਣ ਲਈ, ਪਾਣੀ ਦੇ ਨੁਕਸਾਨ ਨੂੰ ਘਟਾਉਣ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪੱਧਰੀ ਛੱਪੜ ਵਾਲਾ ਖੇਤ ਪ੍ਰਾਪਤ ਕਰੋ।
+  utter_faq-agri-rice-b3-pun/information-regarding-spacing-between-plant-to-plant-in-basmati-?:
+  - text: ਦੋ ਬੂਟੇ ਪ੍ਰਤੀ ਪਹਾੜੀ ਨੂੰ 20 x 15 ਸੈਂਟੀਮੀਟਰ (33 ਪਹਾੜੀਆਂ/ਵਰਗ ਮੀਟਰ) ਦੀ ਉਚਾਈ 'ਤੇ ਇੱਕ ਚੰਗੀ ਛੱਪੜ ਵਾਲੇ ਖੇਤ ਵਿੱਚ ਵੱਧ ਤੋਂ ਵੱਧ ਸਮੇਂ ਦੌਰਾਨ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰੋ। ਦੇਰ ਨਾਲ ਬੀਜੀ ਫ਼ਸਲ ਵਿੱਚ, ਝਾੜ ਵਿੱਚ ਕਮੀ ਨੂੰ ਘੱਟ ਕਰਨ ਲਈ ਵਿੱਥ 15x15 ਸੈਂਟੀਮੀਟਰ (44 ਪਹਾੜੀਆਂ/ਵਰਗ ਮੀਟਰ) ਤੱਕ ਘਟਾਈ ਜਾ ਸਕਦੀ ਹੈ।
+  utter_faq-agri-rice-b3-pun/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy?:
+  - text: ਕਿਸੇ ਵੀ ਰਸਾਇਣ ਦਾ ਛਿੜਕਾਅ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਸਵੇਰੇ ਜਾਂ ਸ਼ਾਮ ਨੂੰ ਝੋਨੇ ਦੇ ਪੱਤਿਆਂ 'ਤੇ ਘੱਟ ਤ੍ਰੇਲ ਪੈਣ 'ਤੇ ਹੈ।
+  utter_faq-agri-rice-b3-pun/information--regarding-straw-management-of-rice-?:
+  - text: ਝੋਨੇ ਦੀ ਪਰਾਲੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ MB ਹਲ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਇਸਨੂੰ ਆਸਾਨੀ ਨਾਲ ਕੰਪੋਜ਼ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+  utter_faq-agri-rice-b3-pun/information-regarding-root-treatment-of-paddy-nusery-before-transplanting-?:
+  - text: ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਵਿੱਚ ਰੂਟ ਟ੍ਰੀਟਮੈਂਟ ਬਿਜਾਈ ਤੋਂ 6 ਘੰਟੇ ਪਹਿਲਾਂ 2 ਗ੍ਰਾਮ ਬਾਵਿਸਟਿਨ ਨੂੰ 1 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਕਰੋ।
+  utter_faq-agri-rice-b3-pun/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown-?:
+  - text: ਤੁਸੀ ਕਰ ਸਕਦੇ ਹੋ
+  utter_faq-agri-rice-b3-pun/information-regarding-the-cultivation-of-paddy-in-alkali-soil-?:
+  - text: ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ 7.5 ਕਿਲੋ ਸੁਪਰ ਫਾਸਫੇਟ, 3.25 ਕਿਲੋ ਯੂਰੀਆ, 5 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ 21% ਜਾਂ 3 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ 33% ਪ੍ਰਤੀ ਕਨਾਲ ਪਾਓ ਅਤੇ ਬਿਜਾਈ ਤੋਂ 15 ਦਿਨਾਂ ਬਾਅਦ 3.25 ਕਿਲੋ ਯੂਰੀਆ ਪਾਓ।
+  utter_faq-agri-rice-b3-pun/information-regarding-application-of-oil-cakes-in-paddy-?:
+  - text: ਪੀਏਯੂ ਦੁਆਰਾ ਤੇਲ ਦੇ ਕੇਕ ਲਗਾਉਣ ਦੀ ਸਿਫਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+  utter_faq-agri-rice-b3-pun/information-regarding-the-cultivation-of-paddy-in-poor-quality-water-?:
+  - text: ਘਟੀਆ ਗੁਣਵੱਤਾ ਵਾਲੇ ਪਾਣੀ ਵਿੱਚ ਝੋਨੇ ਦੀ ਕਾਸ਼ਤ ਕਰਨ ਲਈ ਪਾਣੀ ਦੀ ਜਾਂਚ ਰਿਪੋਰਟ ਦੇ ਆਧਾਰ 'ਤੇ ਜਿਪਸਮ ਲਗਾਓ।
+  utter_faq-agri-rice-b3-pun/how-to-increase-the-water-absorbing-capacity-of-soil-?:
+  - text: ਜ਼ਮੀਨ ਦੀ ਪਾਣੀ ਸੋਖਣ ਦੀ ਸਮਰੱਥਾ ਨੂੰ ਵਧਾਉਣ ਲਈ ਕਿਸੇ ਵੀ ਚੀਜ਼ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ।
+  utter_faq-agri-rice-b3-pun/information-regarding-application-of-booster-for-paddy-crop?:
+  - text: ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਲਈ ਬੂਸਟਰ ਦੀ ਕੋਈ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ।
+  utter_faq-agri-rice-b3-pun/information-regarding-application-of-urea-in-paddy-after-transplanting?:
+  - text: ਸਾਰੀਆਂ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀਆਂ ਕਿਸਮਾਂ ਨੂੰ 90 ਕਿਲੋ ਯੂਰੀਆ ਖਾਦ 3 ਬਰਾਬਰ ਹਿੱਸਿਆਂ ਵਿੱਚ ਪਾਓ। ਪਹਿਲੀ ਸਪਲਿਟ ਲੁਆਈ ਦੇ 7 ਦਿਨਾਂ ਤੱਕ ਅਤੇ ਦੂਜੀ ਸਪਲਿਟ ਟਰਾਂਸਪਲਾਂਟਿੰਗ ਦੇ 21 ਦਿਨਾਂ ਬਾਅਦ ਕੀਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ। ਥੋੜ੍ਹੇ ਸਮੇਂ ਲਈ ਤੀਸਰਾ ਸਪਲਿਟ (ਪੀ.ਆਰ. 126 ਅਤੇ ਪੀ.ਆਰ. 124) ਲੁਆਈ ਦੇ 35 ਦਿਨਾਂ ਬਾਅਦ ਲਾਗੂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ ਜਦੋਂ ਕਿ ਹੋਰ ਕਿਸਮਾਂ ਲਈ, ਟਰਾਂਸਪਲਾਂਟ ਕਰਨ ਦੇ 42 ਦਿਨਾਂ 'ਤੇ ਲਾਗੂ ਕਰੋ, ਯੂਰੀਆ ਨੂੰ ਖੜ੍ਹੇ ਜਾਂ ਘੱਟ ਪਾਣੀ ਵਿੱਚ ਲਗਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।
+  utter_faq-agri-rice-b3-pun/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application-in-paddy-?:
+  - text: ਜੇਕਰ ਨਦੀਨਾਂ ਦਾ ਰੰਗ ਪੀਲਾ ਦਿਖਾਈ ਦੇਣ ਤਾਂ ਨਦੀਨਨਾਸ਼ਕ ਦੇ ਛਿੜਕਾਅ ਤੋਂ 3-4 ਦਿਨਾਂ ਬਾਅਦ ਝੋਨੇ ਵਿੱਚ ਯੂਰੀਆ ਪਾਓ।

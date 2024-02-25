@@ -1,0 +1,30 @@
+version: "3.0" 
+intents: 
+  - faq-hort-chilli-b1
+responses:
+  utter_faq-hort-chilli-b1/information-regarding-potash-requirement-in-chilli: 
+  - text: No Answer for potash requirement
+  utter_faq-hort-chilli-b1/information-regarding-defloration-in-chilli: 
+  - text: Spray 50 ml planofix in 200 litre of water per acre.
+  utter_faq-hort-chilli-b1/information-regarding-for-the-fert-dose-in-chilly-at-sowing-time: 
+  - text: Apply 40 kg Urea  potash AND 55 kg DAP.
+  utter_faq-hort-chilli-b1/information-regarding-burning-of-fruit-of-chilly: 
+  - text: Spray naphthalene 4 ml in 1 litre water per acre.
+  utter_faq-hort-chilli-b1/information-regarding-manganese-deficiency-in-chillies: 
+  - text: Spray manganese sulphate 500 gram in 100 litres of water per acre 2-3 days before on sunny days.
+  utter_faq-hort-chilli-b1/what-are-some-of-the-deficiency-symptoms-in-chilly-crop: 
+  - text: No Answer for deficiency symtom
+  utter_faq-hort-chilli-b1/information-regarding-how-to-control-iron-deficiency-in-chilli: 
+  - text: No Answer for iron deficiency
+  utter_faq-hort-chilli-b1/information-regarding-to-method-of-plant-spacing-chillies: 
+  - text: Row to row distance should be 60 cm, and plant to plant distance 45 cm.
+  utter_faq-hort-chilli-b1/information-regarding-growth-regulator-used-in-chilli-crop-after-sucking-pest-attack: 
+  - text: The growth regulator used in chilli crop after sucking pest attack is N:P:K 19:19:19 1 kg in 100 litre water per acre.
+  utter_faq-hort-chilli-b1/information-ragarding-nutrient-management-in-chillies: 
+  - text: For the nutrient management in chilli, spray N:P:K (13:0:45) 1 kg in 100 litres of water per acre.
+  utter_faq-hort-chilli-b1/information-regarding-for-the-control-of-aphids-in-chilli-crop: 
+  - text: For the control of aphids in chilli, spray 400 ml Malathion 50 EC in 100 liter water per acre.
+  utter_faq-hort-chilli-b1/how-to-control-of-larvae-in-chilli: 
+  - text: For the control of larvae, spray 800 ml Ekalux 25 EC in 150 litre of water/acre.
+  utter_faq-hort-chilli-b1/information-regarding-for-the-control-of-flower-drop-in-chillimirch-crop: 
+  - text: For control of flower dropping in chillies, spray 1 ml Planofix per 4.5 litres of water.

@@ -1,0 +1,32 @@
+version: "3.0"
+
+intents:
+  - faq-hort-chilli-b1-pun
+
+responses:
+  utter_faq-hort-chilli-b1-pun/information-regarding-potash-requirement-in-chilli?:
+  - text: ਪੋਟਾਸ਼ ਦੀ ਲੋੜ ਦਾ ਕੋਈ ਜਵਾਬ ਨਹੀਂ
+  utter_faq-hort-chilli-b1-pun/information-regarding-defloration-in-chilli?:
+  - text: 50 ਮਿਲੀਲਿਟਰ ਪਲੈਨੋਫਿਕਸ ਨੂੰ 200 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b1-pun/information-regarding-for-the-fert-dose-in-chilly-at-sowing-time?:
+  - text: 40 ਕਿਲੋ ਯੂਰੀਆ 20 ਕਿਲੋ ਪੋਟਾਸ਼ ਅਤੇ 55 ਕਿਲੋ ਡੀ.ਏ.ਪੀ.
+  utter_faq-hort-chilli-b1-pun/information-regarding-burning-of-fruit-of-chilly?:
+  - text: ਨੈਫਥਲੀਨ 4 ਮਿ.ਲੀ. ਨੂੰ 1 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b1-pun/information-regarding-manganese-deficiency-in-chillies?:
+  - text: ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ 500 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ 2-3 ਦਿਨ ਪਹਿਲਾਂ ਧੁੱਪ ਵਾਲੇ ਦਿਨਾਂ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b1-pun/What-are-the-symptoms-in-deficiency-in-chillies-crop?:
+  - text: ਕਮੀ ਦੇ ਲੱਛਣ ਲਈ ਕੋਈ ਜਵਾਬ ਨਹੀਂ
+  utter_faq-hort-chilli-b1-pun/information-regarding-how-to-control-iron-deficiency-in-chilli?:
+  - text: ਆਇਰਨ ਦੀ ਕਮੀ ਦਾ ਕੋਈ ਜਵਾਬ ਨਹੀਂ
+  utter_faq-hort-chilli-b1-pun/information-regarding-to-method-of-plant-spacing-chillies?:
+  - text: ਕਤਾਰ ਤੋਂ ਕਤਾਰ ਦੀ ਦੂਰੀ 60 ਸੈਂਟੀਮੀਟਰ ਹੈ। ਅਤੇ ਪੌਦੇ ਤੋਂ ਪੌਦੇ ਦੀ ਦੂਰੀ 45 ਸੈਂਟੀਮੀਟਰ ਹੈ।
+  utter_faq-hort-chilli-b1-pun/information-regarding-growth-regulator-used-in-chilli-crop-after-sucking-pest-attack?:
+  - text: ਮਿਰਚਾਂ ਦੀ ਫਸਲ ਵਿੱਚ ਕੀੜਿਆਂ ਦੇ ਹਮਲੇ ਤੋਂ ਬਾਅਦ ਵਰਤਿਆ ਜਾਣ ਵਾਲਾ ਗਰੋਥ ਰੈਗੂਲੇਟਰ N:P:K 19:19:19 1 ਕਿਲੋ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ।
+  utter_faq-hort-chilli-b1-pun/information-regarding-nutrient-management-in-chillies?:
+  - text: ਮਿਰਚਾਂ ਵਿੱਚ ਪੋਸ਼ਕ ਤੱਤਾਂ ਦੇ ਪ੍ਰਬੰਧਨ ਲਈ N:P:K (13:0:45) 1 ਕਿਲੋ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-hort-chilli-b1-pun/information-regarding-for-the-control-of-aphids-in-chilli-crop?:
+  - text: ਮਿਰਚਾਂ ਵਿੱਚ ਐਫੀਡਸ ਦੀ ਰੋਕਥਾਮ ਲਈ 400 ਮਿਲੀਲਿਟਰ ਮੈਲਾਥੀਓਨ 50 ਈ ਸੀ ਨੂੰ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-hort-chilli-b1-pun/how-to-control-of-larvae-in-chilli?:
+  - text: ਸਪਰੇ 800 ਐਮ ਐਲ ਏਕਲਕਸ 25 ਈਸੀ 150 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ
+  utter_faq-hort-chilli-b1-pun/information-regarding-for-the-control-of-flower-drop-in-chilli(mirch)-crop?:
+  - text: ਮਿਰਚਾਂ ਵਿੱਚ ਫੁੱਲਾਂ ਦੇ ਝੜਨ ਦੀ ਰੋਕਥਾਮ ਲਈ 1 ਮਿਲੀਲਿਟਰ ਪਲੈਨੋਫਿਕਸ ਪ੍ਰਤੀ 4.5 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।

@@ -1,0 +1,142 @@
+version: "3.0"
+
+intents:
+  - faq-agri-wheat-b0-pun
+
+responses:
+  utter_faq-agri-wheat-b0-pun/control-of-weeds-in-wheat:
+  - text: ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ 45 ਦਿਨਾਂ ਬਾਅਦ ਨਦੀਨਨਾਸ਼ਕ ਦੀ ਸਪਰੇਅ ਨਾ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/how-to-control-of-root-weevil-in-wheat-crop:
+  - text: ਮੈਂ ਕਿਸਾਨ ਨੂੰ ਦੱਸਿਆ ਕਿ 1 ਲੀਟਰ ਥਿਓਡਾਨ 35 ਈਸੀ @ 2 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਅਤੇ 20 ਕਿਲੋ ਮਿੱਟੀ ਮਿਲਾ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ ਪ੍ਰਸਾਰਿਤ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-manganese-deficiency-in-wheat:
+  - text: ਮੈਂਗਨੀਜ਼ 1 ਕਿਲੋਗ੍ਰਾਮ/ਏਕੜ ਮਿਕਸ 100 ਲੀਟਰ ਪਾਣੀ ਦੀ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-aphid-in-wheat:
+  - text: Wheat Aphid ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਰੋਗਰ (ਡਾਈਮੇਥੋਏਟ) @ 1 ml / 1 ਲੀਟਰ ਪਾਣੀ ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/how-to-control-of-yellow-rust-in-wheat:
+  - text: ਕਣਕ ਵਿੱਚ ਪੀਲੀ ਕੁੰਗੀ ਦੀ ਰੋਕਥਾਮ ਲਈ ਟਿਲਟ 25 ਈ ਸੀ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ) 200 ਮਿਲੀਲੀਟਰ ਜਾਂ ਨਟੀਵੋ 75 ਡਬਲਯੂਜੀ (ਟ੍ਰਾਈਫਲੋਕਸੀਸਟ੍ਰੋਬਿਨ + ਟੇਬੂਕੋਨਾਜ਼ੋਲ) 120 ਗ੍ਰਾਮ 200 ਲੀਟਰ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/control-of-stem-borer-in-wheat:
+  - text: ਕਣਕ ਦੇ ਪ੍ਰਸਾਰਣ ਵਿੱਚ ਕਣਕ ਦੇ ਡੰਡੇ ਦੇ ਬੋਰਰ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ, ਉਗਣ ਤੋਂ ਬਾਅਦ ਹਰ 20 ਦਿਨਾਂ ਦੇ ਅੰਤਰਾਲ 'ਤੇ ਫਿਪਰੋਨਿਲ 0.3% ਜੀਆਰ @ 8 ਕਿਲੋਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ ਪਾਓ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-termite:
+  - text: 1 ਲੀਟਰ ਕਲੋਰੋਪਾਈਰੀਫੋਸ 20 ਈਸੀ ਰੇਤ ਦੇ ਨਾਲ ਮਿਕਸ ਕਰਕੇ ਪ੍ਰਸਾਰਿਤ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-army-worm-in-wheat-crop:
+  - text: ਕਣਕ ਵਿੱਚ ਫੌਜੀ ਕੀੜੇ ਦੀ ਰੋਕਥਾਮ ਲਈ ਏਕਲਕਸ 25 ਈਸੀ (ਕੁਇਨਲਫੋਸ) @ 400 ਮਿਲੀਲਿਟਰ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-brown-leaf-in-wheat-crop:
+  - text: ਨੈਟੀਵੋ 75 ਡਬਲਯੂਜੀ (ਟ੍ਰਾਈਫਲੋਕਸਿਸਟਰੋਬਿਨ + ਟੇਬੂਕੋਨਾਜ਼ੋਲ) @ 120 ਗ੍ਰਾਮ ਜਾਂ ਟਿਲਟ 25 ਈਸੀ/ਸ਼ਾਈਨ 25ਈਸੀ/ਬੰਪਰ 25ਈਸੀ/ਸਟਿਲਟ 25 ਈਸੀ/ਕੰਪਾਸ 25ਈਸੀ/ਮਾਰਕਜ਼ੋਲ 25 ਈਸੀ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ) @ 200 ਮਿਲੀਲਿਟਰ ਪ੍ਰਤੀ ਏਕੜ 200 ਮਿਲੀਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ। ਜਿਵੇਂ ਹੀ ਬਿਮਾਰੀ ਨਜ਼ਰ ਆਉਂਦੀ ਹੈ।
+  utter_faq-agri-wheat-b0-pun/control-of-kernel-smut-in-wheat-crop:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 200 ਮਿਲੀਲਿਟਰ ਟਿਲਟ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/control-of-black-hopper-in-crop:
+  - text: ਮੋਨੋਸਿਲ @ 10 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat:
+  - text: 40 ਕਿਲੋ ਬੀਜ ਨੂੰ 13 ਮਿਲੀਲੀਟਰ ਰੈਕਸਿਲ ਈਜ਼ੀ/ਓਰੀਅਸ 6 ਐਫਐਸ ਨਾਲ 400 ਮਿਲੀਲੀਟਰ ਪਾਣੀ ਜਾਂ 120 ਗ੍ਰਾਮ ਵਿਟਾਵੈਕਸ ਪਾਵਰ 75 ਡਬਲਯੂਐਸ ਜਾਂ 80 ਕਿਲੋ ਵਿਟਾਵੈਕਸ 75 ਡਬਲਯੂਪੀ ਜਾਂ 40 ਗ੍ਰਾਮ ਸੀਡੈਕਸ 2 ਡੀਐਸ/ਐਕਸਜ਼ੋਲ 2 ਡੀਐਸ ਪ੍ਰਤੀ 40 ਕਿਲੋ ਬੀਜ ਵਿੱਚ ਘੋਲ ਕੇ ਸੋਧੋ।
+  utter_faq-agri-wheat-b0-pun/how-to-control-of-powdery-mildew-in-wheat-crop:
+  - text: ਨੈਟੀਵੋ 75 ਡਬਲਯੂਜੀ (ਟ੍ਰਾਈਫਲੋਕਸੀਸਟ੍ਰੋਬਿਨ + ਟੇਬੂਕੋਨਾਜ਼ੋਲ) @120 ਗ੍ਰਾਮ ਜਾਂ ਟਿਲਟ 25 ਈਸੀ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ) @200 ਮਿਲੀਲਿਟਰ ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-tella-in-wheat:
+  - text: ਮੈਂ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 200 ਮਿਲੀਲਿਟਰ @ ਮੋਨੋਕਰੋਟੋਫੋਸ ਦੀ ਸਪਰੇਅ ਦੱਸੀ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-karnal-bunt-in-wheat:
+  - text: ਕਣਕ ਵਿੱਚ ਕਰਨਾਲ ਬੰਟ ਦੀ ਰੋਕਥਾਮ ਲਈ 200 ਮਿਲੀਲਿਟਰ ਟਿਲਟ/ਬੰਪਰ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ 25 ਈਸੀ) ਜਾਂ 200 ਮਿਲੀਲੀਟਰ ਫੋਲੀਕਰ/ਓਰੀਅਸ 25 ਈਸੀ (ਟੈਬੂਕੋਨਾਜ਼ੋਲ) ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/control-of-cutworm-in-wheat:
+  - text: ਕਲੋਰਪਾਈਰੀਫੋਸ ਨਾਲ ਮਿੱਟੀ ਦਾ ਇਲਾਜ ਕਰੋ ਜਿਵੇਂ ਕਿ ਡਰਸਬਨ 10% G @ 20 ਕਿਲੋਗ੍ਰਾਮ ਪ੍ਰਤੀ ਹੈਕਟੇਅਰ ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ
+  utter_faq-agri-wheat-b0-pun/control-of-green-hopper-in-wheat-crop.:
+  - text: ਰੋਗਰ @ 200 ਮਿਲੀਲਿਟਰ ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/control-of-rats-in-wheat-field:
+  - text: 1 ਕਿਲੋ ਕਣਕ + 100 ਗ੍ਰਾਮ ਸਰ੍ਹੋਂ ਦੇ ਤੇਲ ਵਿੱਚ 25 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਫਾਸਫੇਟ ਪਾਓ।
+  utter_faq-agri-wheat-b0-pun/control-of-leaf-folder-in-wheat-crop:
+  - text: ਕੌਨਫੀਡੋਰ 100 ਮਿਲੀਲੀਟਰ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-leaf-curl-in-wheat:
+  - text: ਐਕਟਾਰਾ 70 ਗ੍ਰਾਮ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-root-rot-of-wheat:
+  - text: ਮੈਕਸਿਮ 4 FS 0.08 ਤੋਂ 0.16 fl oz/100 lb ਬੀਜ ਅਤੇ ਇੱਕ ਡਾਈ ਬੀਜਾਂ ਦੇ ਝੁਲਸਣ ਵਿੱਚ ਮਦਦ ਕਰੇਗੀ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-black-rust-in-wheat.:
+  - text: ਜ਼ੀਨੇਬ ਜਾਂ ਮੇਨਕੋਜ਼ੇਬ 75 ਡਬਲਯੂਪੀ ਦਾ ਛਿੜਕਾਅ ਕਰਕੇ ਕਣਕ ਦੀ ਕੁੰਗੀ ਤੋਂ ਹੋਣ ਵਾਲੇ ਨੁਕਸਾਨ ਨੂੰ ਘੱਟ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+  utter_faq-agri-wheat-b0-pun/regarding-yellowing-of-plants-of-wheat-due-to-heavy-irrigation:
+  - text: ਯੂਰੀਆ 3 ਕਿਲੋ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/info-regarding-the-yellowing-of-new-leaves-in-wheat:
+  - text: 50-100KG ZYPSUM/ACRE ਅਪਲਾਈ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/info-regarding-yellowing-of-leaves-in-urea-deficiency:
+  - text: ਯੂਰੀਆ 2 ਕਿਲੋ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸ਼ਾਮ ਨੂੰ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-yellowing-of-leaves-in-wheat-crop-due-to-heavy-irrigation:
+  - text: 3 ਕਿਲੋ ਯੂਰੀਆ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-rodent-in-wheat:
+  - text: ਚੂਹਿਆਂ ਨੂੰ ਕਾਬੂ ਕਰਨ ਲਈ 1 ਕਿਲੋ ਕਣਕ ਦਾ ਆਟਾ, 20 ਮਿਲੀਲੀਟਰ ਬਨਸਪਤੀ ਤੇਲ, 20 ਗ੍ਰਾਮ ਖੰਡ ਅਤੇ 25 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਫਾਸਫਾਈਡ ਦਾ ਮਿਸ਼ਰਣ ਬਣਾ ਕੇ ਖੇਤਾਂ ਵਿੱਚ ਛੇਕਾਂ ਦੇ ਨੇੜੇ ਰੱਖੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-pink-stem-borer-in-wheat:
+  - text: ਕੋਰੇਜਨ 18.5 ਐਸਸੀ (ਕਲੋਰਾਨ ਟਰੈਨੀਲੀਪ੍ਰੋਲ) @ 50 ਮਿਲੀਲੀਟਰ 80-100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/tell-me-control-top-borer-in-wheat:
+  - text: ਐਕਲਕਸ 2 ਮਿਲੀਲੀਟਰ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪਾਓ
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-loose-smut-in-wheat:
+  - text: 40 ਕਿਲੋ ਬੀਜ ਨੂੰ 13 ਮਿਲੀਲੀਟਰ ਰੈਕਸਿਲ ਈਜ਼ੀ/ਓਰੀਅਸ 6 ਐਫਐਸ ਨਾਲ 400 ਮਿਲੀਲੀਟਰ ਪਾਣੀ ਜਾਂ 120 ਗ੍ਰਾਮ ਵਿਟਾਵੈਕਸ ਪਾਊਡਰ 75 ਡਬਲਯੂਐਸ ਜਾਂ 80 ਗ੍ਰਾਮ ਵਿਟਾਵੈਕਸ 75 ਡਬਲਯੂਪੀ ਜਾਂ 40 ਗ੍ਰਾਮ ਸੀਡੈਕਸ @ ਡੀਐਸ/ਐਕਸਜ਼ੋਲ 2 ਡੀਐਸ ਜਾਂ 80 ਮਿ.ਲੀ. ਨਿਓਨਿਕਸ 4020 ਮਿ.ਲੀ. ਵਿੱਚ ਘੋਲ ਕੇ ਸੋਧੋ। ਕਿਲੋ ਬੀਜ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-caterpillar-in-wheat:
+  - text: ਕਣਕ ਵਿੱਚ ਕੈਟਰਪਿਲਰ ਦੀ ਰੋਕਥਾਮ ਲਈ ਏਕਲਕਸ 25 ਈਸੀ (ਕੁਇਨਲਫੋਸ) @ 400 ਮਿਲੀਲਿਟਰ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/how-to-control-pink-caterpillar-in-wheat-crop:
+  - text: ਕੁਇਨੋਲੋਫੋਸ 25 ਈ ਸੀ @ 800 ਮਿ.ਲੀ. ਨੂੰ 100 ਲੀਟਰ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/control-of-gram-caterpillar-in-wheat:
+  - text: ਸਪਰੇਅ 800 ਮਿ.ਲੀ. Ekalux 25EC 100 ਲਿ. ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ।
+  utter_faq-agri-wheat-b0-pun/control-of-leaf-cutting-caterpillar-in-wheat:
+  - text: 100 ਲਿਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 300 ਮਿਲੀਲਿਟਰ ਕਲੋਰਪੀਰੀਫੋਸ 20 ਈ ਸੀ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/how-to-control-root-caterpillar-in-wheat-crop:
+  - text: 15 ਕਿਲੋ ਸੁੱਕੀ ਰੇਤ/ਏਕੜ ਵਿੱਚ ਕਲੋਰੋਪਾਈਰੀਫੋਸ @ 1.5 ਲੀਟਰ ਦਾ ਪ੍ਰਸਾਰਣ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-american-caterpillar-in-wheat:
+  - text: XYZ ਜਵਾਬ
+  utter_faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-hairy-caterpillar-wheat-crop:
+  - text: ਵਾਲਾਂ ਵਾਲੇ ਕੈਟਰਪਿਲਰ ਕਣਕ ਦੀ ਫਸਲ ਦੇ ਨਿਯੰਤਰਣ ਲਈ PLS ਸਪਰੇਰੀ 800ML EKALUX ਪ੍ਰਤੀ ਏਸਰ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop:
+  - text: ਏਕਲਕਸ 25 ਈ ਸੀ (ਕੁਇਨਲਫੋਸ) @ 800 ਮਿਲੀਲੀਟਰ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/dose-of-npk-for-wheat:
+  - text: ਕਣਕ ਵਿੱਚ npk 19:19:19 ਦੀ ਖੁਰਾਕ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 1 ਕਿਲੋ ਹੈ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-fungus-in-wheat:
+  - text: ਕਣਕ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ 20 ਕਿਲੋ ਰੇਤ ਵਿੱਚ ਸੇਫ 500 ਗ੍ਰਾਮ ਪ੍ਰਸਾਰਿਤ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-jassid-in-wheat:
+  - text: 600-800 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਕਾਰਬਰਿਲ (ਸੇਵਿਨ 50 ਡਬਲਯੂ.ਪੀ.) @ 2.5 ਕਿਲੋਗ੍ਰਾਮ ਪ੍ਰਤੀ ਹੈਕਟੇਅਰ ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-spray-for-plant-hopper-in-wheat:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 150 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਏਕਲਕਸ 0.5 ਲੀਟਰ
+  utter_faq-agri-wheat-b0-pun/information-regarding-pest-control-in-wheat-crop:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫਾਸ @ 400 ਮਿਲੀਲੀਟਰ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-thirips-in-wheat-crop:
+  - text: 150 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 80-100 ਮਿਲੀਲੀਟਰ ਜਾਂ ਏਕਤਾਰਾ @ 80-100 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਕਨਫਿਡੋਰ ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-head-blight-in-wheat:
+  - text: ਬਲਿਟੌਕਸ @ 500 ਗ੍ਰਾਮ ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-telachepa-in-wheat:
+  - text: ਰੋਗਰ @250 ਗ੍ਰਾਮ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-red-beetle-control-in-wheat:
+  - text: 75-150 ਗ੍ਰਾਮ ਸੇਵਿਨ/ਹੈਕਸਾਵਿਨ 50 ਡਬਲਯੂਪੀ (ਕਾਰਬਰਿਲ) ਨੂੰ 50-100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਐਨਪੀਕੇ 13:00:45 1 ਕਿਲੋਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-shoot-borer-in-wheat-crop:
+  - text: ਰੇਤਲੀ ਮਿੱਟੀ ਜਾਂ ਯੂਰੀਆ/ਏਕੜ ਨਾਲ 5 ਕਿਲੋ ਰੀਜੈਂਟ ਜਾਂ ਪੈਡਨ ਮਿਕਸ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-white-grub-in-wheat-crop:
+  - text: ਕਲੋਰਪਾਈਰੀਫੋਸ 40 ਮਿਲੀਲਿਟਰ/15 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-molya-disease-in-wheat:
+  - text: ਫੁਰਾਡਾਨ 3 ਜੀ @ 13 ਕਿਲੋ ਪ੍ਰਤੀ ਏਕੜ ਦੀ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-nematode-in-wheat:
+  - text: ਫੁਰਾਡਾਨ 3ਜੀ 13 ਕਿਲੋਗ੍ਰਾਮ/ਏਕੜ ਏਪੀਲੀ ਮਿੱਟੀ ਵਿੱਚ ਬਿਜਾਈ ਸਮੇਂ ਕਲੋਰਪਾਈਰੀਫੋਸ 1.25 ਲਿਟਰ ਸਿੱਧੀ ਮਿੱਟੀ ਵਿੱਚ ਪਾਓ।
+  utter_faq-agri-wheat-b0-pun/information-about-ballworm-control-in-wheat:
+  - text: ਈਕਲਕਸ 400 ਗ੍ਰਾਮ ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ/ਏਸਰ ਨਾਲ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-how-to-control-sundi-in-wheat-crop:
+  - text: EKALUX 25 EC 800 ML 100 ਲੀਟਰ ਪਾਣੀ/ACER
+  utter_faq-agri-wheat-b0-pun/how-to-control-amrican-sundi-in-wheat-crop:
+  - text: 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਮੋਨੋਸਿਲ @ 400 ਮਿਲੀਲੀਟਰ ਦੀ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-gob-wali-sundi:
+  - text: ਮੋਨੋਕਰੋਟੋਫੋਸ 560 ਮਿਲੀਲੀਟਰ ਪ੍ਰਤੀ ਏਕੜ
+  utter_faq-agri-wheat-b0-pun/information-regarding-green-sundi-in-wheat?:
+  - text: ਕੁਇਨਾਲਫੋਰਸ 400 ਮਿਲੀਲਿਟਰ ਨੂੰ 200 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-yellowing-of-leaves-due-to-potash-deficiency:
+  - text: NPK 19 :19 :19 1 ਕਿਲੋ ਪ੍ਰਤੀ ਏਕੜ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-how-to-control-black-mosquito-in-wheat:
+  - text: ਸਪਰੇਅ 150 ਮਿ.ਲੀ. ਰੋਗਰ ਜਾਂ ਮੈਟਾਸਿਸਟੌਕਸ 80-100 ਲਿ. ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-ddvp-remedy-spray-in-wheat:
+  - text: ddvp ਸਪਰੇਅ ਲਈ pau ਤੋਂ ਕੋਈ ਸਿਫਾਰਸ਼ ਨਹੀਂ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-white-leaves-in-wheat:
+  - text: 1 ਕਿਲੋ ਫੈਰਸ ਸਲਫੇਟ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-hill-bunt-in-wheat:
+  - text: 200 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 200 ਮਿਲੀਲਿਟਰ ਮਿਕਸ ਕਰਕੇ ਟਿਲਟ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-to-avoid-the-toxic-effect-of-overdose-fertilizer-spray-in-wheat:
+  - text: ਖਾਦ (ਡੀਏਪੀ) ਸਪਰੇਅ ਦੇ ਮਾੜੇ ਪ੍ਰਭਾਵਾਂ ਤੋਂ ਫਸਲ ਦੀ ਸਥਿਤੀ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਹਲਕੀ ਸਿੰਚਾਈ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-use-of-confidor-in-wheat:
+  - text: ਕਣਕ ਵਿੱਚ ਐਫੀਡ ਦੀ ਰੋਕਥਾਮ ਲਈ 20 ਗ੍ਰਾਮ ਐਕਟਾਰਾ 25 ਡਬਲਯੂਜੀ (ਥਿਆਮੇਥੋਕਸਮ) ਨੂੰ 80-100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-shootfly-in-wheat:
+  - text: ਏਕਲਲਾਕ 800 ਮਿਲੀਲਿਟਰ ਨੂੰ 120 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-trichoderma-in-wheat-crop:
+  - text: 1 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 2 ਗ੍ਰਾਮ ਦਾ ਛਿੜਕਾਅ ਕਰੋ ਅਤੇ ਇਸ ਨੂੰ ਠੰਡੇ ਖੇਤਰ ਵਿੱਚ 6 ਮਹੀਨਿਆਂ ਲਈ ਖੇਤ ਵਿੱਚ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-hardiness-of-soil-for-the-growth-of-wheat:
+  - text: 3 ਕਿਲੋਗ੍ਰਾਮ / ਏਕੜ ਸਲਫਰ ਦੀ ਵਰਤੋਂ ਕਰੋ। 2014
+  utter_faq-agri-wheat-b0-pun/information-regarding-atlantis-spray-in-wheat-crop:
+  - text: ਐਟਲਾਂਟਿਸ ਦੀ ਖੁਰਾਕ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 160 ਗ੍ਰਾਮ ਹੈ
+  utter_faq-agri-wheat-b0-pun/protection-against-larvae-in-wheat:
+  - text: ਈਕਾਲਕਸ 800 ਮਿ.ਲੀ. ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਪਾਓ

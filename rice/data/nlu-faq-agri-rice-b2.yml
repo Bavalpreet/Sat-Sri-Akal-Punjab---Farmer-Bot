@@ -1,0 +1,248 @@
+version: "3.0" 
+nlu: 
+
+- intent: faq-agri-rice-b2/information-regarding-sowing-time-of--basmati
+  examples: |
+    - information regarding sowing time of basmati?
+    - any details related to the sowing time of basmati
+    - What is the sowing time of basmati rice
+    - When will the sowing time be for basmati?
+    - How does one determine the sowing time of a basmati plant?
+    - How much sowing time is available in basmati?
+    - What is sowing time for Basmati?
+    - when should i sow rice crop
+    - what could be the best time to sow paddy
+    - when to sow paddy seeds?
+    - sowing time of paddy crop
+
+- intent: faq-agri-rice-b2/sowing-time-of-direct-seedling-of-basmati
+  examples: |
+    - information regarding sowing time of direct seedling of basmati
+    - any details related to the sowing time of direct seedling of basmati
+    - sowing time of direct seedling of basmati?
+    - How long is the sowing time for direct seedling of paddy?
+    - at what time should the direct seedlings of rice sown
+    - tell me the sowing time of direct seedling of rice
+
+- intent: faq-agri-rice-b2/sowing-seaosn-of-basmati
+  examples: |
+    - information regarding sowing season of basmati
+    - any details related to the sowing season of basmati
+    - sowing season of paddy?
+    - in which season should i sow basmati rice
+    - What is the sowing season of paddy?
+    - in which month to sow paddy?
+    - which season is for Sowing Basmati rice?
+    - in which season, we sow basmati
+
+- intent: faq-agri-rice-b2/information-regarding-time-of-nursery-sowing
+  examples: |
+    - information regarding time of nursery sowing?
+    - any details related to the time of nursery sowing
+    - How do I know the timing of nursery sowing?
+    - What is the best information regarding time for nursery sowing?
+    - How can I find the precise time of nursery sowing?
+    - Is there any info concerning nursery sowing time?
+    - When is nursery sowing?
+    - Is there a specific time for nursery sowing?
+    - What is the time of nursery sowing?
+    - nursery sowing time of paddy crop
+
+- intent: faq-agri-rice-b2/information-regarding-for-the-suitable-sowing-time-of-paddyjhona
+  examples: |
+    - information regarding for the suitable sowing time of paddy(jhona) ?
+    - any details related to the suitable sowing time of paddy
+    - How do I find the suitable sowing time for an oat (jhona) paddy?
+    - How should we know for the suitable sowing time of Paddy?
+    - What is the suitable sowing time of basmati rice ?
+    - How should I set the suitable sowing time for basmati rice ?
+    - can you tell me the suitable time of sowing of paddy
+  
+- intent: faq-agri-rice-b2/informtion-regarding-application-of-padan-in-paddy-nursery
+  examples: |
+    - informtion regarding application of padan in paddy nursery ?
+    - any details related to the application of padan in paddy nursery
+    - How can I apply for Padan in basmati rice nursery?
+    - How do I apply padan in paddy nursery?
+    - What is the procedure for application of Padan in paddy nursery?
+    - How can I apply for padan in rice nursery?
+    - Is application of padan required for rice nursery?
+    - How can I apply Padan in basmati rice nursery?
+    - padan application in rice nursery
+
+- intent: faq-agri-rice-b2/information-regarding-the-detail-of-hybrid-paddy-cultivation
+  examples: |
+    - information regarding the detail of hybrid paddy cultivation ?
+    - any details related to the detail of hybrid paddy cultivation
+    - What is the detail of hybrid basmati rice cultivation?
+    - What are the responsibilities of hybrid rice cultivation?
+    - How do I plant hybrid rice crops?
+    - How will hybrid paddy cultivation be done?
+    - What are some basic information about hybrid paddy cultivation?
+
+- intent: faq-agri-rice-b2/information-regarding-seed-treatment-of-basmati-seedlings
+  examples: |
+    - information regarding seed treatment of basmati seedlings?
+    - any details related seed treatment of basmati seedlings
+    - What is the best seed treatment plant for basmati seedlings?
+    - How can you prepare seed treatment of basmati seedlings?
+    - tell me the treatment procedure for paddy seedlings?
+    - What is the best seed treatment method in basmati rice?
+    - is there any info related to the treatment of paddy seedlings?
+    - tell me the procedure to treat paddy seedling
+    - is there any way to treat paddy seedling
+
+- intent: faq-agri-rice-b2/information-regarding-for-the-seed-treatment-of-paddyjhona
+  examples: |
+    - information regarding for the seed treatment of paddy(jhona)?
+    - any details related to the seed treatment of paddy
+    - How do I start seed treatment of basmati rice(Jhona)?
+    - Is there any information regarding for the seed treatment of Paddy(jhona)?
+    - How can we get the seed treatment for paddy(jhona)?
+    - What information regarding for the seed treatment of rice(jhona)?
+    - When will you make Seed Treatment for Paddy(jhona)?
+    - How do you get seed treatment of basmati rice(jhona) plant?
+
+- intent: faq-agri-rice-b2/information-regarding-planting-time-of-basmati-crop
+  examples: |
+    - information regarding planting time of basmati crop?
+    - any details related to the planting time of basmati crop
+    - is there any information about planting time for basmati rice?
+    - What is the best information regarding planting time of basmati crop?
+    - tell me the exact planting time of basmati crop?
+    - What are the information regarding planting time for paddy crop?
+    - What are some important information regarding planting time of basmati crop?
+    - How do you know the time for planting of basmati rice?
+    - any details related to planting time of basmati rice
+    - tell me about planting time of rice
+
+- intent: faq-agri-rice-b2/information-regarding-plantation-of-basmati-rice
+  examples: |
+    - information regarding plantation of basmati rice?
+    - any details related to the plantation of basmati rice
+    - What is the information regarding plantation of basmati rice?
+    - Are there any available information regarding plantation of paddy?
+    - How can I know about plantation of paddy?
+    - tell me about plantation of basmati rice
+    - can you please give me details about plantation time of paddy
+
+# - intent: faq-agri-rice-b2/information-regarding-the-sowing-time-of-rice-in-punjab
+#   examples: |
+#     - information regarding the sowing time of basmati rice in punjab.?
+#     - How long is the sowing time of paddy in punjab?
+#     - How much sowing time of basmati rice in punjab, India?
+#     - How can I know the sowing time of rice in Punjab?
+#     - How can I know about the sowing time of paddy in punjab?
+#     - What is the sowing time for rice in Punjab?
+#     - How long till rice can be sown in punjab?
+#     - How would you estimate the sowing time of basmati rice in punjab?
+#     - What is the sowing time of paddy in punjab?
+#     - How is the sowing time of basmati rice calculated in punjab?
+
+- intent: faq-agri-rice-b2/number-of-rice-plant-require-in-one-one-square-meter
+  examples: |
+    - information regarding number of rice plant require in one one square meter
+    - any details related to the number of rice plant require in one one square meter
+    - number of basmati rice plant require in one one square meter?
+    - How many basmati paddy plants are required in one square meter?
+    - What are the rice plants in one square meter?
+    - tell me the number of paddy plants in one square meter?
+
+- intent: faq-agri-rice-b2/information-regarding-moisture-content-of-rice
+  examples: |
+    - information regarding moisture content of paddy
+    - any details related to the moisture content of paddy
+    - How is the moisture content of paddy determined?
+    - What are the actual moisture content of paddy
+    - What are the facts of rice for its moisture content?
+    - How the moisture content of rice is determined in rice .
+    - tell me about moisture content in rice
+    - any details about moisture content in rice
+
+- intent: faq-agri-rice-b2/information-regarding-for-the-control-of-weeds-in-paddyjhona-crop
+  examples: |
+    - information regarding for the control of weeds in basmati rice(jhona) crop?
+    - any details related to the control of weeds in basmati rice crop
+    - How can I control weeds in paddy crop?
+    - What is the best way to control weeds in basmati rice (Jhona) crop?
+    - list the control strategies to control weeds in rice crops?
+    - How do you control weeds in your rice (jhona) crop?
+    - how can i get rid of weeds in rice
+    - is there any way to deal with weeds in rice
+    - tell me all the methods to prevent rice from weeds
+    - what are the techniques used to reduce the weeds in rice
+    - how can i remove the weeds from rice
+
+- intent: faq-agri-rice-b2/information-regarding-when-to-use-weedcide-just-after-transplantation
+  examples: |
+    - information regarding when to use weedcide just after transplantation ?
+    - any details related to the use of weedicide just after transplantation
+    - When to use weedcide just after transplantation?
+    - How should I use weedcide just after transplantation?
+    - Can weedcide be used just after transplantation?
+    - What is the best way to use weedcide just after transplant?
+    - How do I use weedcide after transplantation?
+
+- intent: faq-agri-rice-b2/information-regarding-control-of-weeds-in-paddy
+  examples: |
+    - information regarding control of weeds in rice ?
+    - any details related to the control of weeds in rice
+    - How do I control weeds in my basmati rice?
+    - What is the control measure of weeds in a paddy?
+    - How do I get rid of the weeds in rice?
+    - How can we deal with weed in paddy?
+    - Is there any information related to the control of weeds in basmati rice?
+    - How do I prevent my rice from weeds 
+    - What is the best way to remove weeds in rice?
+    - is it possible to reduce the weeds from rice
+
+- intent: faq-agri-rice-b2/telll-me-control-weeed-in-blank--field
+  examples: |
+    - information regarding control of weed in blank field
+    - any details related to the control of weed in blank field
+    - tell me how to control weed in blank field 
+    - could you please tell me how we get rid of weed in blank field
+    - how can i remove weed in blank field
+    - what are the ways to remove weed in blank field
+    - procedures to follow for control the weed in blank field
+    - what are the steps to control weed in blank field
+    - how can i get rid of weed in blank field
+    - tell me how to remove weed in blank field
+    - what are the ways to get rid to weed in blank field
+    - could you please tell me how i can remove weed in blank field
+
+- intent: faq-agri-rice-b2/information-regarding-spacing-in-direct-seeded-rice
+  examples: |
+    - information regarding spacing in direct seeded basmati rice?
+    - any details related to the spacing in direct seeded basmati rice
+    - How do I determine spacing in direct seeded rice?
+    - What is the spacing in direct seeded paddy?
+    - How do I estimate spacing of direct seeded basmati rice?
+    - tell me how much spacing is required for direct seeded rice?
+    - is there any info related to the spacing of direct seeded basmati rice?
+    - How can the spacing of direct seeded rice be determined?
+    - How can I determine the spacing for direct seeded paddy?
+
+- intent: faq-agri-rice-b2/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-paddy
+  examples: |
+    - information regarding measures to tackle overdose usage of Pretilachlor in basmati rice ?
+    - any details related to the measure to tackle overdose usage of Pretilachlor in rice
+    - How should we tackle overdose usage of Pretilachlor in rice?
+    - How can I control the overdose of Pretilachlor in basmati rice?
+    - tell me how do I reduce the overdose in paddy?
+    - What should be done to stop the use of Pretilachlor in basmati rice?
+    - How do I overdose Pretilachlor in a rice?
+    - How can I tackle Pretilachlor in Paddy?
+    - What is the treatment for overdose of Pretilachlor in rice?
+
+- intent: faq-agri-rice-b2/information-regarding-application-of--pre-emergence-weedicide
+  examples: |
+    - information regarding application of  pre emergence weedicide?
+    - any detail related application of pre emergence weedicide
+    - How can I apply pre emergence weedicides?
+    - How much weedicide should be applied before emergence?
+    - What are the application precautions for pre emergence weedicide?
+    - What is the proper application of pre-emergence weedicide?
+    - What are some important information related to the application of pre-emergence weedicide?
+    - How do I apply pre emergence weedicide?
+    - How do you know the proper application of weedicide for use in a pre-emergence ?

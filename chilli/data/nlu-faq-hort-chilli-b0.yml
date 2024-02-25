@@ -1,0 +1,526 @@
+version: "3.0" 
+nlu: 
+
+# red beetle
+- intent: faq-hort-chilli-b0/information-regarding-red-beetle-control-in-chllies
+  examples: |
+    - information regarding red beetle control in chllies ?
+    - How to control Red Beetle control in chili?
+    - How do I get rid of red beetle in my chllies?
+    - Is there any information regarding red beetle control in chllies?
+    - What are some general tips to control red beetle in chllies?
+    - How do I control the red beetle in Chilly?
+    - How do you control red beetle in Chllies?
+    - How do I control red beetle infestation in chllies?
+    - How do we control the red beetle in chllies?
+    - which pesticide to use for controling red beetle in chilli
+    - for chilli crop recommend a pesticide to use for killing red beetle
+    - which pesticide works the best for dealing with red beetle in chillies
+    - chili crop is attacked by red beetles how to control them
+# insect pest
+- intent: faq-hort-chilli-b0/information-regarding-insectpest-in-chillies
+  examples: |
+    - information regarding insect-pest in chillies?
+    - What are the insect pests for chillies?
+    - How do I get information regarding insect-pest used in chillies?
+    - What is insect-pest in chilli?
+    - What insect pests are used with chilly?
+    - Which insect-pest to use in chilly?
+    - What information is available regarding insect-pest in chillies?
+    - pesticide to use for insect in chillies?
+    - Which insect-pest is the most common in chillies?
+    - Where can I find the insect pest for chilli?
+    - Insect pest in chillies information?
+    - prevention methods to fight insects in chillies
+    - in chilli how to prevent insects
+    - what can be done to prevent insects from chilli crop
+    - prevention mechanism to stop insects in chilli
+    - what can be done to stop insects from growing in chilli
+    - In chilli crop how to stop the growth of insects
+    - prevntion methods against the growth of insects in chily
+    - stoping insects from growing in chilli
+    - tell me a pesticide that can be used against insects in chili
+    - what pesticide works best to stop the growth of insects
+# mites
+- intent: faq-hort-chilli-b0/information-regarding-control-of-mites-in-chilli
+  examples: |
+    - information regarding control of mites in chilli?
+    - How do I control mites in chilli?
+    - How do you control mites in chilli?
+    - How can we control mites in chilli?
+    - How can you control mites in chilli?
+    - How can mites be control in chilli?
+    - What is the information regarding control of mites in chilli?
+    - What are the mite control measures for chilli?
+    - methods to deal with mites in chily crop?
+    - methods to control mities in chilli
+    - process to control mites in chilli
+    - in chilli ways to control mites
+    - things to do for controlling mites in chilly
+    - what can be used to kill mites in chily crop
+    - how to stop mities from growing in chillies
+    - stop mites from growing in chilly
+    - how to kill mites occuring in chilly
+    - how to control the growth of mities in chilli
+# spider mites
+- intent: faq-hort-chilli-b0/information-regarding-control-of-spider-mites-in-chiili
+  examples: |
+    - information regarding control of spider mites in chiili?
+    - How can I get rid of spider mites in chiili?
+    - What are some ways to control spider mites in chiili?
+    - controlling spider mites in Chiili
+    - Where do I find control of spider mites in chiili?
+    - Is there a control method for spider mites in Chiili?
+    - What are the ways to control spider mites on my chiili?
+    - killing spider mites Chiili crop?
+    - How can I control spider mites in my chiili?
+    - Is there any information regarding control of spider mites in chiili?
+    - How do I control spider mites in chiili?
+    - what can be done to limit the growth of spider mites in chilly
+    - restraining the growth of spider mities in chilly
+    - how to control spider mites from spreading in chilli
+# diamond back moth
+- intent: faq-hort-chilli-b0/information-regarding-control-of-diamondback-moth-in-chilll
+  examples: |
+    - information regarding control of diamond-back moth in chilly?
+    - How can I control the Diamond-back moths infestation in chilly?
+    - How do I control diamond-back moth infestation in chillies?
+    - How can we control diamond moth in chillies?
+    - control of the diamond back moth in chillies?
+    - What is the control method for diamond moth in chilly?
+    - control the infestation of diamond-back moth in chilly?
+    - Where can I find a way to treat chilly crop from diamond-back moth?
+    - Is there any information on removing of diamond moths from chilly?
+    - How can we control Diamond-back moth in chilly?
+    - how to control diamond back moth insect in chilli
+    - what to stop the spread of diamond back moth in chillies
+# root rot
+- intent: faq-hort-chilli-b0/information-regarding-to-control-of-root-rot-in-chilli
+  examples: |
+    - information regarding to control of root rot in chilli
+    - Can chilli root rot be treated in a healthy way?
+    - Is there any control for root rot in chilli?
+    - How can you control root rot in chilli?
+    - How can a chilli root rot be controlled?
+    - How should root rot be controlled in chilli?
+    - How can I control rot in chillies?
+    - How do I remove root rot and its effect on root rot in chilli?
+    - How to prevent root rot from growing in chilly?
+    - How can I control root rot in chilli?
+    - How can we control root rot in chilli?
+    - what should be done to cure root rot in chilly
+    - cure of root rot in chilli
+    - tell me the way to cure root rot on chilli crop
+    - what to use for curing root rot in chilly
+    - tell me the cure for root roting in chili
+    - when the roots of chili start roting what should be done to cure it
+    - to heal root rot of chili what should be done
+    - what should be done to stop the growth of root rot in chily
+    - help me to stop the growth of root rot in chilli
+# stem rot
+- intent: faq-hort-chilli-b0/information-regarding-how-to-control-stem-rot-in-chillies
+  examples: |
+    - information regarding how to control stem rot in chillies?
+    - How do I control the stem rot in chilli?
+    - How can I control stem rot in chilli?
+    - How do you control stem rot in chilli?
+    - How do I control rot in chillies?
+    - How do I get rid of stem rot in chillies?
+    - How do I control stem rot in chillies?
+    - How can I control rot in chilly?
+    - How do I get rid of stem rot in chilly?
+    - What is the best way to control chilli plant stem rot?
+    - methods to stop stem rot from spreading in chilli
+    - cure of stem rot for chili crop
+    - is there any way to cure stem rot in chilli crop
+    - fertilizers that work on stem rot in chillies
+    - which chemical can be used to cure stem rot of chili
+    - the stem of my chillies crop is roting how to cure it
+    - what fertilizer can be used to cure chillies's stem rot
+    - which fertilizer is recommended to use for treating stem rot in chili
+# yellow spots
+- intent: faq-hort-chilli-b0/how-to-control-of-yellow-spots-in-chillies
+  examples: |
+    - how to control of yellow spots in chillies?
+    - How can you control yellow spots on chillies?
+    - How do I control yellow spots in chillies?
+    - How do I get rid of yellow spots on chillies?
+    - How can I control the yellow spots on chillies?
+    - How do you control yellow spots on chillies?
+    - What are the best ways to control yellow spots on Chilli?
+    - information regarding yellowing in chillies
+    - How is yellowing in chillies treated?
+    - How can the yellowing of chillies be prevented?
+    - What should be done to cure yellowing of chillies?
+    - chilli crop's color is getting yellowed how to cure it
+# caterpiller
+- intent: faq-hort-chilli-b0/information-regarding-control-of-catrepiller-in-chilies
+  examples: |
+    - information regarding control of catrepiller in chilies?
+    - What is the control of catrepiller for chilies?
+    - How can we reduce catrepiller in chilies?
+    - Is it possible to control catrepiller in chilies?
+    - Which is the best control method to reduce catrepiller in chilies?
+    - How do I control catrepiller in chilies?
+    - How can I control catrepiller in Chilies?
+    - information regarding caterpiler attack in chillies?
+    - What is the method to stop caterpiler attack in chillies?
+    - What is the info available to stop caterpiler attack in chillies?
+    - how to handle the caterpiler in chillie crop
+    - How do you prevent caterpillar attack in chillies?
+    - What is the prevention method of caterpiler attack
+    - caterpiler attack prevention in the chillies crop?
+    - Which insecticide should be used to kill caterpillers in chillies crop
+    - can I prevent caterpiler attack in chillies?
+    - How do I prevent caterpiler attack in chillies?
+# sundi
+- intent: faq-hort-chilli-b0/information-regarding-control-sundi-in-chillies
+  examples: |
+    - information regarding control sundi in chillies ?
+    - what should i do to control sundi in chilli crop?
+    - How do you remove sundi in chillies?
+    - How can you control sundi in chillies?
+    - How can we control the sundi in chillies?
+    - How can I control sundi in chillies?
+    - How can we control sundi in chillies?
+    - what is the recommended spary to control sundi in chillies
+    - In order to control sundi in chilli vegetable what should i do
+    - what am i supposed to do to control sundi in chillies
+    - how to kill sundi in chilies crop
+    - prevention methods for stoping the growth of sundi in chilies
+# thrips
+- intent: faq-hort-chilli-b0/information-regarding-control-of-thrips-in-chilles
+  examples: |
+    - information regarding control of thrips in chilles?
+    - What is the best way to control thrips in chilles?
+    - How do I control thrips in chillies?
+    - Are there any ways to control thrips in chilli?
+    - How can I control thrips in chilles?
+    - How can we kill thrips in chillies?
+    - How can we control thrips in chillies?
+    - What are the best ways to control thrips in chillies?
+    - How are thrips handled in chilli hath?
+    - How can I control thrips in chills?
+    - information regarding the thrips problem in chilli?
+    - how to control thirips in chilli crop ?
+    - How can I control thirips in chilli crop?
+    - control methods for thirips in chilli crop?
+    - How to control thirips in chilli crop?
+    - prevention methods to control thirips in chillies?
+    - How can you control thirips in chilli crops?
+    - What can be done to control thirips in chilli crop?
+    - what can be sprayed to control thirips in chilli plant
+    - From the chilli plant how can I get rid of thrips
+    - which fertilizer works on thrips the best in chili
+    - suggest a fertilizer to kill thrips in chilly crop
+    - in chilli what fertilizer can be used to control thrips
+    - for killing thrips what fertilizer is reccomened to use in chilli crop
+    - recommend a chemical fertilizer that can be used in chillies to control thrips
+# birds
+- intent: faq-hort-chilli-b0/information-regarding-control-of-birds-in-chillies
+  examples: |
+    - information regarding control of birds in chillies?
+    - What is the information regarding control of birds in chillies?
+    - How can I control birds in chillies?
+    - What is the best way to control birds in chillies?
+    - can we protect chili crop from birds
+    - How can chillies be protected from consuming by birds?
+    - What are the ways available for control of birds in chili?
+    - What are some ways to control birds in chilli?
+    - protection against birds for chilli crop
+    - How can you stop birds in chillies?
+    - what can be done to prevent birds from consuming chilli crops
+    - how to prevent birds from entering the chili field area
+    - i want to prevent birds from entering my chilli crop land
+    - is there any way to prevent birds from entering my chilli field
+# leaf spot
+- intent: faq-hort-chilli-b0/information-regarding-control-of-leaf-spot-in-chilli-crop
+  examples: |
+    - information regarding control of leaf spot in chilli crop?
+    - How do I control leaf spot in chilli crop?
+    - What is your opinion on leaf spot problem and how to control it in crop?
+    - How can you prevent leaf spot in chilli crop?
+    - What are some options for controlling leaf spot in chilli crop?
+    - What is the best way to control leaf spot in chilli?
+    - What is the best treatment for leaf spots in chilli crop?
+    - How can I control leaf spot in chilli crop?
+    - What are the methods to control leaf spot in chilli crop?
+    - What is the solution for leaf spot in chilli crop?
+    - What are the solutions for leaf spot control in chilli crop?
+    - how to stop the spread of spots on leafs of chilli crop
+    - methods to control the spread of leaf spots in chilli
+    - how to control the growth of leaf spots in chilli crop
+    - to stop the growth of leaf spots what should i do
+# damping of disease
+- intent: faq-hort-chilli-b0/information-regarding-for-the-control-of-damping-off-disease-in-chillies--crop
+  examples: |
+    - information regarding for the control of damping off disease in chillies crop?
+    - How is the damping off disease transmitted into chillies crop?
+    - What is the possible control for damping off disease in chillies crop?
+    - How can the control of damping off disease in chillies crop be achieved?
+    - What is information regarding control of damping off disease in chillies crop?
+    - How do damping off disease be controlled in chillies crop?
+    - What is the treatment of damping off disease in chillies crop?
+    - Can damping off disease be treated with chillies?
+    - Information regarding control of damping off disease in chillies crop?
+    - How can damping off disease be controlled in chillies crop?
+    - How do damping off diseases in chillies crop?
+# anthracnose
+- intent: faq-hort-chilli-b0/information-regarding-control-of-chilli-anthracnose
+  examples: |
+    - information regarding control of chilli anthracnose?
+    - What is the proper management protocol for chilli anthracnose?
+    - How do you prevent anthracnose from growing in chilli?
+    - What is the best technique to control anthracnose in chilli?
+    - How can I control anthracnose in chilli?
+    - How can we control anthracnose in chillies crop?
+    - How can anthracnose in chilli be treated?
+    - How can I keep anthracnose from growing in chilli?
+    - Can you give information regarding chilli anthracnose?
+    - What is the best way to git rid of anthracnose in chilli?
+    - How do you control anthracnose in chilli?
+    - how to prevent the spread of anthracnose in chilli
+    - in my chilli crop anthracnose is grown how to stop its growth
+    - what can be done to stop the growth of anthracnose in chilli
+    - to handle anthracnose from spreading in chilli what should i do
+# phomopsis blight
+- intent: faq-hort-chilli-b0/how-to-control-of-phomopsis-blight-of-chilli
+  examples: |
+    - how to control of phomopsis blight of chilli?
+    - What is the cure for phomopsis blight in chilli?
+    - How can phomopsis blight of chilli be control?
+    - How do I control phomopsis blight of chilli?
+    - How can we control phomopsis blight of chilli?
+    - How do I control phomopsis blight on chilli?
+    - How can I control phomopsis blight of chilli?
+    - How can we control phomopsis blight from chilli?
+    - what can be done to get rid of phomopsis blight in chilli
+    - in the chilli crop how can i stop phomopsis blight from growing
+    - what can be used to kill phomopsis blight in chilli
+    - which chemical can be used to kill phomopsis blight in chilli
+    - I want to know a method to stop phomopsis blight from growing in chilli
+    - can you suggest some way to control phomopsis blight from growing in chilli
+# leaf curl
+- intent: faq-hort-chilli-b0/information-regarding-control-of-leaf-caurl-in-chilli
+  examples: |
+    - information regarding control of leaf curl in chilli?
+    - What is the best way to remove leaf curl in chilli crop?
+    - Can you please identify the control of leaf curl in chilli?
+    - How can you control leaf caurl in chilli?
+    - How can leaf curl in chilli be controlled?
+    - How can I control leaf curl in chilli?
+    - What is the main control of leaf curl in chilli?
+    - information regarding control of leaf curl in chillies?
+    - How do I control leaf curls in chillies?
+    - What is the control of leaf curls in chillies?
+    - How do I control leaf curl in chillies?
+    - Can I control leaf curls in chillies?
+    - How is leaf curl treated in chillies?
+    - How do you control leaf curl in chillies?
+    - How should leaf curl be controlled in chillies?
+    - the leafs of my chilli crop getting curled how to cure them
+    - what cure is available for leaf curl problem in chilli crop
+    - chilli leaf getting curls how to cure it
+    - method to stop the leaf curls in chilli
+# white fly
+- intent: faq-hort-chilli-b0/information-regarding-white-fly-in-chilies
+  examples: |
+    - information regarding control of white fly in chilies?
+    - How do I get rid of white fly in chilies?
+    - What is the method to kill white fly in chilies?
+    - information regarding control of white fly in chilli ?
+    - Do you know of any effective control measures Against white fly in chillies?
+    - Is there any information regarding control of white fly in chilli?
+    - Where can I find information on controls of black flies in chilli?
+    - How can I control the white fly species in chilli?
+    - How to control the white fly in chilli?
+    - What are some ways to control a white fly in chilli?
+    - Do you have any knowledge regarding white fly control in chilli?
+    - What is the control of white fly in chilli?
+    - Can you help me control the white fly in chilli?
+    - how to kill white fly in the fields of chilli
+    - recently white fly started spreading in the chilli crop how to control it
+    - tell me the cure measure for white fly growing in chilli fields
+# dose of urea
+- intent: faq-hort-chilli-b0/information-regarding-dose-of-urea-in-chilli
+  examples: |
+    - information regarding dose of urea in chilli?
+    - Do you see any information regarding the dose of urea in chilli?
+    - Dose of urea in chilli?
+    - How much urea is required in chilli?
+    - What is the urea dosage in chilli?
+    - What are the benefits of urea in chilli?
+    - information regarding dose of urea in an acre of chillies?
+    - What is the dose of urea in chillies?
+    - What amount of urea is required in chillies?
+    - How much urea should be sprayed in the chillies crop?
+    - amount of urea needed in chillies crop
+    - does of urea that is needed by the chillies crop
+    - Tell me the urea does requirement of chilli
+    - inform me about the total urea required in chillies crop per acre of land
+    - How much urea should be sprayed in chillies crop per acre?
+    - info regarding the quantity of urea required by chillies in a acre
+    - How much urea should be sprayed in an acre crop of chillies?
+    - dosage of urea required in chillis crop
+    - tell me the dosage of urea required in chilli
+    - i want to know how much urea should be sprayed in chillis crop area
+# fungal disease
+- intent: faq-hort-chilli-b0/information-regarding-control-of-fungal-disease-in-chilies
+  examples: |
+    - information regarding control of fungal disease in chilies?
+    - How do I control fungal disease in chilies?
+    - How should you control fungal disease in chilies?
+    - What are some techniques to control fungal diseases in chilies?
+    - control of fungal disease in chilies?
+    - Is there any information regarding control of fungal disease in chilies?
+    - What is the best approch for fungal disease control in chilies?
+    - tell me how to stop the spread of fungus in chillies
+    - fungus has been spotted in chillies crop how to cure it
+    - i have seen fungus in my chilli crop how to handle it
+    - how to handle fungul disease in chilli crop
+    - what approch should be followed to get rid of fungus from chillies
+    - fungus control methods for chilli crop
+# dryness due to rainfall
+- intent: faq-hort-chilli-b0/information-regarding-dryness-in-chilli-due-to-rainfall
+  examples: |
+    - information regarding dryness in chilli due to rainfall?
+    - What are the reasons for dryness in chilli due to rain?
+    - Does rain affect dryness in chilli?
+    - How dry the chilli is due to rainfall?
+    - Is drought in chilli due to rainfall?
+    - What are the causes of dryness in chilli due to rainfall?
+    - What is your view regarding dryness in chilli due to rainfall?
+    - Is there any possibility about drying off of chilli due to rainfall?
+    - Is there dryness in chilli due to rainfall?
+# white grub
+- intent: faq-hort-chilli-b0/information-regarding-how-to-control-white-grub-in-chilies
+  examples: |
+    - information regarding how to control white grub in chilies.
+    - How can you control white grubs in chilies?
+    - What are some tips for managing and controlling the white grub in chilies?
+    - What are some tips for controlling the white grub in chilies?
+    - How can I control white grub in chilies?
+    - How do I control white grub in a chili?
+    - How do you control the white grub in chilies?
+    - How is white grub controlled in chilies?
+    - How can you control white grub in Chilies?
+    - what can be done to stop white grub from spreading in chillies
+    - is it possible to stop the growth of white grub in chillies
+    - there is white grub in my chilli plant how to stop its growth
+    - what can be sprayed to kill the white grub in chilli crop
+    - how to prevent white grub from growing in chillies
+    - white grub spoted in chillies crop how to get rid of it
+# manganese recommendation
+- intent: faq-hort-chilli-b0/information-regarding-the-recommendation-of-manganese-in-chilli
+  examples: |
+    - information regarding the recommendation of manganese in chilli?
+    - how much manganese is needed in chilli?
+    - dosage requirement of manganese in chilli?
+    - how to handle deficiency of manganese in chilli
+    - what can be done to overcome of manganese in chilli
+    - which product should be used to cure the deficiency of manganese in chilli
+    - in chilli what are the mehtods to overcome the deficiency of manganese
+    - how to overcome the deficiency of manganese in chillies
+    - how to cure manganese deficiency in chillies
+    - chillies crop is deficient of manganese how to correct it
+    - manganese deficiency in chillies crop how to handle it
+# macro nutrients
+- intent: faq-hort-chilli-b0/information-regarding-deficiensy-of-macro-nutrients-in-chili
+  examples: |
+    - information regarding deficiency of macro nutrients in chili?
+    - Is there any good information regarding deficiency of macro nutrients in chili?
+    - chili deficient of macro nutrients how to correct it?
+    - What is the recovery method for deficiency of macro nutrients in chili?
+    - how to cure the deficiency of macro nutrients?
+    - any information regarding deficiency of macro nutrients in chili?
+    - how to recover the deficiency of macro nutrients in chili?
+    - What are some of the mehtods to overcome deficiencies of macro nutrients in chili?
+    - how to handle the deficiency of macro nutrients in chilli
+    - deficiency of macro nutrients in chili how to cure it?
+    - Is there any method to fullfil the deficiency of macro nutrient in chili?
+    - recovery of macro nutrients in chilli crop
+# mosaic
+- intent: faq-hort-chilli-b0/information-regarding-control-of-mosaic-in-chilli-crop
+  examples: |
+    - information regarding control of mosaic in chilli crop?
+    - How can I control mosaics in chilli crop?
+    - How is mosaic control applied in chilli crop?
+    - What is the effective method to control mosaic in chilli crop?
+    - What is the information regarding control of mosaic in chilli crop?
+    - How can we eliminate Mosaics in chilli crop?
+    - How are the mosaics handled in chili crops?
+    - What are the methods of controlling the mosaic in chilli crop?
+    - How can I control mosaic in chilli crop?
+    - How do we reduce mosaic in chilli crop?
+    - Can we control mosaic in chilli crop?
+    - how to kill mosaic in chili crop
+    - how can i get rid of mosaic from chili fields
+    - suggest some way to get rid of the mosaic from chilli
+# shoot borer
+- intent: faq-hort-chilli-b0/information-regarding-for-the-control-of-shoot-borer-in-chillies-crop
+  examples: |
+    - information regarding for the control of shoot borer in chillies crop?
+    - How do I remove shoot borer infection on chillies plant?
+    - How to Control shoot borer in chillies crop?
+    - How can we control shoot borer on chillies crops?
+    - How do we control shoot borer in chillies crops?
+    - How do I control shoot borer in chillies crop?
+    - What is the need to control shoot borer in chillies crop?
+    - How do I control shoot borer infestations in chillies crop?
+    - How do you control shoot borer?
+    - How are shoot borers taken care of in chilli crop?
+    - How do I control shoot borer from chillies?
+    - Is it possible to kill shoot borer which are present in chili crops
+    - how to stop shoot borer from spreading in the chilli
+# jassid
+- intent: faq-hort-chilli-b0/information-regarding-control-of-jassid-in-chilli
+  examples: |
+    - information regarding control of jassid in chilli?
+    - How can you control jassid in chilli?
+    - In chilli, how can I reduce jassid?
+    - How can we control the jassid in chilli?
+    - how to get rid of jassid from chili plants
+    - i spotted jassid in chilli plants, how to control them
+    - how to stop jassid from spreading in chili plants
+    - how do i control jassid in chilli plants
+    - In chili crop what should I do to control jassid
+    - how to get rid of jassid in chilli plants
+    - control of jassid in chilli
+    - jassid control in chilli
+    - ways to control jassid in chilli plants
+    - methods to control jassid in chilli crop
+    - how to prevent the growth of jassid in chillies
+    - prevention methods for jassid control in chilli
+# growth regulator
+- intent: faq-hort-chilli-b0/information-regarding-growth-regulator-used-in-chilli-crop
+  examples: |
+    - information regarding growth regulator used in chilli crop?
+    - which growth regulators work in chilli crop?
+    - What is the growth regulator used in chilli crop?
+    - What are the growth regulators used for chilli crop?
+    - tell me the which growth regulators are used in chili
+    - Is there any information regarding growth regulator used in chilli crop?
+    - growth regulator used in chilli crop?
+    - can you tell me the growth regulator used in chilli crop?
+    - I want to know which growth regulator is used in chili crop
+    - do you have any info on what growth regulators work best with chilli crop
+    - i need information on the growth regulators used in chili crop
+    - Tell me the main growth regulator in chilli crop?
+    - Which growth regulators work in chilli crop?
+    - list the growth regulators that work with chilli crop?
+# transplanting time
+- intent: faq-hort-chilli-b0/information-regarding-transplanting--time-of-chillies-crops
+  examples: |
+    - information regarding transplanting  time of chillies crops?
+    - What is the best information for the transplanting of chilies crops?
+    - What is the exact time of transplanting of chillies crops?
+    - What are the transplant timings for chillies crop?
+    - What is the correct transplanting time for chillies?
+    - What is a better time for chillies for transplant?
+    - Can anyone provide information about the timing of transplanting of chili?
+    - Tell me the transplanting time for chillies crops?
+    - Tell me the time for transplanting chillies crop?
+    - Tell me the time for the transplant of chillies?
+    - can you tell me the time to transplant chillies
+    - is there any info regading the transplanting time of chillies
+    - I need to know the transplanting time of chilli crop

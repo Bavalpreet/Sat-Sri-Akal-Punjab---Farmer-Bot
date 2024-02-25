@@ -1,0 +1,16 @@
+version: "3.0"
+
+intents:
+  - faq-agri-wheat-b2-pun
+
+responses:
+  utter_faq-agri-wheat-b2-pun/information-regarding-sowing-time-of-wheat?:
+  - text: ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਅਕਤੂਬਰ ਦੇ 4ਵੇਂ ਹਫ਼ਤੇ ਤੋਂ ਨਵੰਬਰ ਦੇ 4ਵੇਂ ਹਫ਼ਤੇ ਤੱਕ ਹੁੰਦਾ ਹੈ।
+  utter_faq-agri-wheat-b2-pun/sowing-time-for-early-sowing-varieties-of-wheat?:
+  - text: ਅਕਤੂਬਰ ਦੇ ਆਖਰੀ ਹਫਤੇ ਤੋਂ ਨਵੰਬਰ ਦੇ ਆਖਰੀ ਹਫਤੇ ਤੱਕ।
+  utter_faq-agri-wheat-b2-pun/late-varieties-of-wheat?:
+  - text: ਕਣਕ ਦੀਆਂ ਪਛੇਤੀ ਬਿਜਾਈ ਦੀਆਂ ਕਿਸਮਾਂ ਹਨ PBW 509, PBW 590, PBW 373
+  utter_faq-agri-wheat-b2-pun/sowing-time-of-wheat-after-nov?:
+  - text: ਨਵੰਬਰ ਦੇ 4ਵੇਂ ਹਫ਼ਤੇ ਤੋਂ ਦਸੰਬਰ ਦੇ 4ਵੇਂ ਹਫ਼ਤੇ ਤੱਕ।
+  utter_faq-agri-wheat-b2-pun/sowing-time-of-late-varieties-of-wheat-in-sandy-soils?:
+  - text: 15 ਨਵੰਬਰ ਤੋਂ ਬਾਅਦ

@@ -1,0 +1,22 @@
+version: "3.0"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: action_general
+
+# - story: happy_path-agricultural
+#   steps:
+#   - intent: greet
+#   - action: action_slot_setter
+#   - slot_was_set:
+#     - intent_button : "faq-agriculture"
+
+# - story: happy_path-horticulture
+#   steps:
+#   - intent: greet
+#   - action: action_slot_setter
+#   - slot_was_set:
+#     - intent_button : "faq-horticulture"

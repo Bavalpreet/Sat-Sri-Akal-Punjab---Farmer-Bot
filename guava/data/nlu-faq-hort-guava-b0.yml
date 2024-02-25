@@ -1,0 +1,796 @@
+version: "3.0" 
+nlu: 
+
+- intent: faq-hort-guava-b0/information-regarding-for-control-of-caterpillar-in-guava
+  examples: |
+    - information regarding for control of caterpillar in guava ?
+    - How does caterpillar control in guava?
+    - How can we control caterpillars in guava?
+    - In guava, Is there any information regarding to get rid of caterpillar in guava?
+    - What are some good ways to get rid of caterpillars in guava?
+    - How can I control caterpillar growth in guava?
+    - How should caterpillar be controlled in guava?
+    - How do you deal with caterpillars in guavas?
+    - How do I control caterpillars in guava?
+    - What are good information about controls regarding caterpillars in guava?
+    - what are the ways to stop the growth of caterpillar in guava 
+    - what can be done to kill caterpillers in guava plants
+    - is it possible to stop the spread of caterpillers in guava fruit
+    - how to stop caterpillers from spreading in guava
+    - Is there any information regarding control of caterpillars in guava? 
+    - Can we control caterpillars in guava if there is any problem.
+    - What should we do to control caterpillar in guava?
+    - can you list the best ways to control caterpillars in guava?
+    - How can you deal with caterpillars in guavas?
+    - How should I get rid of caterpillars in guavas?
+    - How do you handle caterpillars in Guavas?
+    - How do I kill caterpillers in guava trees?
+    - What can be done to kill caterpillers in guava plants?
+    - can you list the best methods of killing caterpillers in Guava plants?
+    - What do I do to stop caterpillers from spreading in guava ?
+    - Is it possible to stop the spread of caterpillers in Guava Fruit
+    - How can I prevent the spread of caterpillers in guava fruit?
+    - Is it possible to stop the spread of caterpillers in guava fruit ?
+
+- intent: faq-hort-guava-b0/how-to-control-the-fruit-droping-in-guava
+  examples: |
+    - information regarding control of fruit dropping in guava 
+    - how to control the fruit droping in guava?
+    - can we control the fruit drop in guava?
+    - How do I get rid of guava fruit dropping?
+    - How do I deal with the fruit dropping of guava?
+    - tell me how do you control the fruit drop in guava?
+    - any details about control the fruit dropping in guava?
+    - info regarding control of fruit drop in guava?
+    - information related to get rid of drop in fruit in guava?
+    - tell me the way to control fruit dropping of Guava?
+    - what are the steps to be taken to avoid food dropping in guava 
+    - What will help me to control the taste in Guava?
+    - How can you control fruit drop in guava?
+    - Can I get rid of guava drop?
+    - How do I control the fruit fall of Guava?
+    - can you list the way to control guava fruit dropage?
+    - How can you control the fruit drop in guava?
+    - What is best way to control fruit drop in guava?
+    - How do I control the fruit drop in guava?
+    - Tell me the best way to control fruit dropping?
+    - Tell me the method of reducing the guava's fruit falls
+    - can you list the steps to avoid fruit dropping in guava ?
+    - list the necessary steps to take to avoid fruit dropping in guavas?
+    - show the steps to prevent fruit dropping in guava ?
+    - What actions can be taken to avoid fruit dropping in guava ?
+    - list the precautions one can take to avoid guava's fruit dropping
+
+- intent: faq-hort-guava-b0/information-regarding-for-the-control-of-bacterial-blight-disease-in-guava-crop
+  examples: |
+    - information regarding for the control of bacterial blight disease in guava crop?
+    - How can I control bacterial blight disease in guava crop?
+    - is it possible to get rid of bacterial blight on guavas?
+    - How do I deal with bacterial blight disease in guava?
+    - What is the information regarding for the control of bacterial blight disease in guava crop?
+    - tell me How do I control bacterial blight disease in guava plant?
+    - What are the ways to get rid of bacterial blight diseases in guava crop?
+    - How do I eradicate bacterial blight from guava plant?
+    - What methods to control the bacterial blight disease in guava crop?
+    - tell me the ways to control the bacterial blight disease in guava
+    - How can I stop bacterial blight disease in guava crops?
+    - can you list the main causes of bacterial blights in guava plants?
+    - Tell me the treatment of bacterial blight in guava crop?
+    - How can I stop bacterial blight in the crops of guava?
+    - How do you control the spread of bacterial blight on the guava plant?
+    - Is there any treatment of guava's blight disease?
+    - Is there any cure for bacterial blight disease in guava ?
+    - How do I prevent bacterial blight disease in guava?
+    - What do I do to control Guava blight?
+    - How do I control the bacterial blight infection of guava?
+    - What should I do to control bacterial blight in guava?
+    - How do we get rid of bacterial blight in guava crops?
+    - list the best methods to get rid of bacterial blight disease in guava crop?
+    - Tell me the effective way to cure bacterial blight on guavas?
+    - How can I kill a bacterial blight disease in guava from the root?
+    - How do you eradicate blight from Guava plants?
+    - How do I get rid of bacterial blight in guava plant?
+    - How can I deal with bacterial blight in guava?
+    - How do I eliminate bacterial blight from guava?
+    - Tell me the best way to remove the bacterial blight from guava ?
+    - Can you tell me the way to prevent bacterial blight in guava ?
+    - show me the best ways to control the bacteria blight disease in Guava  ?
+    - Tell me the way to control bacterial blight disease in guava plants?
+    - Tell me the most effective way to control the bacterial blight disease in guava flies?
+    - Is it possible to get rid of bacterial blight on guavas?
+    - can you list the best methods to get rid of bacterial blight in guavas?
+
+- intent: faq-hort-guava-b0/information-regarding-for-control-of-fungus-in-guava
+  examples: |
+    - information regarding for control of fungus in guava ?
+    - How do I control the fungus in guava?
+    - What is the best way to control fungus from Guava ?
+    - How can we control fungus in guava?
+    - How do we remove fungus from guava trees?
+    - is there any way to prevent guava from fungus
+    - tell me how can i prevent guava from fungus 
+    - info related to prevent guava from fungus 
+    - what are the steps to be taken to prevent guava from fungus 
+    - What are the best methods to reduce fungus in guava crops?
+    - how can i reduce fungus in guava 
+    - is there any way to reduce fungus in guava crop
+    - how can i deal with fungus in guava crop 
+    - info related to get rid of fungus in guava crop 
+    - is there any way to get rid of with fungus in guava crop
+    - tell me how to deal with fungus in guava 
+    - recommend some information on a control of fungi in guava?
+    - Can you advise me on remedies for the fungus in the guavas?
+    - How can we get rid of fungus in guava?
+    - What information is available regarding control of fungus in Guava?
+    - What can I do to control the fungus of guava root?
+    - How can I eradicate the fungus in guava?
+    - Tell me the best way to control fungus from guava?
+    - Can I kill the fungus in guava?
+    - How should I deal with Guava fungus?
+    - Tell me the best way to control guava fungus?
+    - list the best ways to deal with fungus from Guava?
+    - list the steps to be taken to prevent guava fungus ?
+    - Is there any way to reduce the fungus in guava crop?
+    - How do I reduce the growth of guava fungi?
+    - Tell me the best way to eliminate the fungus in guava ?
+    - Tell me the best way to treat fungus in guava?
+    - Can someone tell me how to handle the fungus in Guava ?
+
+- intent: faq-hort-guava-b0/information-regarding-pest-attack-in-guava
+  examples: |
+    - information regarding pest attack in guava?
+    - What are the pest attack on Guava?
+    - Is there any information regarding pest attack in guava?
+    - Pest attack in Guava plant?
+    - how do we deal with pest Attack on Guava?
+    - how do we get rid of pest attack on guava?
+    - how can i deal with pest attack in guava
+    - is there any way to get rid of attack of pest in guava
+    - list some pest control strategies in guava?
+    - Can you help me on pest control for Guava?
+    - How do you deal with a pest attack on guava?
+    - Can you handle the pests attack on your guavas?
+    - How do I stop a pest attack on guava?
+    - How can you deal with pests attacking guava?
+    - How can I deal with a pest attack on guava plant?
+    - How do we get rid of the pest attack on guava?
+    - Tell me the quickest and easiest way to get rid of pest attack on guava?
+    - How do you deal with a pest infestation in Guava?
+
+- intent: faq-hort-guava-b0/information-regarding-how-to-control-anthracnose-in-guava
+  examples: |
+    - information regarding how to control anthracnose in guava?
+    - How do you control anthracnose in guava?
+    - How do I get rid of anthracnose in Guava?
+    - How do you deal with anthracnose in guava?
+    - What is the best way to get rid of anthracnose in Guava?
+    - tell me how to deal with anthracnose in Guava?
+    - tell me how can you control anthracnose in Guava?
+    - can I control anthracnose in guava?
+    - How can I remove anthracnose from Guava?
+    - How can I make sure to get rid of anthracnose in guava?
+    - What's the best way to control anthracnose in guava?
+    - How should I control anthracnose in Guava?
+    - What should I do to get rid of anthracnose in Guava?
+    - Tell me the best way to get rid of anthracnose in Guava?
+    - Can you tell me what you can do to control anthracnose in Guava?
+    - How do I remove anthracnose from Guava?
+    - Tell me the best way to get anthracnose out of guava?
+
+- intent: faq-hort-guava-b0/information-regarding-control-of-aphids-in-guava
+  examples: |
+    - information regarding control of aphids in guava?
+    - How can I control aphids in guava?
+    - How do I get information regarding aphids in the Guava?
+    - What is the best way to reduce aphids in guava?
+    - How can we remove aphids from guava?
+    - What is the information regarding control of aphids in guava?
+    - What are some ways to get rid of aphids in guava?
+    - how can I deal with aphids in guava?
+    - What are the ways to stop aphids from spread in Guava?
+    - How can we get rid of aphids in guava?
+    - is it possible to get rid of aphids in guava 
+    - is there any way to get rid of aphids in guava 
+    - What does it take to control aphids in guava?
+    - Are there any data regarding the control of aphids in the guava?
+    - recommend some ways to control aphids in guava?
+    - How do I control an aphid infestation in guava?
+    - How do you stop aphids from catching in guava?
+    - list some ways to stop aphids from spread in guava 
+    - How can I stop aphids from spreading in Guava?
+    - can you list the best ways to stop aphids from spreading in Guava?
+    - What should I do to stop aphids from spreading in guava?
+    - Is it possible to get rid of aphids in guava ?
+    - Tell me the best way to deal with aphids in guava?
+
+- intent: faq-hort-guava-b0/information-regarding-for-the-mealybug-in-guava
+  examples: |
+    - information regarding for the mealybug in guava?
+    - Can you describe the mealybug in Guava?
+    - tell me how to deal with mealybug in guava
+    - information regarding control of mealybug in guava?
+    - any details related how to get rid of mealybug in guava
+    - Is there way to remove mealybug from Guava?
+    - tell me how can i prevent guava from mealybug
+    - what are the methods to get rid of mealybug in guava 
+    - Is there information about the mealybug in guava?
+    - Do you know where you get the information about the mealybug in guava?
+    - Can you give me some information about the mealybug in Guava?
+    - show me the way to avoid mealybugs in guava.
+    - can you tell me how to deal with mealybug in grapes?
+    - show me the best way to get rid of mealybugs in guava.
+    - recommend some great ways to get rid of a mealybug in a short time?
+    - Tell me the easiest and least invasive way to get rid of mealybug in guava?
+    - What are various ways to get rid of mealybugs in guava ?    
+
+- intent: faq-hort-guava-b0/how-to-control-of-zinc-deficiency-in-guava
+  examples: |
+    - information regarding control of zinc defciency in guava 
+    - how to control of zinc deficiency in guava?
+    - What are ways to get rid of zinc defi in guava?
+    - How do I deal with zinc deficiency of guava?
+    - How can you get rid of the zinc defi in guava?
+    - How do you remove zinc defi from guava?
+    - info regarding how to control zinc deficiency in guava
+    - How can you control zinc deficiency in guava?
+    - How do I completely remove zinc deficiency in guava?
+    - any details related how to get deal with zinc defi in guava
+    - is there any way to maintain zinc level in guava 
+    - how can i maintain zinc level in guava 
+    - tell me how to maintain guava's zinc level 
+    - what are ways to maintained the guava's zinc level
+    - Is it possible to get rid of zinc defi in Guava?
+    - Tell me the way to get rid of zinc deficiency from guava?
+    - How do I remove zinc defi from Guava?
+    - Tell me the best way to remove zinc defi from guava?
+    - How can you eliminate zinc in guava?
+    - How do I maintain zinc content in guava?
+    - How can I keep my zinc level in guava ?
+    - How can I reduce the zinc in guava ?
+    - Tell me the best way to correct guava's zinc deficiency?
+    - How do you treat zinc deficiency in guava plant?
+    - How can I eliminate zinc deficiency from guava?
+    - How can I cure zinc deficiency in guava?
+    - Can I improve my zinc balance in guava fruit?    
+
+- intent: faq-hort-guava-b0/information-regarding-control-of-borer-in-guava
+  examples: |
+    - information regarding control of borer in guava?
+    - What is the best possible way to deal with borer in guava?
+    - tell me some ways of controlling borer in guava?
+    - What are the preventative measures against the borer in guava?
+    - how can i get rid of borer in guava?
+    - how can i remove borer guava
+    - is it possible to get rid of borer in Guava?
+    - What are some measures to remove borer in guava?
+    - How can I get rid of borer in guava?
+    - How do I control borer in Guava?
+    - What information should I know about controlling borer in guava?
+    - What's the best way to control the borer in guava?
+    - Have you had any information concerning control of borer in guava?
+    - How to stop borer infestation in guava?
+    - What is best method to deal with borer in guavas?
+    - Is there any way of dealing with borer in guava?
+    - How do you control a borer infestation in guava?
+    - What can be done to treat the borer infestation in guava?
+    - List some preventative measures to protect the borers in Guava?
+    - show the best ways to prevent the borer from eating Guava?
+    - list the easiest ways to get rid of borer in guava?
+    - list some ways to remove borer from guava?
+    - What can I do if I find borer in guava?
+    - What are ways of removing borer in guavas?    
+
+- intent: faq-hort-guava-b0/infomation-regarding-for-the-fertilizer-dose-in-guava
+  examples: |
+    - infomation regarding for the fertilizer dose in guava ?
+    - How much fertilizer should I use in guavas?
+    - What is the dosage of fertilizer in Guavas?
+    - tell me about fertilizer dosage for Guava?
+    - How do I know for sure for fertilizer dose of guava?
+    - How much fertilizer dose is calculated for Guavas?
+    - tell me exact amount of chemical used for guava 
+    - is there any info related to the exact amount of fertiliser used in guava 
+    - in guava crop, tell me it's exact amount of fertiliser 
+    - tell me exact amount of guava's chemical that we use
+    - how much fertilizer will it take in guava plant?
+    - How much fertilizer is used in guava?
+    - Tell me the amount of fertilizer in guavas?
+    - show me the exact amount of fertiliser used in guava ?
+    - Is there any info on the exact amount of fertiliser used in Guava ?
+    - show me the exact quantities of fertiliser used in guava ?
+    - Tell me the exact quantity of fertiliser i need.
+    - Tell me the exact amount of fertilizer you use for Guava crop.
+    - Can you tell me the amount of guava chemical that we use?
+    - Tell me the amount of Guava chemical we used?
+    - Can you tell me the exact amount of Guava's chemical that we use?
+    - What is amount of guava's chemical that we use?    
+
+- intent: faq-hort-guava-b0/information-regarding-for-the-prunning-time-in-guava
+  examples: |
+    - information regarding for the prunning time in guava?
+    - What are the details regarding for prunning time in Guava?
+    - What is the prunning time in Guava?
+    - How can you measure the prunning time of guava guava?
+    - How do I calculate prunning time on Guava ?
+    - How much prunning time is in Guava?
+    - tell me about when guava needs to be pruned
+    - How do I know for the prunning time of guava?
+    - How do I find for prunning time in guava?
+    - when should guava crop be pruned 
+    - tell me the pruned time of guava crop
+    - For guava crops, when is the pruned time?
+    - when do the guava need to be pruned
+    - tell me about when guava needs to be pruned
+    - Information concerning the prunning time in guava?
+    - will there be a timetable for the Prunning time in guava?
+    - Please help us know the time of prunning in the guava?
+    - list the dates for which prunning time was started on the Guava?
+    - How can I know the time of prunning of guava?
+    - When does guava need pruning?
+
+- intent: faq-hort-guava-b0/information-regarding-die-back-in-guava
+  examples: |
+    - information regarding die back in guava?
+    - What is the best way to remove die back in Guava?
+    - tell me about die back from guava?
+    - any details about die back in Guava?
+    - What is the definition of die back on Guava?
+    - tell me in briefly about die back from guava?
+    - can you tell me any info about die back in guava?
+    - any information related to die back in guava?
+    - how can i deal with dieback in my guava crop
+    - what is the best way to get rid of die back in gauve crop
+    - is there any info related to deal with dieback in guava crop
+    - any details about how to get rid of dieback in guava crop
+    - What's the information about die back in guava?
+    - show some information about die back in guava?
+    - Tell me the best way to remove die back in guava?
+    - How can I remove the die back in Guava?
+    - Tell me in a little bit about die back from guava?
+    - How do i deal with dieback in my crop?
+    - How do I get rid of the dieback in my guava crop?
+
+- intent: faq-hort-guava-b0/how-to-control-of-termite-in-guava
+  examples: |
+    - how to control of termite in guava?
+    - tell me how do I get rid of termites in guava?
+    - what are the ways to remove termites on bananas?
+    - How can I control termites in guava?
+    - information regarding treatment for termite in guava?
+    - What is the treatment for termites in Guava?
+    - How is treatment for termites in Guava treated?
+    - What are the treatment options for termites in Guava?
+    - How do I get treatment of termite for Guava?
+    - How can I treat termite infestation in Guava?
+    - How do you treat termites in Guava?
+    - What are the best methods to remove termites from guava?
+    - tell me the ways to deal with termites in guava
+    - How can I control a termite infestation in guava?
+    - list the methods of controlling termite infestation in guava?
+    - Tell me the best way to remove termites in Guava?
+    - please tell me the best way to get rid of termites in guava?
+    - What should I do if I get termites on my guava?
+    - What are treatments available for termites in Guava?
+    - How can I eliminate termites from my house?
+    - What's the best method to remove termites from guava?
+    - Tell me the best way to kill termites from guava?
+    - show some safe methods of removing termites from guava?
+
+- intent: faq-hort-guava-b0/information-regarding-control-of-fruit-rot-in-guava
+  examples: |
+    - information regarding control of fruit rot in guava?
+    - How can we prevent guava from getting rotted
+    - How can I control fruit rot in guava?
+    - tell me how can I deal with fruit rot in Guava?
+    - can I remove fruit rot from my guava?
+    - What is the best way to prevent guava from fruit rot
+    - What is the best technique to kill fruit rot on guava?
+    - Is there anything you can do to control guava's rot?
+    - What is the treatment of fruit rot in guava?
+    - What are some ways to control fruit rot in guava?
+    - How can I control guava rot?
+    - what are the ways to control rotting in guava
+    - is there any methods to deal with rotting in guava 
+    - tell me procedure to follow to get rid of rotting in guava 
+    - how can i control rotting in guava 
+    - Is there a good way to treat fruit rot in guava?
+    - Tell me the best way to control the fruit rot of guavas?
+    - Do you know any information on the control of fruit rot in guava?
+    - Tell me the best way to prevent guava from getting rotted?
+    - How can we avoid guava from fruit rot?
+    - How do I prevent Guava from becoming rotted?
+    - can you list the ways to remove fruit rot from guava?
+    - How to treat fruit rot in guava?
+    - list the treatment of guava fruit rot?
+    - How are fruit rot treated in guava?
+    - Tell me the way to get rid of rotting in guava?
+    - Tell me the treatment I should follow to get rid of fruit rotting in Guava ?    
+
+- intent: faq-hort-guava-b0/control-of-black-spots-in-guava
+  examples: |
+    - information regarding control of black spots in guava  
+    - control of black spots in guava?
+    - How do you control black spots on guava?
+    - is there any way to control black spots on guava
+    - How can you reduce black spots in guava?
+    - What are the control measures for black spots on guava?
+    - How do I deal with black spots on Guava?
+    - What is the best treatment for removing black spots in Guava?
+    - How do I get deal with black spots on guava?
+    - How can I get rid of black spots in guava?
+    - info related control of black spots in guava
+    - How can black spots be removed from guava?
+    - can you list the best ways to remove black spots from Guava?
+    - How can I remove black spots from my Guava?
+    - tell me how do black spots on guava be removed?
+    - What control measures are there for black spots on guava?
+    - Is there any way to eliminate black spots on guava?
+    - list the control measures for black spots on Guava?
+    - Tell me the best treatment for removing black spots from your face?
+    - What's the best treatment for black spots?
+    - How can you get rid of the black spots in guava?
+
+- intent: faq-hort-guava-b0/control-of-fruit-fly-in-the-guava
+  examples: |
+    - control of fruit fly in the guava?
+    - How can I control fruit fly in guava?
+    - tell me how do I deal with fruit fly in Guava plant?
+    - How can you move fruit fly species in Guava?
+    - is there any way to remove the fruit fly in the guava?
+    - How can I get rid of fruit fly from growing on guavas?
+    - What are some ways to get rid of Fruit Fly in guava?
+    - How can I get rid of a fruit fly in guava?
+    - information regarding control of fruit fly in guava
+    - How can i kill fruit fly for Guava?
+    - how can i prevent my guava crop from fruit flies
+    - is there any methods to prevent guava from fruit flies 
+    - what are the prevention measures of guava crop for fruit flies
+    - tell me how can i prevent from fruit flies to harm my guava crop
+    - Tell me the best way to control the fruit fly in the guava?
+    - How are fruit fly in Guavas controlled?
+    - How can I control the fruit flies in guava?
+    - Is it possible to remove the fruit fly from Guava?
+    - Is there a way to remove the fruit fly from a guava?
+    - How can I get rid of Fruit Fly?
+    - Is it possible to get rid of the fruit fly in guava?
+    - How can you get rid of the fruit flies in Guava?
+    - What's a good way to get rid of fruit fly?
+    - How do you kill fruit fly in guava?
+    - How could I kill a Guava's fruit fly?
+    - Tell me the prevention measures of guava fruit for fruit flies
+    - show the preventive measures for fruit flies in guava crop?
+    - Is there any way to prevent guava crop from fruit flies?
+    - list the preventative measures of guava crop for fruit flies
+
+- intent: faq-hort-guava-b0/tell-me-control-fruit-borer-in-guava
+  examples: |
+    - tell me how to control fruit borer in guava
+    - How do I deal with fruit borer of guava ?
+    - Tell me how can i control fruit borer in guava
+    - How can you get rid of fruit borer on a guava?
+    - How can you control fruit borer on Guava trees?
+    - What is the best way to prevent guava from fruit borer?
+    - information regarding control of fruit borer in guava
+    - How do you get rid of a fruit borer in guavas?
+    - tell me how can i stop fruit borer infestation in my guava 
+    - is there any way to deal with fruit borer infestation in guava 
+    - what are some ways to stop fruit borer infestation in guava
+    - Data on the control of the fruit borer in Guava
+    - Is it possible to control Fruit borer of guavas?
+    - How do I deal with fruit borer in guava ?
+    - How can I help my friend control Fruit Borer of Guava?
+    - show the best ways to remove the fruit borer from plants?
+    - How should one eliminate fruit borer infestation in guava?
+    - How do you stop the guava's fruit borer infestation?
+    - tell me how do I stop the fruit borers from attacking the guava ?
+    - How do I remove a fruit borer infestation from Guava?
+    - How do you combat fruit borer in guava groves?
+    - is there any way to reduce fruit borer in Guavas?
+    - How do I control fruit borer infestation in guavas?
+
+- intent: faq-hort-guava-b0/information-regarding-control-of-shoot-borer
+  examples: |
+    - information regarding control of shoot borer in guava ?
+    - What is the best way to get rid of shoot borers in guava ?
+    - How to control shot borers in guava ?
+    - How do I deal with shoot borer in guava?
+    - What is the best method of control of shoot borers in guava?
+    - How do I kill a shoot borer in guava?
+    - What's the best way to prevent guava from shoot borer?
+    - How can you get rid of shoot borer in guava?
+    - What are the steps to remove shoot borers in guava?
+    - tell me the best way to control shoot borer in guava 
+    - is there any best way to get rid of shoot borer in guava 
+    - in guava crop, tell me the best way to deal with shoot borer 
+    - How can I control shoot borer of Guava ?
+    - What's the treatment to reduce the shoot borer in guava?
+    - can I get rid of shoot borers from guava?
+    - tell me please how should I remove shoot borers from guava?
+    - Is it possible to eliminate shoot borers from guava?
+    - list the best ways to remove shoot borers in Guava?
+    - How do I remove shoot borers from my guava?
+    - show the proper ways of removing shoot borers from guava?
+    - How can I get rid of shoot borers in guava?
+    - What should I do to get rid of shoot borers in guava tahoe?
+    - How do we control shoot Borers in Guava?
+
+- intent: faq-hort-guava-b0/information-regarding-sowing-time-of-guava
+  examples: |
+    - information regarding sowing time of guava?
+    - How long till Guava will be ready to sow?
+    - How do I calculate sowing time for guava?
+    - tell me how do I know about the guava sowing time 
+    - What is the best time to sow Guava seed?
+    - information regarding the planting time of guava ?
+    - What is the planting time of Guava?
+    - How is the planting of Guava gonna be?
+    - tell me the sown time of guava crop
+    - when should guava crops be sown 
+    - is there any info related to sowing of guava crop
+    - Are there any information regarding the timing of sowing of guava?
+    - Is there any information regarding the sowing time of guava?
+    - How long does it take for guava to be planted?
+    - How long until guava will be ready to sow?
+    - Tell me the sown time of the guava crop.
+    - show some planting time of guava ?
+    - Is there any information related to plantation time of guava plant 
+
+- intent: faq-hort-guava-b0/information-regarding-weed-control-in-guava
+  examples: |
+    - information regarding weed control in guava?
+    - How can I control weed in guava?
+    - What are the information regarding to deal with weed in guava?
+    - What are the best weed control practices with guava?
+    - How can I get rid of weeds in guava?
+    - How do I deal with of weed in guava?
+    - What should be done to remove weed in guava?
+    - Is there any way to remove weed for guava?
+    - tell me how to reduce weed in guava crop
+    - is there any way to manage weed in guava crop
+    - how can i manage weed in guava crop
+    - How can we control weed from the plant?
+    - Tell me the best way to control weeds in guava?
+    - list the best ways to control the weeds in guava?
+    - Tell me how do I control weeds in guava groves?
+    - Can you tell me how to reduce weed in guava crop weeds?
+    - Is there any way to eliminate weed in guava plant?
+    - Tell me how to reduce weed in guava crop?
+    - Can you help me with the treatment of weed in guava crop?
+    - How can I kill weeds from  guava ?
+    - How do I deal with weed in guava?
+    - How do you control the presence of weed in Guava?
+    - What to do if weed was in guava?
+    - How do I control weeds on guava plants weeds?
+    - Tell me the best way to control weed in grapes?
+    - How can I manage to reduce the weeds in my guava crop?
+
+- intent: faq-hort-guava-b0/information-regarding-the-deficiency-of-boron-in-guava
+  examples: |
+    - information regarding the deficiency of boron in guava?
+    - how we can reduce boron deficiency in guava
+    - tell me the way to deal with boron deficiency in guava
+    - how do we get rid of boron defi in Guava
+    - how we can remove boron defi in guava
+    - tell me about the deficiency of boron in guava?
+    - is there any technique to control boron defi in guava
+    - how can i manage boron levels in guava crop
+    - is there any method to manage the boron level in guava 
+    - in guava crop, tell me how can i manage boron level 
+    - management of boron levels in guava crop
+    - How we can reduce the boron deficiency in guava ?
+    - tell me how can you handle boron defi in guava?
+    - Is there any way to manage the levels of boron in the guava ?
+    - how to manage the boron concentration in guava ?
+    - Is there any method to control the concentration of boron in the Guava ?
+    - Tell me the best way to manage the boron level in Guava ?
+    - How can I control the level of boron in Guava ?
+
+- intent: faq-hort-guava-b0/information-regarding-the-control-of-damping-off-in-guava
+  examples: |
+    - information regarding the control of damping off in guava ?
+    - How can I control damping off in Guava?
+    - What is the control of damping off in guava?
+    - Is there a solution for damping off in guava?
+    - What is the control of damping off in Guava?
+    - What is the removal technique of damping off of guava?
+    - What are the tips for controlling the damping off of guava?
+    - How do you get rid of the damping off in Guava plant?
+    - How do we deal with damping in guava?
+    - Is there any method to get rid for damping off in guava?
+    - Can you list the good and effective way to control damping off in guava?
+    - Please provide me some information about the control of damping off in guava?
+    - Is there any good information for controlling damping in the guava 
+    - How can you control the damping in guava?
+    - How can I reduce the damping from Guava?
+    - Is there any solution for damping off in Guava?
+    - Tell me the best way to damping off guava?
+    - How do I get rid of the damping off in Guava ?
+    - How do you handle guava damping off in a guava?
+    - How do we deal with the damping off in guava?
+
+- intent: faq-hort-guava-b0/information-regarding-sundi-in-guava
+  examples: |
+    - information regarding sundi in guava?
+    - What are the best sources to remove sundi in Guava?
+    - Is there any information about guava's sundi?
+    - tell me how to get rid of sundi in guava 
+    - is there any way to get deal with sundi in guava 
+    - how can i get rid of sundi in guava 
+    - tell me how to deal with sundi in guava 
+    - what's the procedure to be followed to remove sundi in guava 
+    - Which is the best way to remove guava's sundi?
+    - Is there any good source to remove sundi from Guava?
+    - can you list the best sources for removing sundi in guava?
+    - can you list the best ways to remove sundi in Guava?
+    - Tell me the best way to get rid of sundi in guava ?
+    - Can you tell me how to get rid of sundi in guava ?
+    - show the proper manner of doing sundi extraction from guava ?
+    - How do I remove sundi from guava?
+    - list the methods used to remove sundi from guava?
+    - tell me the procedure to take out sundi in guava kebabs?
+    - What procedures are available to remove sundi from guava chutney?
+    - show the steps to remove sundi from Guava guava jack?
+    - What's the procedure to remove sundi guavas?
+    - What procedure is required to remove sundi from guavas?
+
+- intent: faq-hort-guava-b0/information-regarding-of-iron-deficiency-of-guava
+  examples: |
+    - information regarding of iron deficiency of guava?
+    - What can I do to make sure that my guava is not iron deficient?
+    - Is there any information regarding the iron deficiency of guava?
+    - What about iron deficiency of guava?
+    - tell me the solution of low iron in guava 
+    - is there any solution of low iron in guava 
+    - what is the solution of low iron in guava 
+    - tell me the to control iron deficiency in guava 
+    - what can we do to control the iron deficiency in guava 
+    - Can you give me more information regarding the iron deficiency of guava?
+    - How can I keep my guavas from getting deficient in iron?
+    - How can I make sure that my guava is not iron deficient?
+    - How can I keep my guavas free from iron deficiency?
+    - Is there any solution for low iron in guava ?
+    - Tell me the solution of low iron in guava
+    - What should I do to prevent iron deficiency in Guava ?
+    - How do you deal with iron deficiency in guava ?
+    - How can I control iron deficiency in grapes?
+    - Tell me the solution of low iron in guava ?
+    - show me the solution of low iron in guava ?
+
+- intent: faq-hort-guava-b0/how-to-control-yellowing-in-guava-plant
+  examples: |
+    - information regarding control of yellowing in guava
+    - how to control yellowing in guava plant?
+    - How do I get rid of yellowing of guava tree?
+    - what are the best ways to deal with yellowing on guava plants?
+    - What is the best method for yellowing of guava plants?
+    - How to prevent yellowing of guava plant?
+    - How do I stop yellowing in guava
+    - How do I get rid of the yellowing of guava ?
+    - what are the methods to reduce yellowing in Guava trees?
+    - How can you remove yellowing in guava plant?
+    - tell me the ways to reduce yellowing in Guava?
+    - More information regarding the control of yellowing in guava.
+    - How do I control the yellowing of the guava ?
+    - Tell me the best way to control yellowing on guava ?
+    - How to reduce yellowing in guava ?
+    - How can I control yellowing in guava plant?
+    - How do I avoid yellowing in guava seed?
+    - tell me how do I get rid of yellowing from guava?
+    - How can I get rid of guava yellowing?
+    - show some ways to stop yellowing in guava?
+    - How can you reduce yellowing of Guava?
+    - Tell me the fastest way to reduce yellowing of guava?
+    - Can you tell me the best way to reduce the yellowing of Guava?
+    - What is good way to reduce yellowing of Guava?
+    - show the ways to reduce yellowing in guava?
+    - Can you tell me how to reduce the yellowing in Guava?
+    - What can you do to reduce the yellowing in guava tree?
+
+- intent: faq-hort-guava-b0/information-regarding-plant-growth-of-guava
+  examples: |
+    - information regarding plant growth of guava?
+    - Can we know about plant growth of guava?
+    - What are the plant growth characteristics of guava?
+    - What are the tips to the better growth of guava?
+    - What are the best tips to grow guava better?
+    - How can I find out about the plant growth of guava?
+    - tell me the best information about the plant growth of guava?
+    - could you please tell me info regarding plant growth of guavas?
+    - tell me how can i ensure better growth in guava 
+    - is there any way to ensure that my guava growth is better 
+    - what are the ways to ensure better growth in guava 
+    - list the growth characteristics of guava?
+    - show the plant growth characteristics of guava?
+    - Tell me the best way to grow guava better?
+    - How can you grow Guavas better?
+    - show the best ways to grow guava better
+    - recommend some tips on growing guava best?
+    - How can I grow guava more easily and naturally?
+    - Tell me how I can improve growth of guava plants
+    - How can I enhance our guava plant?
+    - Can you list the ways to increase the growth of guava?
+    - tell me how can I promote better growth of guava
+    - How can I improve the growth of Guava ?
+    - recommend some ways to increase guava growth
+
+- intent: faq-hort-guava-b0/information-regarding-about-manures-in-guava
+  examples: |
+    - information regarding about manures in guava?
+    - What are some best information regarding manures in Guava?
+    - Information related to manures in guava?
+    - What are the manures in guava?
+    - amount of manure for my guava crop
+    - info about amount of manure for my guava crop
+    - tell me the right amount of manure required for guava 
+    - is there any right amount of manure required for guava 
+    - how much manure should i use in guava crop
+    - tell me the exact amount of manure in guava crop
+    - Can you list the information about guava manure?
+    - How much manure is there in guava?
+    - I need more info on the amount of manure for my guava .
+    - show me the amount of manure for my guava .
+    - Get info about the amount of manure for my guava
+    - Is there a set amount of manure for my guava ?
+    - How much manure should be used in my guava 
+    - Is there any right amount of manure required for the cultivation of guavas?
+    - Is there adequate manure required in Guava ?
+    - How much manure is required for growing guava 
+    - Tell me the right amount of manure required for guava?
+    - I can't find the exact amount of manure in the guava 
+    - Is it possible to know the exact amount of guava material used in the plant?
+    - How much manure should I use in guava 
+
+- intent: faq-hort-guava-b0/information-regarding-control-of-powdery-mildew-in-guava
+  examples: |
+    - information regarding control of powdery mildew in guava?
+    - How do you stop powdery mildew from affecting guava?
+    - Is there any information regarding powdery mildew control?
+    - How do I kill powdery mildew from Guava?
+    - How can I get rid of powdery mildew in guava?
+    - What are the methods for controlling powdery mildew in guava?
+    - How can we control powdery mildew in guavas?
+    - what are the steps to stop powdery mildew from growing in guava?
+    - How can we prevent powdery mildew in Guavas?
+    - How can I control powdery mildew in guava?
+    - tell me how to get rid of powdery mildew in guava 
+    - Will there be any cure for Powdery mildew in guava?
+    - How do you control powdery mildew in guava?
+    - can you list the methods for controlling powdery mildew in guava?
+    - How can I control powdery mildew in guava ?
+    - How do you eliminate powdery mildew that affects guava?
+    - How do I prevent powdery mildew from affecting guava?
+    - Tell me the best way to get guava's powdery mildew out?
+    - How can you stop powdery mildew from affecting your guava?
+    - list the ways to get rid of powdery mildew on Guava fruit?
+    - Tell me the best method to get rid of guava's powdery mildew?
+    - How can I control powdery mildew in guavas?
+    - recommend some of the best techniques to control powdery mildew in Guava?
+    - What can be done to stop powdery mildew from spreading in guava?
+    - What steps can be taken to stop powdery mildew from growing on guava ?
+    - How do you kill guava's powdery mildew?
+    - What are ways of preventing powdery mildew from guava?
+
+- intent: faq-hort-guava-b0/how-to-control-sucking-pest-in-guava
+  examples: |
+    - information regarding to control sucking pest in guava
+    - how to control sucking pest in guava?
+    - can you get rid of sucking pest in guava?
+    - How to deal with sucking pest in guava?
+    - what are the ways to remove the sucking pest from guava?
+    - How can I get rid of sucking pest in Guava?
+    - How to remove sucking pest from guava?
+    - How do you control sucking pests in guava?
+    - What are the best ways to kill sucking pests in guava?
+    - How can I control sucking pests in guava?
+    - What is the best way to control sucking pest in Guava?
+    - How do we control sucking insect in guava ?
+    - list the best ways to control sucking pest in the guava .
+    - How can I remove the insect in guava .
+    - More information regarding controlling sucking pest in guava groves.
+    - How do you get rid of sucking pests in guava?
+    - list some ways to kill the sucking pests from guavas?
+    - can you list the best ways to kill an sucking pest from guava?
+    - What should I do to remove sucking pests from guava?
+    - Tell me the best method to remove sucking insects from guava?
+    - How do I get rid of a sucking bug in guava?
+    - is it possible to deal with sucking insects in guava?

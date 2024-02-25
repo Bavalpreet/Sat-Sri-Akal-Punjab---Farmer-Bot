@@ -1,0 +1,92 @@
+version: "3.0"
+
+intents:
+  - faq-agri-rice-b0-pun
+
+responses:
+  utter_faq-agri-rice-b0-pun/information-regarding-phosphorus-deficincy-in-rice?:
+  - text: ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਫਾਸਫੋਰਸ ਦੀ ਘਾਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ 1 ਕਿਲੋਗ੍ਰਾਮ ਪਾਊਡਰ NPK (0:52:34) ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ (10 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ) ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-potassium-deficiency-in-paddy-crop:
+  - text: ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਪੋਟਾਸ਼ੀਅਮ ਦੀ ਘਾਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ 1KG ਪਾਊਡਰ NPK (0:52:34) ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ (@10 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ) ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-weed-control-in-paddy:
+  - text: ਬਾਸਮਤੀ ਜਾਂ ਝੋਨੇ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ ਨੋਮੀਨੀ ਗੋਲਡ/ਮਾਚੋ (ਬਿਸਪਾਈਰੀਬੈਕ-ਸੋਡੀਅਮ 10% ਐਸ.ਸੀ.) 100 ਮਿਲੀਲੀਟਰ 150 ਲੀਟਰ/ਏਕੜ (0.66 ਮਿਲੀਲੀਟਰ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ) ਪਾਣੀ ਵਿੱਚ 20 ਦਿਨਾਂ ਬਾਅਦ ਛਿੜਕਾਅ ਕਰੋ। ਮਿੱਟੀ ਦੀ ਕਿਸਮ ਅਨੁਸਾਰ 2-3 ਦਿਨਾਂ ਬਾਅਦ ਸਿੰਚਾਈ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/infprmation-regarding-control-blb-in-rice-crops-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਬੀਐਲਬੀ ਦੀ ਰੋਕਥਾਮ ਲਈ ਐਮੀਸਟਾਰ ਟੌਪ 200 ਮਿਲੀਲੀਟਰ ਜਾਂ 80 ਗ੍ਰਾਮ ਨਾਟੀਵੋ ਜਾਂ 200 ਮਿਲੀਲਿਟਰ ਟਿਲਟ ਜਾਂ 200 ਮਿਲੀਲੀਟਰ ਫੋਲੀਕਿਊਰ ਜਾਂ ਲੁਸਚਰ @320 ਮਿਲੀਲੀਟਰ ਜਾਂ ਮੋਨੋਸੇਰੇਨ @200 ਮਿਲੀਲੀਟਰ ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-to-boron-deficiency-in-paddy-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਬੋਰਾਨ ਦੀ ਘਾਟ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ 200 ਗ੍ਰਾਮ ਬੋਰੈਕਸ (ਸੋਡੀਅਮ ਬੋਰੇਟ) ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-fungicide-for-paddy--root-rot-?:
+  - text: ਬਾਸਮਤੀ ਵਿੱਚ ਜੜ੍ਹਾਂ ਦੀ ਸੜਨ ਦੀ ਬਿਮਾਰੀ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ, ਬੀਜ ਅਤੇ ਬੀਜ ਦਾ ਇਲਾਜ ਲਾਜ਼ਮੀ ਹੈ। ਬਿਜਾਈ ਤੋਂ ਤੁਰੰਤ ਪਹਿਲਾਂ ਟ੍ਰਾਈਕੋਡਰਮਾ ਹਰਜ਼ੀਅਨਮ @ 15 ਗ੍ਰਾਮ/ਕਿਲੋ ਬੀਜ ਦੇ ਟੈਲਕ ਫਾਰਮੂਲੇਸ਼ਨ ਨਾਲ ਬੀਜ ਨੂੰ ਛਿੜਕਾਅ ਕਰੋ ਅਤੇ ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ ਟੀ. ਹਰਜ਼ਿਆਨਮ @ 15 ਗ੍ਰਾਮ/ਲੀਟਰ ਪਾਣੀ ਨਾਲ 6 ਘੰਟੇ ਲਈ ਬੀਜ ਦੀ ਜੜ੍ਹ ਡੁਬੋ ਦਿਓ। ਟਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਬਾਅਦ ਪ੍ਰਤੀ ਏਕੜ 2 ਕਿਲੋ ਟ੍ਰਾਈਕੋਡਰਮਾ ਹਰਜ਼ੀਅਨਮ ਪ੍ਰਸਾਰਿਤ ਕਰੋ। 100kg FYM ਨਾਲ .ਜੇ ਉਪਲਬਧ ਨਾ ਹੋਵੇ ਤਾਂ ਇਸਨੂੰ ਔਨਲਾਈਨ ਤੋਂ ਖਰੀਦੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy?:
+  - text: ਪ੍ਰਸਾਰਣ 2 lt. ਕਲੋਰਪਾਈਰੀਫੋਸ 20EC ਨੂੰ 2 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾ ਕੇ 30 ਕਿਲੋ ਸੁੱਕੀ ਰੇਤ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਖੜ੍ਹੇ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾ ਦਿਓ।
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-stem-rot-in-paddy?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਸਟੈਮ ਸੜਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰੋ ਪ੍ਰਭਾਵਿਤ ਫਸਲ ਨੂੰ 200 ਮਿਲੀਲੀਟਰ ਅਮਿਸਟਰ ਟਾਪ 325 ਐਸਸੀ (ਐਜ਼ੋਕਸੀਸਟ੍ਰੋਬਿਨ + ਡਾਇਫੇਨਕੋਨਾਜ਼ੋਲ) ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਬੂਟ ਅਤੇ ਕੰਨਾਂ ਦੇ ਉੱਗਣ ਦੇ ਪੜਾਅ 'ਤੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/how-to-control-root-caterpilar-in-paddy-crop-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਕੈਟਰਪਿਲਰ ਦੀ ਰੋਕਥਾਮ ਲਈ 1 ਲੀਟਰ ਕਲੋਰਪਾਈਰੀਫਾਸ 20 ਈਸੀ 15-20 ਕਿਲੋ ਰੇਤ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਪਾਓ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-larvae-in-paddy-roots-?:
+  - text: ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਕਾਰਬੋਫਿਊਰਾਨ 7-10 ਕਿਲੋ ਪ੍ਰਤੀ ਏਕੜ ਪਾਓ
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-leaf-folder-in-basmati-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਪੱਤਾ ਫੋਲਡਰ ਦੀ ਰੋਕਥਾਮ ਲਈ ਏਕਲਕਸ 800 ਮਿਲੀਲਿਟਰ (ਕੁਇਨਲਫੋਸ 25% ਈਸੀ) ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-leaf-folder-when-there-are-15-days-left-for-harvesting-?:
+  - text: ਵਾਢੀ ਲਈ 15 ਦਿਨ ਬਾਕੀ ਹੋਣ 'ਤੇ ਇਸ ਪੜਾਅ 'ਤੇ ਕਿਸੇ ਕੀਟਨਾਸ਼ਕ ਦਾ ਛਿੜਕਾਅ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ
+  utter_faq-agri-rice-b0-pun/spray-for-the-control-of-grasshopper-in-rice:
+  - text: ਝੋਨੇ ਵਿੱਚ ਟਿੱਡੀ ਦੀ ਰੋਕਥਾਮ ਲਈ, 120 ਜੀਐਮ ਸ਼ਤਰੰਜ (ਪਾਈਮੇਟਰੋਜ਼ੀਨ 50 ਡਬਲਯੂਜੀ) ਜਾਂ 40 ਮਿਲੀਲਿਟਰ ਕਨਫੀਡੋਰ (ਇਮੀਡਾਕਲੋਪ੍ਰਿਡ 200 ਐਸਐਲ (17.8% ਡਬਲਯੂ/ਡਬਲਯੂ) ਜਾਂ ਏਕਲਕਸ 800 ਮਿਲੀਲੀਟਰ (ਕੁਇਨਲਫੋਸ 25% ਲੀਟਰ ਈਸੀ 1001 ਲਿਟਰ ਈਸੀ 1000 ਈਸੀ) ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ। ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ
+  utter_faq-agri-rice-b0-pun/information-regarding-dose-furadan-in-rice?:
+  - text: ਚੌਲਾਂ ਵਿੱਚ ਫੁਰਾਦਾਨ ਦੀ ਖੁਰਾਕ 5 ਕਿਲੋ/ਏਕੜ।
+  utter_faq-agri-rice-b0-pun/information-regarding-dose-of-zinc--in-rice:
+  - text: ਝੋਨੇ ਵਿੱਚ ਜ਼ਿੰਕ ਦੀ ਕਮੀ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ 1 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ (21%) ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information--regarding-dying-of-plants-of-paddy?:
+  - text: ਖੇਤ ਦਾ ਸਹੀ ਸਰਵੇਖਣ ਕਰੋ ਅਤੇ ਕਿਸੇ ਵੀ ਕੀਟਨਾਸ਼ਕ ਦੇ ਛਿੜਕਾਅ ਤੋਂ ਪਹਿਲਾਂ ਬਿਮਾਰੀ ਨੂੰ ਯਕੀਨੀ ਬਣਾਓ ਅਤੇ ਬਿਮਾਰੀ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਨੇੜੇ ਦੇ ਖੇਤੀਬਾੜੀ ਦਫ਼ਤਰ ਵਿੱਚ ਜਾ ਕੇ ਜਾਂਚ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding--paddy--damaged-in-flood-?:
+  - text: ਹੜ੍ਹ 'ਚ ਨੁਕਸਾਨੇ ਗਏ ਝੋਨੇ 'ਤੇ ਕੋਈ ਚੀਜ਼ ਲਗਾਉਣ ਦੀ ਲੋੜ ਨਹੀਂ
+  utter_faq-agri-rice-b0-pun/dose-of-acephate-use-in-paddy-crop-?:
+  - text: ਐਸੀਫੇਟ 75% sp @ 1.5 ਗ੍ਰਾਮ/ਲੀਟਰ ਪਾਣੀ
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-termite-in-rice-crop:
+  - text: o ਝੋਨੇ ਵਿੱਚ ਦੀਮਕ ਦਾ ਨਿਯੰਤਰਣ 25 ਤੋਂ 30 ਕਿਲੋ ਰੇਤ ਦੇ ਨਾਲ ਕਲੋਰਪਾਈਰੀਫਾਸ 20 ਈਸੀ @ 1 ਲੀਟਰ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ ਪਾਓ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-control-of-sheath-blight-in-rice?:
+  - text: ਬਾਸਮਤੀ ਵਿੱਚ ਝੁਲਸ ਰੋਗ ਦੇ ਨਿਯੰਤਰਣ ਲਈ 200 ਮਿਲੀਲੀਟਰ ਅਮਿਸਟਰ ਟਾਪ 325 ਐਸਸੀ (ਅਜ਼ੋਕਸੀਸਟ੍ਰੋਬਿਨ+ਡਾਈਫੇਨੋਕੋਨਾਜ਼ੋਲ) ਜਾਂ 80 ਗ੍ਰਾਮ ਨਟੀਵੋ 75 ਡਬਲਯੂਜੀ (ਟੇਬਿਊਕੋਨਾਜ਼ੋਲ+ਟ੍ਰਾਈਫਲੋਕਸੀਸਟ੍ਰੋਬਿਨ) ਜਾਂ 200 ਮਿਲੀਲੀਟਰ ਫੋਲੀਕੁਰ/ਓਰੀਅਸ 25 ਈਸੀ (ਟੇਬੁਕੋਨਜ਼ੋਲ 250 ਮਿ.ਲੀ. 200 ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-false-smut-in-rice?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਝੂਠੀ ਸੁੰਡੀ ਦੀ ਰੋਕਥਾਮ ਲਈ 500 ਗ੍ਰਾਮ ਕੋਸਾਈਡ (ਕਾਪਰ ਹਾਈਡ੍ਰੋਕਸਾਈਡ) 46 ਡੀਐਫ ਜਾਂ 200 ਮਿਲੀਲਿਟਰ ਟਿਲਟ/ਬੰਪਰ 25 ਈਸੀ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ) ਨੂੰ 200 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-kernel-smut-in-rice-crop?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਕਰਨਲ ਸਮਟ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਟਿਲਟ 25 ਈ ਸੀ @ 200 ਐਮ ਐਲ 200 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-for-the-control-fungus-in-basmati-?:
+  - text: ਐਮੀਸਟਾਰ ਟਾਪ 200 ਮਿਲੀਲੀਟਰ ਜਾਂ ਨੈਟੀਵੋ 80 ਗ੍ਰਾਮ 200 ਲੀਟਰ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-agri-rice-b0-pun/information-regarding-the-control-of-fungal-disease-in-basmati?:
+  - text: ਬਾਸਮਤੀ ਵਿੱਚ ਉੱਲੀ ਦੀ ਬਿਮਾਰੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ 200 ਮਿਲੀਲੀਟਰ ਅਮਿਸਟਰ ਟਾਪ 325 ਐਸਸੀ (ਐਜ਼ੌਕਸੀਸਟ੍ਰੋਬਿਨ+ਡਾਈਫੇਨੋਕੋਨਾਜ਼ੋਲ) ਜਾਂ 80 ਗ੍ਰਾਮ ਨਟੀਵੋ 75 ਡਬਲਯੂਜੀ (ਟੇਬਿਊਕੋਨਾਜ਼ੋਲ+ਟ੍ਰਾਈਫਲੋਕਸੀਸਟ੍ਰੋਬਿਨ) ਜਾਂ 200 ਮਿਲੀਲੀਟਰ ਫੋਲੀਕੁਰ/ਓਰੀਅਸ 25 ਈਸੀ (ਟੇਬੂਕੋਨਾਜ਼ੋਲ 500ਪੀ. 200 ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-reddish-in-paddy?:
+  - text: 1 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-ferrous-deficiency-in-paddy?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਆਇਰਨ ਦੀ ਕਮੀ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ 1 ਕਿਲੋ ਫੈਰਸ ਸਲਫੇਟ (19%) ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-for-the-control-of-anthrachnose-disease-in-rice-crop?:
+  - text: ਚੌਲਾਂ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਐਂਥ੍ਰੈਕਨੋਜ਼ ਦੀ ਬਿਮਾਰੀ ਦਾ ਨਿਯੰਤਰਣ, ਪੀਐਲਐਸ ਸਪਰੇਅ 500 ਗ੍ਰਾਮ SAAF (ਕਾਰਬੈਂਡਾਜ਼ਿਮ 12% + ਮੈਨਕੋਜ਼ੇਬੀ63% ਡਬਲਯੂਪੀ) /ਏਕੜ।
+  utter_faq-agri-rice-b0-pun/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy?:
+  - text: ਕਿਸੇ ਵੀ ਰਸਾਇਣ ਦਾ ਛਿੜਕਾਅ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਸਵੇਰੇ ਜਾਂ ਸ਼ਾਮ ਨੂੰ ਝੋਨੇ ਦੇ ਪੱਤਿਆਂ 'ਤੇ ਘੱਟ ਤ੍ਰੇਲ ਪੈਣ 'ਤੇ ਹੈ।
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-sulphur-deficiency-in-paddy?:
+  - text: 1 ਏਕੜ ਰਕਬੇ ਵਿੱਚ 75 ਕਿਲੋ ਸੁਪਰ ਫਾਸਫੇਟ ਦੀ ਵਰਤੋਂ ਕਰੋ
+  utter_faq-agri-rice-b0-pun/information-regarding-dose-of-urea-for-basmati-rice?:
+  - text: ਬਿਜਾਈ ਤੋਂ 4, 6 9 ਹਫ਼ਤਿਆਂ ਬਾਅਦ ਕੁੱਲ ਯੂਰੀਆ ਤਿੰਨ ਬਰਾਬਰ ਹਿੱਸਿਆਂ ਵਿੱਚ 130 ਕਿਲੋ ਲੋੜੀਂਦਾ ਹੈ।
+  utter_faq-agri-rice-b0-pun/information-regrading-to-control-of-broadleaf-weeds-in-rice?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ 30 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ ਐਲਗ੍ਰਿਪ 20 ਡਬਲਯੂਜੀ (ਮੈਟਸਲਫੂਰੋਨ*) ਜਾਂ 50 ਗ੍ਰਾਮ ਸਨਰਾਈਸ 15 ਡਬਲਯੂਜੀ (ਐਥੋਕਸੀਸਲਫੂਰੋਨ) ਜਾਂ 40 ਗ੍ਰਾਮ ਲੌਂਡੇਕਸ 60 ਡੀਐਫ (ਬੈਨਸਲਫੂਰੋਨ ਮਿਥਾਈਲ) ਜਾਂ 16 ਗ੍ਰਾਮ ਖੰਡ 50 ਡੀਐਫ (50 ਡੀਐਫ*01 ਲਿਟਰ) ਦੀ ਸਪਰੇਅ ਕਰੋ। ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ 20 ਦਿਨਾਂ ਬਾਅਦ ਪਾਣੀ ਦਿਓ।
+  utter_faq-agri-rice-b0-pun/how-to-control-stem-borer-in-paddy-crop-?:
+  - text: ਝੋਨੇ (ਝੋਨਾ) ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਚੌਲਾਂ ਦੀ ਪਰਾਲੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, PLS 5 ਕਿਲੋ ਕਾਰਟਾਪ ਹਾਈਡ੍ਰੋਕਲੋਰਾਈਡ (ਪੈਡਨ) ਜਾਂ 4 ਕਿਲੋ ਕਲੋਰੈਂਟਰਾਨੀਲੀਪ੍ਰੋਲ (ਫਾਰਟੇਰਾ) ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਲਾਗੂ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-which-spray--should-be-done-at-booting-stage-in-paddy-?:
+  - text: ਐਮੀਸਟਾਰ ਟੌਪ 200 ਮਿ.ਲੀ. ਅਤੇ ਨੈਟੀਵੋ 80 ਗ੍ਰਾਮ ਬੂਟਿੰਗ ਜਾਂ ਪੈਨਿਕਲ ਸ਼ੁਰੂਆਤੀ ਪੜਾਅ 'ਤੇ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ।
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-army-worm-in-paddy?:
+  - text: ਸਪਰੇਅ 400 ਮਿ.ਲੀ. Ekalux 25EC 100 ਲਿ. ਸ਼ਾਮ ਨੂੰ ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-black-bug-in-paddy-?:
+  - text: 1 ਲਿਟਰ ਕਲੋਰੋਪਾਈਰੀਫਾਸ ਜਾਂ 20 ਮਿਲੀਲਿਟਰ ਫੇਮ ਜਾਂ 170 ਗ੍ਰਾਮ ਮੋਰਟਾਰ ਨੂੰ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਇੱਕ ਏਕੜ ਰਕਬੇ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-nematode-in-basmati-rice?:
+  - text: ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਨਿਮਾਟੋਡ ਦੀ ਰੋਕਥਾਮ ਲਈ ਫੁਰਾਡਾਨ (ਕਾਰਬੋਫਿਊਰਾਨ) 8-10 ਕਿਲੋ ਪ੍ਰਤੀ ਏਕੜ ਰੇਤ ਵਿੱਚ ਮਿਲਾ ਕੇ ਵਰਤੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-black-spots-on-grains-in-paddy-rice?:
+  - text: ਸਪਰੇਅ 200 ਮਿ.ਲੀ. 200 ਲਿ. ਵਿੱਚ 25EC ਝੁਕਾਓ। ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ।
+  utter_faq-agri-rice-b0-pun/how-to-control-thirips-in-paddy-crop-?:
+  - text: 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਐਸੀਫੇਟ 250 ਗ੍ਰਾਮ ਜਾਂ ਐਕਟਰਾ 40 ਮਿਲੀਲੀਟਰ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਪਾਓ।
+  utter_faq-agri-rice-b0-pun/how-to-control-of-plant-hoper-in-paddy-crop?:
+  - text: 120 ਗ੍ਰਾਮ ਸ਼ਤਰੰਜ 50 ਡਬਲਯੂਜੀ (ਪਾਈਮੇਟਰੋਜ਼ੀਨ) ਜਾਂ 40 ਮਿਲੀਲੀਟਰ ਕੌਨਫੀਡੋਰ 200 ਐਸਐਲ/ਕਰੋਕੋਡਾਈਲ 17.8 ਐਸਐਲ (ਇਮੀਡਾਕਲੋਪ੍ਰਿਡ) ਜਾਂ 800 ਮਿਲੀਲੀਟਰ ਏਕਲਕਸ/ਕੁਇਨਗਾਰਡ/ਕੁਇਨਲਮਾਸ 25 ਈਸੀ) ਪ੍ਰਤੀ ਕੁਇੰਟਲ 10 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰਕੇ ਬੂਟਿਆਂ ਦੀ ਰੋਕਥਾਮ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।
+  utter_faq-agri-rice-b0-pun/information-regarding-yellow-rust-in-paddy?:
+  - text: ਸਪਰੇਅ - 200 ਮਿਲੀਲਿਟਰ ਟਿਲਟ ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਪਾਓ।
+  utter_faq-agri-rice-b0-pun/information-regarding-for-the-control-of-manganese-deficiency?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ 1 ਕਿਲੋ ਮੈਗਨੀਜ਼ ਸਲਫੇਟ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/how-to-control-bacterial-blight-disease-in-basmati-rice?:
+  - text: ਜਾਂ ਝੋਨੇ ਵਿੱਚ ਬੈਕਟੀਰੀਆ ਦੇ ਬਲਾਈਟ ਨੂੰ ਕੰਟਰੋਲ 500 ਗ੍ਰਾਮ ਬਲਿਟੌਕਸ (ਕਾਪਰ ਆਕਸੀਕਲੋਰਾਈਡ) ਅਤੇ 20 ਗ੍ਰਾਮ ਐਗਰੀਮਾਈਸਿਨ ਜਾਂ 3 ਗ੍ਰਾਮ ਸਟ੍ਰੈਪਟੋਸਾਈਕਲੀਨ ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-for-the-control-of-white-fly-in-paddy-crop:
+  - text: ਕਪਾਹ ਵਿੱਚ ਚਿੱਟੀ ਮੱਖੀ ਦੀ ਸ਼ੁਰੂਆਤੀ ਅਵਸਥਾ ਵਿੱਚ ਰੋਕਥਾਮ ਲਈ 1 ਲੀਟਰ ਨਿੰਬੇਸੀਡੀਨ ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।

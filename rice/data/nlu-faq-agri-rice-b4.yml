@@ -1,0 +1,176 @@
+version: "3.0" 
+nlu: 
+
+- intent: faq-agri-rice-b4/information-regarding-hydroponic-technique
+  examples: |
+    - information regarding hydroponic technique for rice?
+    - What are some useful information regarding hydroponic techniques for paddy?
+    - hydroponic technique for rice?
+    - What are the details on hydroponic technique for paddy?
+    - What are some good things about hydroponics for paddy crop?
+    - tell me about the hydroponic technique for rice crop?
+    - What are some useful information about hydroponic tech to use for rice/paddy crop?
+    - i want to know about the hydroponic technique used in the paddy field
+    - provide me with information related to rice hydroponic technique
+    - how to perform hydroponic technique in paddy fields
+    - tell me the process of hydroponic technique used in rice 
+    - give me some details on hydroponic technique performed in paddy plants
+
+- intent: faq-agri-rice-b4/information-regarding-to-improve-the-drainage-of-water
+  examples: |
+    - information regarding to improve the drainage of water in rice field?
+    - What is necessary to improve drainage of water in paddy fields?
+    - How can we improve drainage of water for the basmati rice field?
+    - What suggestions can you provide to improve drainage of water in rice fields?
+    - How we can improve the drainage of water in paddy fields?
+    - What are the best ways to improve water drainage in rice land?
+    - What are the ways to improve the drainage of water in the rice field area?
+    - tell me the possible ways to improve the water drainage probem in rice field?
+    - how can i improve the drainage capability of rice field soil. 
+    - how can i improve the drainage capability of paddy land soil.
+    - water drainage improvement for rice sown land
+    - how to improve the water drainage in paddy fields
+    - tell me the methods to improve water drainage in rice plants
+    - what steps can be taken to improve water drainage in rice plants
+    - help me with the methods required to improve water drainage in rice plants
+
+- intent: faq-agri-rice-b4/information-regarding-thiamethoxam-25--wg-chemical--is-used-for
+  examples: |
+    - information regarding thiamethoxam 25 wg chemical is used for in rice?
+    - when to use thiamethoxam 25 wg in rice?
+    - in rice for what reason thiamethoxam 25 wg chemical is used for?
+    - for what the thiamethoxam 25 wg chemical used for?
+    - thiamethoxam used for in rice?
+    - What is thiamethoxam 25 wg chemical used for in paddy?
+    - for what use the thiamethoxam 25 chemical used for in rice
+    - about thiamethoxam 25 wg chemical which is used in rice?
+    - thiamethoxamine is used for what reason in rice?
+    - for what reason is thiamethoxam 25 wg used in paddy plants
+    - when should i use thiamethoxam 25 wg in rice fields
+    - for what purpose is thiamethoxam 25 wg used in rice
+    - in paddy plants why do we use thiamethoxam 25 wg
+    - how does thiamethoxam 25 wg help in rice plants
+
+# - intent: faq-agri-rice-b4/information-regarding-technical-names-of-folicur-and-chloro
+#   examples: |
+#     - information regarding technical names of folicur and chloro?
+#     - Which are the technical names of folicur and chloro?
+#     - What are the technical names for folicur and chloro?
+#     - folicur and chloro technical names?
+#     - What are some of the technical names of folicur and chloro?
+#     - What are technical names for folicur and chloro?
+#     - What are some technical names of folicur and chloro?
+#     - technical names of the folicur and chloro?
+#     - tell me the technical names for folicur and chloro?
+#     - the technical names of folicur and chloro?
+#     - please tell me the technical names of folicur and chloro?
+
+- intent: faq-agri-rice-b4/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didnt-sprout
+  examples: |
+    - information regarding paddy seed have been sown for 6 days seed didn't sprout ?
+    - it has been 6 days since paddy seeds were shown but they have not sprout yet?
+    - I have sown paddy seeds 6 days ago but they have not sprout yet.
+    - paddy seed has been sown for 6 days and seed didn't sprout?
+    - After being sown for 6 days what are the reasons why the paddy seeds didn't sprout?
+    - why is the paddy seed which is sown 6 days ago didn't sprout?
+    - Paddy seeds have been sown for 6 days and didn't sprout?
+    - why even after 7 days of sowing paddy seeds have not sprout
+    - paddy seeds planted 6 days ago still no sprout are seen
+
+- intent: faq-agri-rice-b4/information-regarding-paddy-commom-seed-storage-in-home
+  examples: |
+    - information regarding paddy seed storage in home?
+    - Is there any information regarding rice seed storage inside home?
+    - What is the best way to store rice seeds in your home?
+    - how are paddy seeds stored in houses
+    - storing rice seeds in a place like home?
+    - How can I store rice seeds at home?
+    - how to safely store seeds of paddy at home
+    - Can I store paddy seeds in the house?
+    - methods to store rice seeds at home
+    - What is the best way to store seeds of paddy at home?
+    - can you tell me how can i store seeds of paddy at home
+    - what are the methods that can be used to store seeds of paddy at home
+    - tell me the steps that can be taken to store seeds of paddy at home
+    - please tell me the ways to store paddy seeds at home
+    - can you suggest some ways to store paddy seeds at house
+
+- intent: faq-agri-rice-b4/information-regarding-waste-decomposer-use-in-paddy-straw
+  examples: |
+    - information regarding waste decomposer used in paddy straw?
+    - What is the waste decomposer used in paddy straw?
+    - which waste decomposer is used in paddy straw?
+    - how does waste decomposer used in paddy straw?
+    - tell me the use of waste decomposer in paddy straw
+    - what is the method of preparing waste decomposer which is used in rice straw
+    - what is the process followed to create waste decomposer to be used in paddy straw
+    - process followed to prepare the waste decomposer which can be used in paddy straw
+    - how can i use waste decomposer in paddy
+    - what is the method to use waste decomposer in rice
+    - tell me the way to use waste decomposer in rice
+    - how can i use the waste decomposer in paddy
+    - tell me the way to use waste decomposer in rice plants
+
+- intent: faq-agri-rice-b4/information-regarding-the-how-to-remove-the-water-from-paddy-field
+  examples: |
+    - information regarding the how to remove the water from paddy field?
+    - How do you remove water from paddy field?
+    - How do I remove water from the paddy fields?
+    - What are some best ways of removing water from paddy fields?
+    - what to do to take out water from rice fields
+    - tell me the method to remove extra water from rice
+    - inform me regarding the ways to extract water from rice
+    - how can excess water from rice be removed
+    - extra water from rice removal method
+    - what methods can be used to remove extra water from paddy
+    - tell me the way to remove extra water from paddy
+    - can you tell me the best way to remove extra water
+    - how to dry off extra water from paddy fields
+    - is there any method that can be used to dry off paddy field
+    - paddy plants are completely dipped in water how to remove extra water
+    - the rice pants are dipped completely in water how to remove them
+
+- intent: faq-agri-rice-b4/information-regarding-standing-water-in-paddy-field
+  examples: |
+    - information regarding standing water in paddy field?
+    - how does standing water in paddy field affect its growth
+    - how is the growth of paddy affected by standing water
+    - tell me how does standing water affect paddy crop
+    - what is the effect of standing water in paddy field
+    - please tell me the effect of standing water in paddy
+    - in my paddy fields i have standing water is there any effect on the growth
+    - does standing water casue any affect on growth of paddy
+    - can you tell me is there any relation between standing water and growth of paddy
+    - how is standing water realted to the growth of paddy plants
+    - is it true that standing water cause growth retardation in paddy plants
+
+- intent: faq-agri-rice-b4/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water
+  examples: |
+    - information regarding that how many days paddy crop can survive in the water ?
+    - How long can the paddy crop survive in the water?
+    - How many days paddy crop can survive in water?
+    - How many days can a paddy crop survive in excessive water?
+    - for how many days will paddy crop survive in large amount of water
+    - How many days will paddy crops survive in the water?
+    - i want to know the survival chances of paddy in water over a long period of time
+    - can paddy crop survive when completely submerged in water for long period
+    - is it harmfull for paddy plants to stay completely submerged in water
+    - if the paddy plants are completely submerged in water can it survive
+    - what are the chance of paddy surviving staying submerged in water for long period of time
+
+- intent: faq-agri-rice-b4/information-regarding-preventing-the-paddy-field-from-cracks
+  examples: |
+    - information regarding preventing the paddy field from cracks?
+    - How do I prevent the paddy field from cracks?
+    - How can we prevent the paddy field from cracking?
+    - How do I prevent a paddy field from cracking?
+    - How can the paddy field be prevented from cracking?
+    - What are the best ways to prevent paddy fields from cracking?
+    - How do we prevent paddy fields from cracking?
+    - What is the best way to keep the paddy field from cracking?
+    - what can be the prevention of paddy field getting cracks
+    - how to prevent paddy field from cracking
+    - what can i do to make sure paddy fields are not cracking
+    - is it possible to stop the cracking in paddy fields
+    - is there any way to prevent cracking of fields of paddy
+    - can you tell me how can i cure the cracked paddy fields
